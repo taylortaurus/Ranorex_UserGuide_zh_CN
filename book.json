@@ -21,7 +21,6 @@
         "splitter",
         "expandable-chapters-small",
         "anchors",
-
         "github",
         "github-buttons",
         "donate",
@@ -31,7 +30,10 @@
         "-lunr", 
         "-search", 
         "search-plus",
-        "page-footer-ex"
+        "page-footer-ex",
+        "prism", 
+        "-highlight",
+        "prism-themes"
     ],
     "pluginsConfig": {
         "github": {
@@ -92,6 +94,10 @@
             "markdown": true,
             "update_label": "updated:",
             "update_format": "YYYY-MM-DD"
-        }
+        }, "prism": {
+            "css": [
+              "prism-themes/themes/prism-xonokai.css"
+            ]
+          }
     }
 }
