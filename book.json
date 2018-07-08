@@ -88,9 +88,9 @@
         },"theme-default": {
             "showLevel": true
         },"page-footer-ex": {
-            "copyright": "Copyright © ranorex.xyz",
+            "copyright": "© 2018 ranorex.xyz",
             "markdown": true,
-            "update_label": "<i>updated</i>",
+            "update_label": "updated:",
             "update_format": "YYYY-MM-DD"
         }
     }
