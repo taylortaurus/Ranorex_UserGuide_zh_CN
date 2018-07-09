@@ -381,7 +381,7 @@ Ranorex识别子树项目如下：
 最后，为了指定名为“Thomas Bach”的人的年龄的单元格，需要相对单元格规范。
 
 ![B6020-0000300](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000300.png)  
-*相对细胞规格*  
+*相对单元格规范*  
 
 1. 使用单元格的accessname属性“Age”来相对指定识别单元格
 2. 表中行为“Thomas Bach”的年龄为42
