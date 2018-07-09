@@ -23,6 +23,8 @@ bui# Summary
     * [Ranorex Spy](Ranorex Studio advanced/Ranorex Spy/README.md)  
     * [UI元素](Ranorex Studio advanced/UI-elements/README.md)  
     * [RanoreXPath](Ranorex Studio advanced/RanoreXPath/README.md)  
+        * [RanoreXPath 蓝图](Ranorex Studio advanced/RanoreXPath/[译]RanoreXPath蓝图.md)  
+        * [RanoreXPath 语法示例](Ranorex Studio advanced/RanoreXPath/[译]RanoreXPath语法示例.md)  
     * [基于图像的自动化](Ranorex Studio advanced/Image-based automation/README.md) 
     * [Ranorex 远程](Ranorex Studio advanced/Ranorex Remote/README.md)
         * [Ranorex 代理](Ranorex Studio advanced/Ranorex Remote/[译]Ranorex代理.md)
