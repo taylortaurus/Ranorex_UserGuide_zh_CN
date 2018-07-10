@@ -25,7 +25,7 @@ RanoreXPath格式建立在W3C XPath语言格式之上。基本上，RanoreXPath�
 
 本节介绍和解释使用RanoreXPath表示法描述单个UI元素。
 
-![B6010-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6010-0000010.png)    
+![B6010-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6010-0000010.png)    
 *使用RanorexXPath指定一个按钮*  
 
 1. **基本的RanoreXPath元素：** 一个基本的RanoreXPath包含三个元素-一个轴说明符、一个节点、零个或多个谓词来唯一标识和描述UI元素。  
@@ -66,7 +66,7 @@ RanoreXPath格式建立在W3C XPath语言格式之上。基本上，RanoreXPath�
 
 RanoreXPath结构的基本概念是简单地将UI元素描述链接在一起。
 
-![B6010-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6010-0000020.png)  
+![B6010-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6010-0000020.png)  
 *RanoreXPath结构*  
 
 1. **根元素：** 定义当前UI元素树的根，即RanoreXPath格式的开头。
@@ -77,13 +77,13 @@ RanoreXPath结构的基本概念是简单地将UI元素描述链接在一起。
 
 假设前一部分的示例--已在RanoreXPath语法中跟踪和描述了**退出**按钮。
 
-![B6010-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6010-0000030.png)  
+![B6010-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6010-0000030.png)  
 *RanoreXPath示例*  
 
 1. 跟踪演示应用程序的**退出**  
 2. 请参阅Ranorex自动生成的**RanoreXPath**格式  
 
-![B6010-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6010-0000040.png)
+![B6010-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6010-0000040.png)
 *Ranorex Spy中的RanoreXPath示例*  
 
 3. 查看UI元素树浏览器，其中UI元素以树状数据结构组织。
@@ -98,14 +98,14 @@ RanoreXPath结构的基本概念是简单地将UI元素描述链接在一起。
 
 退出按钮的最终RanoreXPath格式如下所示：  
 
-![B6010-0000050](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6010-0000050.png)  
+![B6010-0000050](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6010-0000050.png)  
 *RanoreXPath格式示例结果*  
 
 ## RanoreXPath特性  
 
 有两种主要方法可以使用和应用RanoreXPath格式。  
 
-![B6010-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6010-0000060.png)  
+![B6010-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6010-0000060.png)  
 *RanoreXPath主要应用*  
 
 RanoreXPath描述UI元素的目的可以是识别单个UI元素也可以基于定义的分组特征识别一组UI元素。  
@@ -114,7 +114,7 @@ RanoreXPath描述UI元素的目的可以是识别单个UI元素也可以基于�
 
 独立于应用目的，RanoreXPath格式始终是：  
 
-![B6010-0000070](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6010-0000070.png)  
+![B6010-0000070](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6010-0000070.png)  
 *RanoreXPath原则*  
 
 ### 结果：
@@ -132,7 +132,7 @@ RanoreXPath格式的自动生成试图在细节和灵活性之间找到一个很
 
 ### 示例定义
 
-![B6010-0000080](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6010-0000080.png)  
+![B6010-0000080](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6010-0000080.png)  
 *RanoreXPath健壮性示例定义*  
 
 1. 使用Spy的**Track**功能  
@@ -142,7 +142,7 @@ RanoreXPath格式的自动生成试图在细节和灵活性之间找到一个很
 
 使用RanoreXPath，UI元素树浏览器和路径编辑器的项目树视图查看Ranorex Spy中的跟踪结果。  
 
-![B6010-0000090](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6010-0000090.png)  
+![B6010-0000090](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6010-0000090.png)  
 *RanoreXPath健壮性示例结果*  
 
 1. **RanoreXPath格式：**  
@@ -159,7 +159,7 @@ RanoreXPath格式的自动生成试图在细节和灵活性之间找到一个很
 
 让我们仔细看看自动生成的RanoreXPath格式：
 
-![B6010-0000100](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6010-0000100.png)  
+![B6010-0000100](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6010-0000100.png)  
 *利用通配符使RanoreXPath健壮*  
 
 4. **根元素 `RxMainFrame`:**  
@@ -193,7 +193,7 @@ RanoreXPath规范的灵活性基于通配符。 区分三种不同的通配符�
 
 参考当前示例，让我们看一下通配符实现。
 
-![B6010-0000110](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6010-0000110.png)  
+![B6010-0000110](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6010-0000110.png)  
 *测试示例中通配符的应用*  
 
 1. 可以看到UI元素 `RxTabControl` 被两个 `/?/?` 通配符替代。这就意味着下一个固定的RanoreXPath项目可以直接在UI元素的根级别或是一（1）、二（2）级别下定义，不用再进一步指定级别。

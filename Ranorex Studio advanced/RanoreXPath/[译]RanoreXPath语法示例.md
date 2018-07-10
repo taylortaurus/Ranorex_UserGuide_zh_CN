@@ -14,7 +14,7 @@
 
 所有RanoreXPath解释示例都是使用Ranorex演示应用程序创建的。本文提供的大多数示例都是使用演示应用程序的**UI元素测试区域**完成的。  
 
-![B6020-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000010.png) 
+![B6020-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000010.png) 
 *Ranorex演示应用程序-UI元素测试区域*  
 
 1. Ranorex 演示应用程序的UI元素测试区域  
@@ -32,7 +32,7 @@
 
 本节介绍如何识别用户界面的简单按钮并分析相应的RanoreXPath规范。  
 
-![B6020-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000020.png)  
+![B6020-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000020.png)  
 *简单按钮识别*
 
 1. 有关演示应用程序的 `退出` 按钮，请参阅RanoreXPath规范  
@@ -44,7 +44,7 @@
 
 由于**退出**按钮是演示应用程序当前GUI层中的唯一按钮，因此可以概括RanoreXPath规范而不会丢失按钮的跟踪。如何做到请看下述。  
 
-![B6020-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000030.png)  
+![B6020-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000030.png)  
 *RanoreXPath规范的一般化*  
 
 1. 请查看一般化的RanoreXPath规范，只使用了角色 `button` 和移除了谓词规范 
@@ -59,7 +59,7 @@
 
 Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是如何选择用户定义的标识属性。  
 
-![B6020-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000040.png)  
+![B6020-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000040.png)  
 *用户定义的标识属性*  
 
 1. 在路径编辑器中查看选择的属性值键值对 `controltext='Exit'`  
@@ -83,7 +83,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 >|`/?`|任意一个可选|任何UI元素，正好是零（0）或一（1）树级别|
 >|`//`|任意一个后代|任意数量的树级别的任何UI元素|  
 
-![B6020-0000050](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000050.png)  
+![B6020-0000050](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000050.png)  
 *'任何'通配符示例*  
 
 1. 跟踪演示应用程序的UI元素测试区域的窗格  
@@ -92,7 +92,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 结果可以在Spy树浏览器和路径编辑器中看到。  
 
-![B6020-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000060.png)  
+![B6020-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000060.png)  
 *Spy树浏览器和'/？'示例的路径编辑器*  
 
 1. **根**元素表示RanoreXPath规范的开头  
@@ -101,7 +101,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 ### RanoreXPath解释:
 
-![B6020-0000070](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000070.png)  
+![B6020-0000070](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000070.png)  
 *RanoreXPath规范通配符/?示例*  
 
 **目标元素**`3`是**根元素**`1`的后代元素，其中最多有两个（0,1或2）非必需指定的**UI元素**`2`  
@@ -110,7 +110,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 通常需要在GUI中查找和跟踪元素，我们不知道元素的“**深度**”。因此，“所有路径后代”运算符允许搜索元素的“所有”后代级别以跟踪特定的UI元素。如何做到请看下述。  
 
-![B6020-0000080](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000080.png)  
+![B6020-0000080](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000080.png)  
 *使用//（任何后代）通配符的RanoreXPath规范示例*  
 
 1. 参见演示应用程序程序窗口，它的角色 `/form` 指定为RanoreXPath规范的**根**元素  
@@ -121,7 +121,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 结果可以在Ranorex Spy中看到。
 
-![B6020-0000090](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000090.png)  
+![B6020-0000090](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000090.png)  
 *//（任何后代）通配符的查找结果*  
 
 4. 请参阅Spy的路径编辑器，其中RanoreXPath规范显示为树元素  
@@ -136,7 +136,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 如果要查找具有完全已知“深度”的UI元素，则可以使用“任何”通配符运算符作为您选择的工具。 请参阅其应用程序的简单示例。
 
-![B6020-0000100](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000100.png)  
+![B6020-0000100](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000100.png)  
 *具有/ *（任意）通配符的RanoreXPath规范*  
 
 1. 演示应用程序的程序窗口作为RanoreXPath规范的**根**元素
@@ -147,7 +147,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 搜索和识别结果可以在Ranorex Spy中看到：
 
-![B6020-0000110](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000110.png)  
+![B6020-0000110](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000110.png)  
 *搜索结果为/ *（任意）通配符运算符*  
 
 1. 请参阅具有树状结构的RanoreXPath规范元素的**路径编辑器**。每个通配符运算符代表根元素下面的一个搜索级别
@@ -168,7 +168,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 1. 启动Spy和演示应用程序并**指定**RanoreXPath，如下所示：
 
-![B6020-0000120](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000120.png)  
+![B6020-0000120](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000120.png)  
 *初始通用RanoreXPath规范的示例*  
 
 1. 以树状形式查看具有RanoreXPath规范的所有元素的路径编辑器，搜索**UI元素测试区域**窗格中和下方的任何按钮  
@@ -181,7 +181,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 1. 使用谓词更改RanoreXPath规范，如下所示：
 
-![B6020-0000130](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000130.png)  
+![B6020-0000130](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000130.png)  
 *缩小RanoreXPath规范的示例 - 第一部分*
 
 1. 看到路径编辑器，其中节点元素使用属性 `visible ='True'` 进一步指定  
@@ -194,7 +194,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 1. 将下面列出的属性规范添加到当前RanoreXPath定义的谓词中。
 
-![B6020-0000140](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000140.png)  
+![B6020-0000140](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000140.png)  
 *缩小RanoreXPath规范的例子 - 第二部分*  
 
 1. 看到缩小的**RanoreXPath**规范，并将第二个属性/值对作为谓词。  
@@ -211,7 +211,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 缩小的RanoreXPath规范的搜索结果可以在下面显示的图像中看到 - “**UI元素测试区域**”窗格中的两个按钮被识别为匹配UI元素。  
 
-![B6020-0000150](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000150.png)  
+![B6020-0000150](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000150.png)  
 *缩小的RanoreXPath搜索结果示例*
 
 ## 在RanoreXPath规范中选择UI元素  
@@ -220,7 +220,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 1. 将下面列出的RanoreXPath规范**插入**到当前示例中  
 
-![B6020-0000160](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000160.png)  
+![B6020-0000160](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000160.png)  
 *在RanoreXPath规范中选择元素的示例*  
 
 1. 看到**路径编辑器**，将选择 `[2]` 运算符添加到谓词中，从当前RanoreXPath规范标识的元素列表中选择第二个元素
@@ -231,7 +231,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 选择结果是“**UI元素测试区域**”窗格的两个已识别按钮中的第二个：  
 
-![B6020-0000170](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000170.png)  
+![B6020-0000170](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000170.png)  
 *RanoreXPath选择结果*
 
 > **提示**  
@@ -241,7 +241,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 本节介绍和解释树元素的跟踪和识别。
 
-![B6020-0000180](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000180.png)  
+![B6020-0000180](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000180.png)  
 *使用Ranorex Spy跟踪树UI元素*  
 
 1. 单击Ranorex Spy的Track按钮并跟踪
@@ -251,7 +251,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 Ranorex将树元素标识如下：
 
-![B6020-0000190](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000190.png)  
+![B6020-0000190](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000190.png)  
 *使用Ranorex识别树元素*  
 
 1. 看到在网页和移动测试中树项目的追踪结果的RanoreXPath规范
@@ -262,7 +262,7 @@ Ranorex将树元素标识如下：
 
 通过指定任何顶部节点的树节点来揭示在树内跟踪和识别树项的概念。
 
-![B6020-0000200](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000200.png)  
+![B6020-0000200](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000200.png)  
 *使用Ranorex Spy跟踪子树UI元素*  
 
 1. 使用Ranorex Spy的**Track按钮**  
@@ -272,7 +272,7 @@ Ranorex将树元素标识如下：
 
 Ranorex识别子树项目如下：  
 
-![B6020-0000210](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000210.png)  
+![B6020-0000210](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000210.png)  
 *使用Ranorex Spy识别子树元素*  
 
 1. 看到的RanoreXPath规范，并将子树项Endpoints标识为普通树项
@@ -287,14 +287,14 @@ Ranorex识别子树项目如下：
 
 通过轴说明符对RanoreXPath规范进行简单修改，可以跟踪和识别当前树项的下一个和前一个兄弟树项。
 
-![B6020-0000220](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000220.png)  
+![B6020-0000220](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000220.png)  
 *将轴说明符应用于RanoreXPath规范*  
 
 1. 看到RanoreXPath规范，添加的**轴说明符**跟踪以下树项同级
 2. **路径编辑器**以树状结构显示RanroeXPath规范  
 3. UI元素树浏览器显示标识结果，移动测试树项作为端点树项的下一个兄弟树项  
 
-![B6020-0000230](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000230.png)  
+![B6020-0000230](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000230.png)  
 *识别兄弟树项目*  
 
 4. 查看正在测试的应用程序的**UI元素测试区域**，其中树元素移动测试显示为端点树项目的兄弟元素  
@@ -310,7 +310,7 @@ Ranorex识别子树项目如下：
 
 表格单元的寻址遵循一个重要的理解系统，并在下图中显示。  
 
-![B6020-0000240](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000240.png)  
+![B6020-0000240](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000240.png)  
 *基本表格方向*  
 
 **重点：**
@@ -326,7 +326,7 @@ Ranorex识别子树项目如下：
 
 当前测试示例的目的是在演示应用程序的UI元素测试区域的表中唯一地标识名为Thomas Bach的人的年龄。  
 
-![B6020-0000250](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000250.png)  
+![B6020-0000250](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000250.png)  
 *表格单元规范 - 测试定义*  
 
 1. 看到**表格条目（行）**，其中包含名字，姓氏，年龄，性别和部门从属关系  
@@ -336,7 +336,7 @@ Ranorex识别子树项目如下：
 
 在第一个简单的方法中，具有'Thomas Bach'人的细胞可以通过绝对细胞位置规范来识别：  
 
-![B6020-0000260](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000260.png)  
+![B6020-0000260](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000260.png)  
 *绝对表格单元规范*  
 
 1. 看到使用表单元格绝对指定的RanoreXPath规范
@@ -347,7 +347,7 @@ Ranorex识别子树项目如下：
 
 绝对单元规范缺乏对表格单元布置的改变的鲁棒性。  
 
-![B6020-0000270](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000270.png)  
+![B6020-0000270](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000270.png)  
 *表单元格移动*  
 
 1. 移动表格单元的排列显示...  
@@ -357,7 +357,7 @@ Ranorex识别子树项目如下：
 
 单元格位置规格的改进是单元格内容的规范，其中我们基于其内容识别单元格  
 
-![B6020-0000280](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000280.png)  
+![B6020-0000280](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000280.png)  
 *单元格内容规范*  
 
 1. 指定单元格内容可以增强对表重组的稳健性，但是...
@@ -367,7 +367,7 @@ Ranorex识别子树项目如下：
 
 还需要将单元格规范限制为名字'Thomas'（和姓氏'Bach'）。这是通过缩小的单元规范来完成的。
 
-![B6020-0000290](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000290.png)  
+![B6020-0000290](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000290.png)  
 *缩小范围的单元格规范*  
 
 1. 看到缩小的单元格规范，其中两个属性构成RanoreXPath谓词...
@@ -380,7 +380,7 @@ Ranorex识别子树项目如下：
 
 最后，为了指定名为“Thomas Bach”的人的年龄的单元格，需要相对单元格规范。
 
-![B6020-0000300](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B6020-0000300.png)  
+![B6020-0000300](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000300.png)  
 *相对单元格规范*  
 
 1. 使用单元格的accessname属性“Age”来相对指定识别单元格
