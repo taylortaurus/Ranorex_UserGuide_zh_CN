@@ -31,6 +31,7 @@
         "-search", 
         "search-plus",
         "page-footer-ex",
+        "sitemap",
         "prism", 
         "-highlight",
         "prism-themes"
@@ -87,17 +88,23 @@
                 "120x120": "./source/images/apple-touch-icon_120.png",
                 "180x180": "./source/images/apple-touch-icon_180.png"
             }
-        },"theme-default": {
+        },
+        "theme-default": {
             "showLevel": true
-        },"page-footer-ex": {
+        },
+        "page-footer-ex": {
             "copyright": "© 2018 ranorex.xyz",
             "markdown": true,
             "update_label": "updated:",
             "update_format": "YYYY-MM-DD"
-        }, "prism": {
+        }, 
+        "prism": {
             "css": [
               "prism-themes/themes/prism-xonokai.css"
             ]
-          }
+        }, 
+        "sitemap": {
+            "hostname": "https://ranorex.xyz/"
+        }
     }
 }
