@@ -8,6 +8,10 @@
 - 我的博客 👉 [TaylorTaurus's Blog][3]，或是点击左上角跳转
 - 项目地址点击右上角章鱼猫图标跳转，多多Star，多多Fork
 
+--- 
+
+- Ranorex Studio 各版本百度云分流下载 👉 [Ranorex Stuido Download][4]
+
 
 <div align="center">
     <a title="Go to Ranorex.xyz" href="https://ranorex.xyz">
@@ -19,4 +23,5 @@
 [1]: https://en.wikipedia.org/wiki/Ranorex_Studio
 [2]: https://www.ranorex.com/help/latest
 [3]: https://taylortaurus.top/
+[4]: https://taylortaurus.top/ranorex/
 
