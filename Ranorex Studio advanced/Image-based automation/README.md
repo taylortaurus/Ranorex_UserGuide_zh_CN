@@ -38,10 +38,45 @@
 
 ## 打开/关闭基于图像的自动化  
 
-在录制期间的任何时候，都可以在Recorder控制中心打开和关闭基于图像的自动化。
+在录制期间的任何时候，都可以在Recorder控制中心打开和关闭基于图像的自动化。  
 
 ![B7010-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Image-basedAutomation/B7010-0000010.png)  
 *打开/关闭基于图像的自动化*  
+
+1. Ranorex Recorder中基于图像的复选框（未选中，即关闭）  
+2. 基于图像的自动化已打开  
+
+![B7010-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Image-basedAutomation/B7010-0000020.png)  
+*通过Recorder热键激活基于图像的自动化*  
+
+3. 在激活的记录器热键中按 `I` 键  
+4. 基于图像的自动化已打开  
+
+## 为什么基于图像的自动化？  
+
+在GUI软件的自动测试中使用基于图像的自动化的原因可能并不明显。本节将向您展示基于文本的自动化失败的至少一个原因，并且基于图像的自动化是解决方案。 
+
+### 实例准备  
+
+使用Ranorex演示应用程序观察基于图像的自动化的演示示例。在此示例中，我们使用Ranorex Recorder的即时录制功能。 
+
+![B7010-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Image-basedAutomation/B7010-0000030.png)  
+*基于图像的自动化示例*  
+
+1. 启动演示应用程序并选择**基于图像的自动化**作为工作环境  
+2. 在Ranorex Studio Recorder的技术选择期间选择**即时录制**  
+
+### 基于文本的录制  
+
+在默认的基于文本的自动化模式下，在演示应用程序的日历视图中跟踪和记录三（3）个连续日期，并查看结果。  
+
+![B7010-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Image-basedAutomation/B7010-0000040.png)  
+*在基于文本的自动化中跟踪和记录日历日期*  
+
+3. 验证是否已打开默认的基于文本的自动化（即未选择基于图像的自动化）  
+4. 记录（点击）日历的“24”，“25”和“26”三个日期会导致...
+5. 一个动作表，其中包含三个表示日历鼠标单击的相应操作项
+
 
 
 
