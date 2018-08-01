@@ -1,7 +1,7 @@
 # <div align="center"> Ranorex User Guide 中文版 </div>  
 
+<div align="right">[![Build Status](https://travis-ci.org/taylortaurus/taylortaurus.github.io.svg?branch=hexo)](https://travis-ci.org/taylortaurus/Ranorex_UserGuide_zh_CN.svg?branch=gitbook)</div>
 ---
-
 
 - Ranorex 维基介绍 👉 [Ranorex Studio][1]
 - Ranorex 用户手册官方地址 👉 [Ranorex User Guide][2]
@@ -12,7 +12,6 @@
 --- 
 
 - Ranorex Studio 各版本百度云分流下载 👉 [Ranorex Stuido Download][5]
-
 
 <div align="center">
     <a title="Go to Ranorex.xyz" href="https://ranorex.xyz">
