@@ -41,6 +41,6 @@ after_script:
 env:
  global:
    # Github Pages
-   - GH_REF: github.com/taylortaurus/TravisCIStudy
+   - GH_REF: github.com/taylortaurus/Ranorex_UserGuide_zh_CN
    # Coding Pages
-   - CO_REF: git.coding.net/taylortaurus/TravisCIStudy.git
+   - CO_REF: git.coding.net/taylortaurus/Ranorex_UserGuide_zh_CN.git
