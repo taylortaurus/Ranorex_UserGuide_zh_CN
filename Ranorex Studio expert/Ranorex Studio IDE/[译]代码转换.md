@@ -1,0 +1,20 @@
+# [译] 代码转换
+
+*原文地址 👉 [Code conversion][0]*
+
+*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
+*♋ translate time : 2018-7-10*    
+*♋ update time : 2018-7-10*  
+
+---  
+
+使用Ranorex Studio，可以将单个代码文件以及整个项目从C＃转换为VB.NET，反之亦然。
+
+这可以通过右键单击Project Explorer中的特定元素并从上下文菜单中选择“转换”来执行。
+
+![C5090-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudioExpert/C5090-0000010.png)  
+*将整个项目从C＃转换为VB.NET*  
+
+
+
+[0]: https://www.ranorex.com/help/latest/ranorex-studio-expert/ranorex-studio-ide/code-conversion/

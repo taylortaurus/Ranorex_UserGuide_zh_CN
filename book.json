@@ -1,0 +1,110 @@
+{
+    "title": "Ranorx User Guide 中文版",
+    "author": "Ranorex GmbH",
+    "translator": "TaylorTaurus & kissKurisu",
+    "description": "Ranorex Studio 用户手册中文版",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+        "website": "./styles/website.css"
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "偏居一隅 | TaylorTaurus' Site": "https://taylortaurus.top/"
+        }
+    },
+    "plugins": [
+        "-sharing",
+        "splitter",
+        "expandable-chapters-small",
+        "anchors",
+        "github",
+        "github-buttons",
+        "donate",
+        "sharing-plus",
+        "anchor-navigation-ex",
+        "favicon",
+        "-lunr", 
+        "-search", 
+        "search-plus",
+        "page-footer-ex",
+        "sitemap",
+        "prism", 
+        "-highlight",
+        "prism-themes"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/taylortaurus"
+        },
+        "github-buttons": {
+            "buttons": [{
+                "user": "TaylorTaurus",
+                "repo": "Ranorex_UserGuide_zh_CN",
+                "type": "star",
+                "size": "small",
+                "count": true
+                }
+            ]
+        },
+        "donate": {
+            "wechat": "https://taylortaurus.top/images/wechatpay.jpg",
+            "alipay": "https://taylortaurus.top/images/alipay.jpg",
+            "title": "",
+            "button": "赏",
+            "wechatText": "微信打赏",
+            "alipayText": "支付宝打赏"
+        },
+        "sharing": {
+            "douban": true,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": true,
+            "qq": true,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false
+        },
+        "favicon":{
+            "shortcut": "./source/images/favicon.png",
+            "bookmark": "./source/images/favicon.png",
+            "appleTouch": "./source/images/apple-touch-icon.png",
+            "appleTouchMore": {
+                "120x120": "./source/images/apple-touch-icon_120.png",
+                "180x180": "./source/images/apple-touch-icon_180.png"
+            }
+        },
+        "theme-default": {
+            "showLevel": true
+        },
+        "page-footer-ex": {
+            "copyright": "© 2018 ranorex.xyz",
+            "markdown": true,
+            "update_label": "updated:",
+            "update_format": "YYYY-MM-DD"
+        }, 
+        "prism": {
+            "css": [
+              "prism-themes/themes/prism-xonokai.css"
+            ]
+        }, 
+        "sitemap": {
+            "hostname": "https://ranorex.xyz/"
+        }
+    }
+}
