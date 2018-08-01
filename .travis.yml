@@ -1,0 +1,47 @@
+language: node_js
+sudo: required
+node_js: stable
+cache:
+  directories:
+    - node_modules
+
+notifications:
+  email:
+    recipients:
+      - taylortaurus0517@gmail.com
+      - yuanzheng0517@foxmail.com
+    on_success: always # default: change
+    on_failure: always # default: always
+
+branches:
+  only:
+    - gitbook 
+
+before_install:
+  - export TZ='Asia/Shanghai'
+ 
+install:
+  - npm install -g gitbook-cli
+  - gitbook install
+
+script:
+  - gitbook build
+
+after_script:
+  - cp ./seo/* ./_book/
+  - cd ./_book
+  - git init
+  - git config user.name "taylortaurus"
+  - git config user.email "taylortaurus0517@gmail.com"
+  - git checkout -b gh-pages
+  - git add .
+  - git commit -m "Update GitBook By TravisCI With Build $TRAVIS_BUILD_NUMBER"
+  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" gh-pages:gh-pages
+  - git push --force --quiet "https://taylortaurus:${CO_TOKEN}@${CO_REF}" gh-pages:gh-pages
+
+env:
+ global:
+   # Github Pages
+   - GH_REF: github.com/taylortaurus/TravisCIStudy
+   # Coding Pages
+   - CO_REF: git.coding.net/taylortaurus/TravisCIStudy.git
