@@ -334,7 +334,7 @@ Ranorex识别子树项目如下：
 
 ### 绝对单元格位置规范  
 
-在第一个简单的方法中，具有'Thomas Bach'人的细胞可以通过绝对细胞位置规范来识别：  
+在第一个简单的方法中，具有'Thomas Bach'人名的单元格可以通过单元格绝对位置来识别：  
 
 ![B6020-0000260](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000260.png)  
 *绝对表格单元规范*  
