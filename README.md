@@ -1,6 +1,9 @@
 # <div align="center"> Ranorex User Guide 中文版 </div>  
 
-<div align="right">[![Build Status](https://travis-ci.org/taylortaurus/taylortaurus.github.io.svg?branch=hexo)](https://travis-ci.org/taylortaurus/Ranorex_UserGuide_zh_CN.svg?branch=gitbook)</div>
+<div align="right">
+    <img align="center" src="https://travis-ci.org/taylortaurus/Ranorex_UserGuide_zh_CN.svg?branch=gitbook">
+</div>
+
 ---
 
 - Ranorex 维基介绍 👉 [Ranorex Studio][1]
