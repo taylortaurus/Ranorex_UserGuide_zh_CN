@@ -25,6 +25,14 @@
     <p align="center">Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
 </div>
 
+### **感谢：**
+
+- 本项目基于GitBook
+- 使用TravisCI自动化构建和部署
+- 项目托管于GitHub
+- 使用Coding的Page服务
+
+
 [1]: https://en.wikipedia.org/wiki/Ranorex_Studio
 [2]: https://www.ranorex.com/help/latest
 [3]: https://taylortaurus.top/
