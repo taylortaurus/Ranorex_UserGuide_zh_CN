@@ -34,7 +34,8 @@
         "sitemap",
         "prism", 
         "-highlight",
-        "prism-themes"
+        "prism-themes",
+        "baidu-tongji"
     ],
     "pluginsConfig": {
         "github": {
@@ -105,6 +106,9 @@
         }, 
         "sitemap": {
             "hostname": "https://ranorex.xyz/"
+        },
+        "baidu-tongji": {
+            "token": "275d3dd681b736495349fb18fc0992df"
         }
     }
 }
