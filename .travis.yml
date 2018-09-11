@@ -1,15 +1,15 @@
-# Ö¸¶¨»·¾³ÓïÑÔ
+# æŒ‡å®šç¯å¢ƒè¯­è¨€
 language: node_js
-# Ö¸¶¨sudoÈ¨ÏŞ
+# æŒ‡å®šsudoæƒé™
 sudo: required
-# Ö¸¶¨node°æ±¾
+# æŒ‡å®šnodeç‰ˆæœ¬
 node_js: stable
-# Ö¸¶¨»º´æÄ£¿é£¬»º´æ¿ÉÒÔ¼ÓËÙ±àÒë
+# æŒ‡å®šç¼“å­˜æ¨¡å—ï¼Œç¼“å­˜å¯ä»¥åŠ é€Ÿç¼–è¯‘
 cache:
   directories:
     - node_modules
 
-# ÓÊ¼şÍ¨Öª£¬ÕâÀïÅäÖÃ²»¹Ü³É¹¦»òÊÇÊ§°Ü¶¼Í¨Öª
+# é‚®ä»¶é€šçŸ¥ï¼Œè¿™é‡Œé…ç½®ä¸ç®¡æˆåŠŸæˆ–æ˜¯å¤±è´¥éƒ½é€šçŸ¥
 notifications:
   email:
     recipients:
@@ -17,25 +17,25 @@ notifications:
     on_success: always # default: change
     on_failure: always # default: always
 
-# ¹¹½¨µÄ·ÖÖ§
+# æ„å»ºçš„åˆ†æ”¯
 branches:
   only:
     - gitbook 
 
-# µ÷ÕûÊ±Çø
+# è°ƒæ•´æ—¶åŒº
 before_install:
   - export TZ='Asia/Shanghai'
 
-# °²×°»·¾³
+# å®‰è£…ç¯å¢ƒ
 install:
   - npm install -g gitbook-cli
   - gitbook install
 
-# gitbookÉú³É¾²Ì¬ÎÄ¼ş
+# gitbookç”Ÿæˆé™æ€æ–‡ä»¶
 script:
   - gitbook build
 
-# Éú³ÉÎÄ¼şºó£¬½øÈë¾²Ì¬ÎÄ¼şÄ¿Â¼£¬²¿Êğµ½Ö¸¶¨²Ö¿â£¬ĞèÒªÌîĞ´ÓÃ»§Ãû£¬ÓÊ¼ş
+# ç”Ÿæˆæ–‡ä»¶åï¼Œè¿›å…¥é™æ€æ–‡ä»¶ç›®å½•ï¼Œéƒ¨ç½²åˆ°æŒ‡å®šä»“åº“ï¼Œéœ€è¦å¡«å†™ç”¨æˆ·åï¼Œé‚®ä»¶
 after_script:
   - cp ./seo/* ./_book/
   - cd ./_book
@@ -47,7 +47,7 @@ after_script:
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
   - git push --force --quiet "https://taylortaurus:${CO_TOKEN}@${CO_REF}" master:master
 
-# »·¾³±äÁ¿
+# ç¯å¢ƒå˜é‡
 env:
  global:
    # Github Pages
