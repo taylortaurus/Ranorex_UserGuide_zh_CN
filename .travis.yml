@@ -13,7 +13,7 @@ cache:
 notifications:
   email:
     recipients:
-      - taylortaurus0517@gmail.com
+      - taylortaurus0517@yeah.net
     on_success: always # default: change
     on_failure: always # default: always
 
