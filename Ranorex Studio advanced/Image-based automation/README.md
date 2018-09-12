@@ -3,7 +3,8 @@
 *原文地址 👉 [Image-based automation][0]*
 
 *@translator : [TaylorTaurus](https://github.com/taylortaurus)*  
-*translate time : 2018-7-5*
+*♋ translate time : 2018-7-5*
+*♋ update time : 2018-9-11*
 
 ---
 
@@ -77,8 +78,39 @@
 4. 记录（点击）日历的“24”，“25”和“26”三个日期会导致...
 5. 一个动作表，其中包含三个表示日历鼠标单击的相应操作项
 
+### 测试录制的结果
+
+在测试运行开始时查看成功测试记录的结果
+
+- 录制的日历日期已正确识别
+- 报告中的每次点击操作都对应于日历中的正确日期
+
+![B7010-0000050](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Image-basedAutomation/B7010-0000050.gif)  
+*成功测试日历日期*
+
+### 测试条件的变化
+
+假设测试条件发生变化，由于在录制和回放测试中的时间进度，日历视图变为不同的月份。
+
+![B7010-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Image-basedAutomation/B7010-0000060.png)  
+*测试条件中的变化*
+
+将日历视图从2018年1月更改为2018年2月，可以看到明显不同。录制的日期“24”、“25”和“26”现在在日历中不同的位置。
+
+运行之前录制的日历日期，观察测试运行的结果：
+
+![B7010-0000070](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Image-basedAutomation/B7010-0000070.gif)  
+*测试状态改变后的测试结果*
 
 
+### 测试结果解释
 
+- 测试运行时没有失败，且报告显示成功(参见测试报告)
+- 但是，结果是错误的。因为日历中最初跟踪的位置的日期是在测试运行期间确定的，而不是更改位置时的正确日期!
 
+> **注意**  
+> 有时，Ranorex无法识别单个点击的UI元素(如日历中的日期)。因此，使用基于文本的自动化存储绝对位置和相对位置，而不是使用导致本文所描述的问题的图像化UI元素。
 
+### 结论
+
+在下一章中，我们将向您介绍基于图像的自动化是如何克服这一问题。
