@@ -28,6 +28,8 @@ bui# Summary
     * [基于图像的自动化](Ranorex Studio advanced/Image-based automation/README.md)  
         * [图像自动化初探](Ranorex Studio advanced/Image-based automation/[译]图像自动化初探.md)
         * [图像自动化进阶](Ranorex Studio advanced/Image-based automation/[译]图像自动化进阶.md)
+        * [图像编辑器](Ranorex Studio advanced/Image-based automation/[译]图像编辑器.md)
+        * [图像的属性](Ranorex Studio advanced/Image-based automation/[译]图像的属性.md)
     * [Ranorex 远程](Ranorex Studio advanced/Ranorex Remote/README.md)
         * [Ranorex 代理](Ranorex Studio advanced/Ranorex Remote/[译]Ranorex代理.md)
         * [Ranorex 代理的安装和设置](Ranorex Studio advanced/Ranorex Remote/[译]Ranorex代理的安装和设置.md)
