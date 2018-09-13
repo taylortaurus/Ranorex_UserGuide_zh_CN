@@ -1,0 +1,23 @@
+# [译] 远程故障排除
+
+*原文地址 👉 [Remote troubleshooting][0]*
+
+*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
+*♋ translate time : 2018-7-5*  
+*♋ update time : 2018-7-6* 
+
+---
+
+如果自动发现或手动搜索代理失败：
+
+- 确保Ranorex代理程序在活动用户会话中运行。不要从运行Ranorex代理的计算机上注销用户。
+- 确保Ranorex Studio正在运行，与运行Ranorex代理的计算机位于同一网络（子网）中。
+- 仔细检查运行Ranorex代理的计算机上的⇢[防火墙设置][1]。
+- 检查运行Ranorex代理的计算机上的Windows事件日志，以查找与Ranorex代理相关的条目。
+
+
+[0]: https://www.ranorex.com/help/latest/ranorex-studio-advanced/ranorex-remote/remote-troubleshooting/
+[1]: .\[译]远程系统要求.html
+
+
+
