@@ -8,7 +8,8 @@
 
 ---
 
-- Ranorex 维基介绍 👉 [Ranorex Studio][1]
+- Ranorex 官网地址 👉 [Ranorex Studio][0]
+- Ranorex 维基介绍 👉 [Ranorex Studio-Wiki][1]
 - Ranorex 用户手册官方地址 👉 [Ranorex User Guide][2]
 - 我的站点 👉 [TaylorTaurus's Site][3]，或是点击左上角跳转
 - 我的博客 👉 [TaylorTaurus's Blog][4]
@@ -34,7 +35,7 @@
 
 
 
-
+[0]: https://www.ranorex.com/
 [1]: https://en.wikipedia.org/wiki/Ranorex_Studio
 [2]: https://www.ranorex.com/help/latest
 [3]: https://taylortaurus.top/
