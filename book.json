@@ -36,7 +36,8 @@
         "prism", 
         "-highlight",
         "prism-themes",
-        "baidu-tongji"
+        "baidu-tongji",
+        "disqus"
     ],
     "pluginsConfig": {
         "github": {
@@ -110,6 +111,9 @@
         },
         "baidu-tongji": {
             "token": "275d3dd681b736495349fb18fc0992df"
+        },
+        "disqus": {
+            "shortName": "ranorexuserguide"
         }
     }
 }
