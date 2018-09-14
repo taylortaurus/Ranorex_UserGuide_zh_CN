@@ -75,7 +75,7 @@
 数据驱动测试的关键原则是不断地验证基于测试数据的预期测试结果是否与自动测试运行期间创建的实际测试结果匹配。这个重要的概念将在本章后面的章节中介绍和解释。
 
 
-[0]: https://www.ranorex.com/help/latest/ranorex-studio-advanced/
+[0]: https://www.ranorex.com/help/latest/ranorex-studio-advanced/data-driven-testing/introduction/
 [1]: https://www.ranorex.com/rx-media/rx-user-guide/v8.2/download/RxSampleDataDrivenTesting.zip
 [2]: ..\\..\\..\\Ranorex_Studio_fundamentals/Ranorex_Studio/[译]RanorexStudio起始页.html
 [3]: ..\\..\\..\\Ranorex_Studio_fundamentals/Ranorex_Recorder/index.html
