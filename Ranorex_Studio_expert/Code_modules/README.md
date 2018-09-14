@@ -355,5 +355,5 @@ End Property
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-expert/code-modules/
-[1]: ..\\..\\..\\Ranorex%20Studio%20advanced/Image-based%20automation/index.html
+[1]: ..\\..\\..\\Ranorex_Studio_advanced/Image-based_automation/index.html
 

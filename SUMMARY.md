@@ -11,6 +11,7 @@ bui# Summary
     * [Ranorex Studio](Ranorex_Studio_fundamentals/Ranorex_Studio/README.md)  
     * [Ranorex 录制器](Ranorex_Studio_fundamentals/Ranorex_Recorder/README.md)  
     * [测试套件](Ranorex_Studio_fundamentals/Test_suite/README.md)  
+        * [执行测试套件](Ranorex_Studio_fundamentals/Test_suite/[译]执行测试套件.md)
     * [动作](Ranorex_Studio_fundamentals/Actions/README.md)  
     * [控件库](Ranorex_Studio_fundamentals/Repository/README.md)  
     * [测试验证](Ranorex_Studio_fundamentals/Test_validation/README.md)  
