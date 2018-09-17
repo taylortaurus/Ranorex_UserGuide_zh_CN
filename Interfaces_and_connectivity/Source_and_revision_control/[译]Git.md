@@ -9,12 +9,12 @@
 
 **本章导视，章节内段落跳转推荐使用右上角的锚点！**
 
-- [关于Git和Ranorex Studio](#关于Git和Ranorex%20Studio)
+- [关于Git和Ranorex Studio](#关于Git和RanorexStudio)
 - [添加Ranorex解决方案到Git](#添加Ranorex解决方案到Git)
 - [从Git上检出一个Ranorex解决方案](#从Git上检出一个Ranorex解决方案)
 - [项目视图中叠加的图标意义](#项目视图中叠加的图标意义)  
 
-## 关于Git和Ranorex Studio
+## 关于Git和RanorexStudio
 
 Git是一种免费的、开源的、分布式版本控制系统。为了在Ranorex Studio中使用Git，必须按给定顺序执行以下先决条件：
 
@@ -32,7 +32,9 @@ Ranorex Studio将帮助您完成此对话框，以防机器上没有所需的先
 
 ![E4010-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/InterfacesAndConnectivity/E4010-0000020.png)  
 
-## 添加Ranorex解决方案到Git  
+
+## 添加Ranorex解决方案到Git
+
 
 请确保您的Git基础结构已经建立并运行。
 
@@ -63,9 +65,11 @@ Ranorex Studio将帮助您完成此对话框，以防机器上没有所需的先
 
 ![E4010-0000080](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/InterfacesAndConnectivity/E4010-0000080.png)  
 
-所有进一步的Git相关步骤都应该在您的工作流中定义
+所有进一步的Git相关步骤都应该在您的工作流中定义  
+
 
 ## 从Git上检出一个Ranorex解决方案
+
 
 请确保您的Git基础结构已经建立并运行
 
@@ -93,7 +97,9 @@ Ranorex Studio将帮助您完成此对话框，以防机器上没有所需的先
 
 所有进一步的Git相关步骤都应该在您的工作流中定义
 
+
 ## 项目视图中叠加的图标意义
+
 
 将叠加图标添加到Ranorex Studio的Projects视图中，因为解决方案在源代码控制之下
 
