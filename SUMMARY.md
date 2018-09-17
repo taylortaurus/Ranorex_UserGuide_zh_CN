@@ -85,6 +85,7 @@ bui# Summary
     * [技术仪器](Interfaces_and_connectivity/Technology_instrumentation/README.md)  
     * [TestRail 集成](Interfaces_and_connectivity/TestRail_integration/README.md)  
     * [源码和修订控制](Interfaces_and_connectivity/Source_and_revision_control/README.md)  
+        * [Git](Interfaces_and_connectivity/Source_and_revision_control/[译]Git.md) 
     * [持续集成](Interfaces_and_connectivity/Continuous_integration/README.md)  
     * [Visual Studio 集成](Interfaces_and_connectivity/Visual_Studio_integration/README.md)  
     * [Selenium Webdriver 集成](Interfaces_and_connectivity/Selenium_Webdriver_integration/README.md)  
