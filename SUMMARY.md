@@ -84,7 +84,7 @@ bui# Summary
     * [Ranorex 仪表向导](Interfaces_and_connectivity/Ranorex_Instrumentation_Wizard/README.md)  
     * [技术仪器](Interfaces_and_connectivity/Technology_instrumentation/README.md)  
     * [TestRail 集成](Interfaces_and_connectivity/TestRail_integration/README.md)  
-    * [源码控制和修订控制](Interfaces_and_connectivity/Source_control_and_revision_control/README.md)  
+    * [源码和修订控制](Interfaces_and_connectivity/Source_and_revision_control/README.md)  
     * [持续集成](Interfaces_and_connectivity/Continuous_integration/README.md)  
     * [Visual Studio 集成](Interfaces_and_connectivity/Visual_Studio_integration/README.md)  
     * [Selenium Webdriver 集成](Interfaces_and_connectivity/Selenium_Webdriver_integration/README.md)  
