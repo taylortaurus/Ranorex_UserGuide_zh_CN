@@ -77,6 +77,7 @@ bui# Summary
 * [网页和移动测试](Web_and_mobile_testing/README.md)  
     * [网页测试](Web_and_mobile_testing/Web_testing/README.md)  
     * [端点](Web_and_mobile_testing/Endpoints/README.md)  
+        * [添加一个WebDriver端点](Web_and_mobile_testing/Endpoints/[译]添加一个WebDriver端点.md)
     * [移动测试](Web_and_mobile_testing/Mobile_testing/README.md)  
     * [Android 测试](Web_and_mobile_testing/Android_testing/README.md)  
     * [iOS 测试](Web_and_mobile_testing/iOS_testing/README.md)
