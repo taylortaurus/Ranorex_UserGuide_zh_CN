@@ -30,6 +30,10 @@
 **提示**  
 示例解决方案适用于Ranorex版本8.0或更高版本。您需要将解决方案自动升级同意到8.2及更高版本的。
 
+**要点须知** 
+1. 请参阅测试容器属性对话框窗口的条件选项卡
+2. 为当前条件定义的所有规则的列表
+
 [0]: XXX
 [1]: https://www.ranorex.com/rx-media/rx-user-guide/v8.2/download/RxSampleDataDrivenTesting.zip
 [2]: ..\\..\\..\\Ranorex_Studio_fundamentals/Ranorex_Studio/[译]RanorexStudio起始页.html
