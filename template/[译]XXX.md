@@ -13,8 +13,8 @@
 
 ## XXX
 
-**章节预读**  
-> 在[基于图像的属性][1]一文，中详细介绍和解释了预处理特性。
+> **章节预览**  
+> 在 \> Ranorex Studio advanced \> [UI元素][1]章节中⇢详细介绍和解释了UI元素，适配器，功能和属性及其值的概念。
 
 
 **练习，我能做什么？** 
@@ -33,6 +33,8 @@
 **要点须知** 
 1. 请参阅测试容器属性对话框窗口的条件选项卡
 2. 为当前条件定义的所有规则的列表
+
+  
 
 [0]: XXX
 [1]: https://www.ranorex.com/rx-media/rx-user-guide/v8.2/download/RxSampleDataDrivenTesting.zip
