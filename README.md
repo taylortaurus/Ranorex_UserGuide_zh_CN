@@ -26,7 +26,7 @@
         <p>扫描二维码，下载 </br>
             <b>Ranorex用户手册官方App</b>
         </p>
-        <img align="center" width="200" height="200" src="./source/images/ranorex-user-guide.png">
+        <img align="center" width="200" height="200" src="./source/images/ranorex-user-guide-app-qrcode.png">
     </a>
 </div>
 
