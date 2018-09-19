@@ -7,19 +7,34 @@
 </div>  
 
 ---
+### Ranorex 相关
 
 - Ranorex 官网地址 👉 [Ranorex Studio][0]
-- Ranorex 维基介绍 👉 [Ranorex Studio-Wiki][1]
 - Ranorex 用户手册官方地址 👉 [Ranorex User Guide][2]
-- 我的站点 👉 [TaylorTaurus's Site][3]，或是点击左上角跳转
+- Ranorex 维基介绍 👉 [Ranorex Studio-Wiki][1]
+- Ranorex Studio 各版本百度云分流下载 👉 [Ranorex Stuido Download][5]
+
+---
+
+### 翻译项目相关
+
+- 我的站点 👉 [TaylorTaurus's Site][3]
 - 我的博客 👉 [TaylorTaurus's Blog][4]
 - 项目地址点击右上角章鱼猫图标跳转，多多Star，多多Fork
 
+<div align="center">
+        <p>扫描二维码，下载 </br>
+            <b>Ranorex用户手册官方App</b>
+        </p>
+        <img align="center" width="200" height="200" src="./source/images/ranorex-user-guide.png">
+    </a>
+</div>
+
 --- 
 
-- Ranorex Studio 各版本百度云分流下载 👉 [Ranorex Stuido Download][5]
 
-### **感谢：**
+
+### 感谢
 
 - 本项目基于GitBook
 - 使用TravisCI自动化构建和部署
