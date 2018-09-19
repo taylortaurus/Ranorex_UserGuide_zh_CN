@@ -16,7 +16,7 @@ RanoreXPath表达式主要用于唯一标识桌面、Web或移动应用程序中
 
 要了解RanoreXPath的概念，我们建议您阅读：
 
-> **扩展阅读**  
+> **章节预览**  
 > 在 \> Ranorex Studio advanced \> [UI元素][1]章节中⇢详细介绍和解释了UI元素，适配器，功能和属性及其值的概念。  
 
 
