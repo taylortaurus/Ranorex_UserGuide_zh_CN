@@ -8,7 +8,7 @@
 
 ---
 
-本章介绍了许多RanoreXPath语法示例，以加深您对在测试环境中应用强大的RanoreXPath规范的理解。  
+本章介绍了许多RanoreXPath语法示例，以加深你对在测试环境中应用强大的RanoreXPath规范的理解。  
 
 ## 测试示例定义
 
@@ -134,7 +134,7 @@ Ranorex自动选择识别属性。 这个选择可以随意改变。 以下是�
 
 ## / *(任何)通配符的例子  
 
-如果要查找具有完全已知“深度”的UI元素，则可以使用“任何”通配符运算符作为您选择的工具。 请参阅其应用程序的简单示例。
+如果要查找具有完全已知“深度”的UI元素，则可以使用“任何”通配符运算符作为你选择的工具。 请参阅其应用程序的简单示例。
 
 ![B6020-0000100](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanoreXPath/B6020-0000100.png)  
 *具有/ *（任意）通配符的RanoreXPath规范*  

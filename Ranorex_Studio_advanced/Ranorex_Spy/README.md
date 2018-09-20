@@ -17,7 +17,7 @@ Ranorex Spy独立于Ranorex Studio内部，或作为独立工具，提供探索�
 
 ## 必备知识
 
-这个高级主题与RanoreXPath的概念和UI元素的主题密切相关。因此，在阅读本用户指南章节之前，我们建议您熟悉这两个主题。
+这个高级主题与RanoreXPath的概念和UI元素的主题密切相关。因此，在阅读本用户指南章节之前，我们建议你熟悉这两个主题。
 
 > **章节预览**  
 > 在 \> Ranorex Studio advanced \> 👉 [RanoreXPath][1]章节中详细介绍和解释了`RanoreXPath`的高级概念
@@ -47,7 +47,7 @@ Ranorex Spy可以从Ranorex Studio开始，也可以作为Windows操作系统中
 - d. 从Windows开始菜单打开Ranorex Spy独立的版本
 
 **贴士**  
-> Ranorex Spy目前可用作32位和64位版本。从Ranorex Studio内部启动时，将启动32位版本。当作为独立版本启动时，您可以选择不同架构。
+> Ranorex Spy目前可用作32位和64位版本。从Ranorex Studio内部启动时，将启动32位版本。当作为独立版本启动时，你可以选择不同架构。
 
 ## Ranorex Spy工作环境
 
@@ -56,7 +56,7 @@ Spy的工作环境看起来有点不同，具体取决于它的启动位置（Ra
 ![B4010-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexSpy/B4010-0000040.png)  
 *Ranorex Spy工作环境概览*  
 
-1. 浏览/控件库选择器：Spy的独立版本能够加载和处理包含的控件库。在这里，您可以在两种模式之间切换
+1. 浏览/控件库选择器：Spy的独立版本能够加载和处理包含的控件库。在这里，你可以在两种模式之间切换
 2. 追踪按钮和RanoreXPath信息：追踪按钮用于追踪，识别和添加RanoreXPath行，显示其唯一识别的新UI元素
 3. 在UI元素树浏览器和路径编辑器之间切换：下面将详细介绍这两种工作环境
 4. UI元素树浏览器视图：在图形用户界面中标识的UI元素的树状概览

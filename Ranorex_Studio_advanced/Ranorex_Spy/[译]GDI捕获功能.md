@@ -94,7 +94,7 @@ Ranorex现在可以根据一种特殊的适配器类型`RawText`来识别以前�
 ![B4050-0000070](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexSpy/B4050-0000070.png)  
 *将进程添加到GDI捕获列表*  
 
-1. 如果您未能在未知应用程序中识别UI元素，请选择该应用程序的父UI元素并打开上下文菜单
+1. 如果你未能在未知应用程序中识别UI元素，请选择该应用程序的父UI元素并打开上下文菜单
 2. 单击`Add process name to GDI capture list`  
 
 ## GDI捕获设置

@@ -8,7 +8,7 @@
 
 ---
 
-使用Selenium WebDriver集成，您可以在不同的浏览器、操作系统和机器上运行Ranorex创建的web测试，而无需任何插件或附加组件。
+使用Selenium WebDriver集成，你可以在不同的浏览器、操作系统和机器上运行Ranorex创建的web测试，而无需任何插件或附加组件。
 
 Ranorex使用现有的Selenium WebDriver基础架构运行web测试，可以运行在如下平台:
 
@@ -17,7 +17,7 @@ Ranorex使用现有的Selenium WebDriver基础架构运行web测试，可以运�
 - Linux上的谷歌Chrome和Mozilla Firefox
 
 **提示** 
-> Web测试仍然必须在本地记录。你需要RanorexStudio,本地安装的web浏览器与激活Ranorex自动化插件,和您的本地计算机必须设置为自动化根⇢端点列表。Ranorex Studio支持以下操作系统+浏览器组合来进行web测试记录:Microsoft Windows + Microsoft Internet Explorer、谷歌Chrome、Mozilla Firefox和Chromium。
+> Web测试仍然必须在本地记录。你需要RanorexStudio,本地安装的web浏览器与激活Ranorex自动化插件,和你的本地计算机必须设置为自动化根⇢端点列表。Ranorex Studio支持以下操作系统+浏览器组合来进行web测试记录:Microsoft Windows + Microsoft Internet Explorer、谷歌Chrome、Mozilla Firefox和Chromium。
 
 
 **本章导视，章节内段落跳转推荐使用右上角的锚点！**
@@ -49,14 +49,14 @@ Ranorex使用现有的Selenium WebDriver基础架构运行web测试，可以运�
     - [下载][3]最新版本的Selenium Standalone Server并放入文件夹中
 - 你想要进行Selenium Server自动化的网页浏览器的驱动程序
     - 所有相关的链接和安装步骤可以在[这里][2]获取 
-    - 下载适用于您平台的正确驱动程序，根据需要解压缩，并放入与Selenium Standalone Server相同的文件夹中
+    - 下载适用于你平台的正确驱动程序，根据需要解压缩，并放入与Selenium Standalone Server相同的文件夹中
 
 **提示**  
 > Internet Explorer Driver需要进行多项[设置][3]才能正常工作
 
 ## 运行Selenium服务
 
-在添加端点或运行测试之前，您需要启动服务器。
+在添加端点或运行测试之前，你需要启动服务器。
 
 打开命令行控制台并切换到包含Selenium Standalone Server的文件夹。执行以下命令：
 

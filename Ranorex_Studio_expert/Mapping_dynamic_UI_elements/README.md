@@ -25,7 +25,7 @@ RanoreXPath权重规则可以通过“RanoreXPath权重规则”编辑器(Settin
 ![C1010-0000020-old](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudioExpert/C1010-0000020-old.png)  
 *通过Ranorex Spy编辑RanoreXPath权重规则*
 
-使用RanoreXPath权重规则可以帮助您自动创建健壮的存储库，这是健壮的测试自动化框架的基础。  
+使用RanoreXPath权重规则可以帮助你自动创建健壮的存储库，这是健壮的测试自动化框架的基础。  
 
 
 ## 如何添加你自己的RanoreXPath权重规则

@@ -28,7 +28,7 @@ Git是一种免费的、开源的、分布式版本控制系统。为了在Ranor
     - 在这里下载TortoiseGit 👉  [https://tortoisegit.org/download][2]
     - TortoiseGit是Git的Windows shell界面，例如，需要覆盖显示文件状态的图标。
 
-Ranorex Studio将帮助您完成此对话框，以防机器上没有所需的先决条件：
+Ranorex Studio将帮助你完成此对话框，以防机器上没有所需的先决条件：
 
 ![E4010-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/InterfacesAndConnectivity/E4010-0000020.png)  
 
@@ -36,7 +36,7 @@ Ranorex Studio将帮助您完成此对话框，以防机器上没有所需的先
 ## 添加Ranorex解决方案到Git
 
 
-请确保您的Git基础结构已经建立并运行。
+请确保你的Git基础结构已经建立并运行。
 
 要将现有的Ranorex解决方案添加到Git，请打开解决方案的上下文菜单。转到`Source Control`，选择`Add Solution to Source Control`。
 
@@ -65,13 +65,13 @@ Ranorex Studio将帮助您完成此对话框，以防机器上没有所需的先
 
 ![E4010-0000080](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/InterfacesAndConnectivity/E4010-0000080.png)  
 
-所有进一步的Git相关步骤都应该在您的工作流中定义  
+所有进一步的Git相关步骤都应该在你的工作流中定义  
 
 
 ## 从Git上检出一个Ranorex解决方案
 
 
-请确保您的Git基础结构已经建立并运行
+请确保你的Git基础结构已经建立并运行
 
 1. 操作步骤 `Tools` > `Source Control` > `Checkout`
 
@@ -81,7 +81,7 @@ Ranorex Studio将帮助您完成此对话框，以防机器上没有所需的先
 
 ![E4010-0000050](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/InterfacesAndConnectivity/E4010-0000050.png)
 
-3. TortoiseGit将询问您存储库的路径以及您希望在本地计算机上存储文件的位置。填写到Git存储库的URL以及到本地目录的路径，然后单击OK。
+3. TortoiseGit将询问你存储库的路径以及你希望在本地计算机上存储文件的位置。填写到Git存储库的URL以及到本地目录的路径，然后单击OK。
 
 ![E4010-0000100](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/InterfacesAndConnectivity/E4010-0000100.png)  
 
@@ -89,13 +89,13 @@ Ranorex Studio将帮助您完成此对话框，以防机器上没有所需的先
 
 ![E4010-0000110](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/InterfacesAndConnectivity/E4010-0000110.png)  
 
-5. 如果您的存储库在其根目录中包含Ranorex解决方案，则该解决方案将自动打开。如果不是这样，您必须从文件系统手动打开Ranorex解决方案。
+5. 如果你的存储库在其根目录中包含Ranorex解决方案，则该解决方案将自动打开。如果不是这样，你必须从文件系统手动打开Ranorex解决方案。
 
-从本地文件夹中打开Ranorex解决方案后，您将看到项目视图中叠加的图标。
+从本地文件夹中打开Ranorex解决方案后，你将看到项目视图中叠加的图标。
 
 ![E4010-0000080](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/InterfacesAndConnectivity/E4010-0000080.png)  
 
-所有进一步的Git相关步骤都应该在您的工作流中定义
+所有进一步的Git相关步骤都应该在你的工作流中定义
 
 
 ## 项目视图中叠加的图标意义

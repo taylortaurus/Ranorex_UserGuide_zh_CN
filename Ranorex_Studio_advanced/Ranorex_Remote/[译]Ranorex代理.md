@@ -23,7 +23,7 @@ Ranorex Agent是一个独立的工具，支持远程测试执行。
 
 ![B8020-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B8020-0000010.png)  
 
-使用此图标的上下文菜单，您可以打开和关闭代理的窗口。选择“退出”关闭代理。关闭代理将释放许可证，关闭整个应用程序。在此操作之后，远程运行测试是不可能的。  
+使用此图标的上下文菜单，你可以打开和关闭代理的窗口。选择“退出”关闭代理。关闭代理将释放许可证，关闭整个应用程序。在此操作之后，远程运行测试是不可能的。  
 
 ![B8020-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B8020-0000020.png)  
 
@@ -31,7 +31,7 @@ Ranorex代理的窗口显示代理的作业队列以及代理的日志(包括技
 
 ![B8020-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRemote/B8020-0000030.png)  
 
-您还可以配置代理的设置。 有关此主题的更多信息，请访问此部分：⇢[配置Ranorex代理][3]  
+你还可以配置代理的设置。 有关此主题的更多信息，请访问此部分：⇢[配置Ranorex代理][3]  
 
 作业队列提供了当前执行和计划测试的概述。这些作业是通过它们各自的测试套件名称列出的，并且颁发者会看到正在运行Ranorex Studio的机器名称。
 

@@ -1,6 +1,6 @@
 # [译] 变量和参数
 
-*原文地址 👉 [变量和参数][0]*
+*原文地址 👉 [Variables & parameters][0]*
 
 *@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
 *♋ translate time : 2018-9-17*    
