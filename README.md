@@ -23,10 +23,12 @@
 - 项目地址点击右上角章鱼猫图标跳转，多多Star，多多Fork
 
 <div align="center">
-        <p>扫描二维码，下载 </br>
+        <p>扫描或是点击二维码，下载 </br>
             <b>Ranorex用户手册官方App</b>
         </p>
-        <img align="center" width="200" height="200" src="./source/images/ranorex-user-guide-app-qrcode.png">
+        <a href="https://www.lanzous.com/b379196" target="_blank">
+            <img align="center" width="200" height="200" src="./source/images/ranorex-user-guide-app-qrcode.png">
+        </a>
     </a>
 </div>
 
