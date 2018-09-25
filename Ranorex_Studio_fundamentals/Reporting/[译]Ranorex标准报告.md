@@ -50,7 +50,7 @@ Ranorex标准报告描述了在Ranorex录制器中执行的所有报告问题，
 
 ![A9040-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Reporting/A9040-0000020.png)  
  
-您还可以在Windows中的同一文件夹中访问报表。 当您以这种方式打开报表时，Ranorex Studio不必运行。
+你还可以在Windows中的同一文件夹中访问报表。 当你以这种方式打开报表时，Ranorex Studio不必运行。
 
 ![A9040-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Reporting/A9040-0000030.png)  
 *报告文件默认路径*  
@@ -75,7 +75,7 @@ Ranorex标准报告描述了在Ranorex录制器中执行的所有报告问题，
     - 饼图总结了测试结果 
 
 **提示**  
-> 此图表仅计算测试用例。智能文件夹被忽略;您可以在下面的报告详细信息中查看其结果。
+> 此图表仅计算测试用例。智能文件夹被忽略;你可以在下面的报告详细信息中查看其结果。
 
 ![A9040-0000070](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Reporting/A9040-0000070.png)  
 *报告汇总类型*  
@@ -201,7 +201,7 @@ Ranorex标准报告描述了在Ranorex录制器中执行的所有报告问题，
 
 ## 渐进式报告预览
 
-Ranorex在测试运行过程中生成报告，您可以在测试运行期间的任何时候查看报告。这对于非常长的测试运行特别有用。
+Ranorex在测试运行过程中生成报告，你可以在测试运行期间的任何时候查看报告。这对于非常长的测试运行特别有用。
 
 - Ranorex在测试运行一开始就开始生成报告
 - 一旦设置的自动保存时间结束(默认= 30s)，就会保存报表文件
@@ -211,7 +211,7 @@ Ranorex在测试运行过程中生成报告，您可以在测试运行期间的�
 *渐进式报告，带有两个通知，表明测试仍在进行中*
 
 **提示** 
-> 当然，如果您尝试在运行测试的计算机上打开报告，则很可能会导致测试失败，因为您将与UI进行交互。
+> 当然，如果你尝试在运行测试的计算机上打开报告，则很可能会导致测试失败，因为你将与UI进行交互。
 
 ## 报告设置和配置
 
