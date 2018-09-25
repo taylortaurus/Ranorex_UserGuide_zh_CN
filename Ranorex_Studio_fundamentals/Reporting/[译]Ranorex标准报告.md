@@ -3,7 +3,7 @@
 *原文地址 👉 [Ranorex standard reporting][0]*
 
 *@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2018-9-21*    
+*♋ translate time : 2018-9-25*    
 
 ---
 
