@@ -46,5 +46,5 @@
 [1]: https://www.ranorex.com/rx-media/rx-user-guide/v8.2/download/RxSampleDataDrivenTesting.zip
 [2]: ..\\..\\..\\Ranorex_Studio_fundamentals/Ranorex_Studio/[译]RanorexStudio起始页.html
 [3]: ..\\..\\..\\Ranorex_Studio_fundamentals/Ranorex_Recorder/index.html
-[4]: ..\\..\\..\\Ranorex_Studio_fundamentals/Test_suite/index.html
+[4]: ..\\..\\Ranorex_Studio_fundamentals/Test_suite/index.html
 [5]: .\[译]数据和数据的管理.html
