@@ -232,4 +232,4 @@ Ranorex在测试运行过程中生成报告，你可以在测试运行期间的�
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/reporting/ranorex-standard-reporting/
 [1]: ..\\..\\..\\ranorex-studio-advanced/Data-driven_testing/index.html
 [2]: ..\\..\\test-suite/[译][译]执行测试套件.html
-[3]: ..\\..\\..\\ranorex-studio-system-details/Settings_and_configuration/[译]报告设置.html
+[3]: ..\\..\\..\\ranorex-studio-system-details/settings-configuration/[译]报告设置.html
