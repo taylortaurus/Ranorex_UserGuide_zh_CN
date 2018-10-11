@@ -18,6 +18,8 @@
 - []()
 - []()
 - []()
+- [创建一个新的测试解决方案](#创建一个新的测试解决方案)
+- [Ranorex Studio用户界面](#ranorex-studio用户界面)
 
 > **章节预览**  
 > 在 \> Ranorex Studio 高级教程 \> 👉 [UI元素][2]章节中详细介绍和解释了`UI元素`的高级概念
@@ -64,9 +66,19 @@
 详细描述在一个或多个Ranorex工具或方法(解决过程)中使用和应用的(基本)原理或技术知识或必要信息或事实。通常这些概念的知识对于理解和应用参考工具或方法是至关重要的。
 
 
+### URL编写规则
+
+- 当前目录 
+
+> .\index.html
+
+- 下级目录
+
+> .\ranorex-studio-fundamentals\index.html
+
 [0]: XXX
 [1]: https://www.ranorex.com/rx-media/rx-user-guide/v8.2/download/RxSampleDataDrivenTesting.zip
-[2]: ..\\..\\..\\Ranorex_Studio_fundamentals/Ranorex_Studio/[译]RanorexStudio起始页.html
-[3]: ..\\..\\..\\Ranorex_Studio_fundamentals/Ranorex_Recorder/index.html
-[4]: ..\\..\\Ranorex_Studio_fundamentals/Test_suite/index.html
+[2]: ..\\..\\..\\ranorex-studio-fundamentals/Ranorex_Studio/[译]RanorexStudio起始页.html
+[3]: ..\\..\\..\\ranorex-studio-fundamentals/Ranorex_Recorder/index.html
+[4]: ..\\..\\ranorex-studio-fundamentals/Test_suite/index.html
 [5]: .\[译]数据和数据的管理.html
