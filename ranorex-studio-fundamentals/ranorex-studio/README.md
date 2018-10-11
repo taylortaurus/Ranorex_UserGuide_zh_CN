@@ -73,6 +73,6 @@ Ranorex Studio启动并显示首页
 ![A3010-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudio/A3010-0000010.png)  
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio/introduction/
-[1]: ..\\..\\..\\Ranorex_Studio_system_details/Licensing/index.html
+[1]: ..\\..\\..\\ranorex-studio-system-details/licensing/index.html
 [2]: https://www.ranorex.com/prices/
 

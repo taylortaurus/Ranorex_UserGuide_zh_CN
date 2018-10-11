@@ -24,6 +24,6 @@
 [2]: .\Regular_expressions_in_RanoreXPath\index.html
 [3]: .\User_code_library\index.html
 [4]: .\Code_modules\index.html
-[5]: .\Ranorex_Studio_IDE\index.html
+[5]: .\ranorex-studio_IDE\index.html
 
 

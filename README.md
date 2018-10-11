@@ -53,7 +53,7 @@
 
 
 [0]: https://www.ranorex.com/
-[1]: https://en.wikipedia.org/wiki/Ranorex_Studio
+[1]: https://en.wikipedia.org/wiki/ranorex-studio
 [2]: https://www.ranorex.com/help/latest
 [3]: https://taylortaurus.top/
 [4]: https://blog.taylortaurus.top

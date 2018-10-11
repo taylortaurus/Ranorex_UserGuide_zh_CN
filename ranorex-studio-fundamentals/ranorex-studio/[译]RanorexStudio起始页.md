@@ -83,4 +83,4 @@ Ranorex Studio起始页面是打开程序后的初始工作环境。下面描述
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio/ranorex-studio-startpage/
-[1]: ..\\..\\..\\Ranorex_Studio_system_details/Licensing/index.html
+[1]: ..\\..\\..\\ranorex-studio-system-details/licensing/index.html

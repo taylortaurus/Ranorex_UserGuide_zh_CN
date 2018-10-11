@@ -77,8 +77,8 @@
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-advanced/data-driven-testing/introduction/
 [1]: https://www.ranorex.com/rx-media/rx-user-guide/v8.2/download/RxSampleDataDrivenTesting.zip
-[2]: ..\\..\\..\\ranorex-studio-fundamentals/Ranorex_Studio/[译]RanorexStudio起始页.html
-[3]: ..\\..\\..\\ranorex-studio-fundamentals/Ranorex_Recorder/index.html
-[4]: ..\\..\\..\\ranorex-studio-fundamentals/Test_suite/index.html
+[2]: ..\\..\\..\\ranorex-studio-fundamentals/ranorex-studio/[译]RanorexStudio起始页.html
+[3]: ..\\..\\..\\ranorex-studio-fundamentals/ranorex-recorder/index.html
+[4]: ..\\..\\..\\ranorex-studio-fundamentals/test-suite/index.html
 [5]: .\[译]数据和数据的管理.html
 [6]: ..\\Variables_&_parameter/index.html

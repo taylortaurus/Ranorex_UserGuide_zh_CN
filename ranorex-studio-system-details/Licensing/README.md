@@ -1,6 +1,6 @@
 # [译] 证书
 
-*原文地址 👉 [Licensing][0]*
+*原文地址 👉 [licensing][0]*
 
 *@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
 *♋ translate time : 2018-7-8*    

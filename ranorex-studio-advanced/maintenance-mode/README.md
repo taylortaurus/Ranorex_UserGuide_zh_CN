@@ -86,4 +86,4 @@
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-advanced/maintenance-mode/
-[1]: ..\\..\\..\\ranorex-studio-fundamentals/Test_suite/[译]执行测试套件.html
+[1]: ..\\..\\..\\ranorex-studio-fundamentals/test-suite/[译]执行测试套件.html
