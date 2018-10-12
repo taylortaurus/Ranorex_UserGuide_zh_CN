@@ -8,6 +8,7 @@ bui# Summary
 
 * [Ranorex Studio 基础教程](ranorex-studio-fundamentals/README.md)  
     * [在20分钟内了解 Ranorex](ranorex-studio-fundamentals/ranorize-20-minutes/README.md)  
+        * [介绍](ranorex-studio-fundamentals/ranorize-20-minutes/introduction.md)  
         * [下载并安装RanorexStudio](ranorex-studio-fundamentals/ranorize-20-minutes/1-download-install-ranorex-studio.md)  
         * [创建一个新的解决方案](ranorex-studio-fundamentals/ranorize-20-minutes/2-create-new-solution.md)
         * [规划你的首个测试](ranorex-studio-fundamentals/ranorize-20-minutes/3-plan-first-test.md)    
