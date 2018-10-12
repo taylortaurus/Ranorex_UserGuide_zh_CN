@@ -29,5 +29,5 @@
 ![A1020-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1020-0000040.png)
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio-fundamentals/1-download-install-ranorex-studio/
-[1]: .\[译]创建一个新的解决方案.md
+[1]: .\2-create-new-solution.md
 [2]: https://www.ranorex.com/free-trial/
