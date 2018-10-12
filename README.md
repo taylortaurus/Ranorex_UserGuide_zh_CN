@@ -5,8 +5,13 @@
         <img src="https://travis-ci.org/taylortaurus/Ranorex_UserGuide_zh_CN.svg?branch=gitbook">
     </a>
 </div>  
+ 
+ <div style="text-align:center">
+<a title="把这个链接拖到你的收藏夹栏，在查阅官方手册时，点击收藏夹上该链接，即可跳转到本站中对应的翻译页面" href='javascript:location.href = location.href.substring(0, location.href.lastIndexOf("/")).replace(/^http(s)?:\/\/(.*?)\/help\/(.*?)\//,"https://ranorex.xyz/")'>变强按钮 | 跳转到翻译页面</a>
+</div>  
 
----
+---  
+
 ### Ranorex 相关
 
 - Ranorex 官网地址 👉 [Ranorex Studio][0]
