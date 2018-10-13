@@ -279,19 +279,19 @@ End Property
 
 存储库使用的变量(例如，KeePass的“添加条目对话框”上下文菜单中的菜单项的“varExpires”)可以通过存储库轻松访问，甚至可以通过代码访问。为了将这些变量绑定到外部数据(例如Excel文件中的一行)，你必须创建一个新的模块变量来充当外部数据和存储库变量之间的桥梁。遵循这种方法，显然最好将setter方法用于公共变量。每当设置该变量的值时，都会调用一个公共变量的setter方法。即为私有变量赋值，为公共属性保存信息。为了设置存储库变量，可以很容易地扩展这个方法。  
 
-前两个新模块变量“varExpires”和“varIconIndex”必须以与“varTitle”、“varPassword”相同的方式创建。之后，必须将一个简单的代码行插入到每个变量的setter方法中。此代码行用于将传递的值分配给存储库变量，并便于绑定到外部数据。 \
+前两个新模块变量“varExpires”和“varIconintroduction”必须以与“varTitle”、“varPassword”相同的方式创建。之后，必须将一个简单的代码行插入到每个变量的setter方法中。此代码行用于将传递的值分配给存储库变量，并便于绑定到外部数据。 \
   
 *C#*
 ```clike
-string _varRepoIconIndex = "1";
+string _varRepoIconintroduction = "1";
 [TestVariable("EF09BC93-3447-4AC2-9DEB-FE3D78ED5538")]
-public string varRepoIconIndex
+public string varRepoIconintroduction
 {
-    get { return _varRepoIconIndex; }
+    get { return _varRepoIconintroduction; }
     set {
-        _varRepoIconIndex = value;
+        _varRepoIconintroduction = value;
         // Additionally set the Repository Variable in Setter-Method
-        MyRepo.varIconIndex = _varRepoIconIndex;
+        MyRepo.varIconintroduction = _varRepoIconintroduction;
     }
 }
     string _varRepoExpires = "1 Year";
@@ -309,16 +309,16 @@ public string varRepoIconIndex
 
 *VB.NET*
 ```clike
-Private _varRepoIconIndex As String = "1"
+Private _varRepoIconintroduction As String = "1"
 <testvariable("ef09bc93-3447-4ac2-9deb-fe3d78ed5538")> _
-Public Property varRepoIconIndex() As String
+Public Property varRepoIconintroduction() As String
 Get
-Return _varRepoIconIndex
+Return _varRepoIconintroduction
 End Get
 Set
-_varRepoIconIndex = value
+_varRepoIconintroduction = value
 ' Additionally set the Repository Variable in Setter-Method
-MyRepo.varIconIndex = _varRepoIconIndex
+MyRepo.varIconintroduction = _varRepoIconintroduction
 End Set
 End Property
 Private _varRepoExpires As String = "1 Year"
@@ -355,5 +355,5 @@ End Property
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-expert/code-modules/
-[1]: ..\\..\\..\\ranorex-studio-advanced/Image-based_automation/index.html
+[1]: ..\\..\\..\\ranorex-studio-advanced/Image-based_automation/introduction.html
 

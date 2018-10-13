@@ -1,12 +1,6 @@
-# [译] 动作
+## 本页说明
 
-*原文地址 👉 [Actions][0]*
+为了可以和官方同步URL，gitbook默认章节的README.md内容暂时不放翻译内容。
+待日后放置本章节的实践示例！
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2018-7-8*    
-*♋ update time : 2018-7-8*  
-
----
-
-[0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/actions/introduction/
-
+吼吼！加油！！！

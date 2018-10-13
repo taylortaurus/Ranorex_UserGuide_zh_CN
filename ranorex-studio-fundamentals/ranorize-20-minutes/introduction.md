@@ -4,7 +4,7 @@
 
 *@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
 *♋ translate time : 2018-7-8*    
-*♋ update time : 2018-9-20*  
+*♋ update time : 2018-10-13*  
 
 ---
 
@@ -12,7 +12,7 @@
 
 ![Introduction](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1010-0000010.png)
 
-20分钟，你需要一台工作电脑。我们将继续介绍其他所有内容。
+在未来的20分钟内，你需要一台工作电脑，我们将继续介绍其他所有内容。
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio-fundamentals/introduction/
 

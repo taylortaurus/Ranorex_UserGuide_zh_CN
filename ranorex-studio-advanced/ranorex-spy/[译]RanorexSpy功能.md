@@ -234,9 +234,9 @@ UI元素详情区域列出了对应UI元素的所有属性。
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-advanced/ranorex-spy/ranorex-spy-functions/
-[1]: ..\\..\\..\\ranorex-studio-fundamentals/repository/index.html
+[1]: ..\\..\\..\\ranorex-studio-fundamentals/repository/introduction.html
 [2]: .\[译]路径编辑器.html
-[3]: ..\\..\\..\\Web_and_mobile_testing/Endpoints/index.html
+[3]: ..\\..\\..\\Web_and_mobile_testing/Endpoints/introduction.html
 [4]: .\[译]快照文件.html
-[5]: ..\\..\\UI-elements/index.html
-[6]: ..\\..\\..\\ranorex-studio-expert/Mapping_dynamic_UI_elements/index.html
+[5]: ..\\..\\UI-elements/introduction.html
+[6]: ..\\..\\..\\ranorex-studio-expert/Mapping_dynamic_UI_elements/introduction.html

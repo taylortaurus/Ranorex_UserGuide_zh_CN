@@ -20,10 +20,10 @@
 - [Ranorex Studio 集成开发环境][5]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-expert/  
-[1]: .\Mapping_dynamic_UI_elements\index.html
-[2]: .\Regular_expressions_in_RanoreXPath\index.html
-[3]: .\User_code_library\index.html
-[4]: .\Code_modules\index.html
-[5]: .\ranorex-studio_IDE\index.html
+[1]: .\Mapping_dynamic_UI_elements\introduction.html
+[2]: .\Regular_expressions_in_RanoreXPath\introduction.html
+[3]: .\User_code_library\introduction.html
+[4]: .\Code_modules\introduction.html
+[5]: .\ranorex-studio_IDE\introduction.html
 
 

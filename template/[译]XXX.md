@@ -70,15 +70,15 @@
 
 - 当前目录 
 
-> .\index.html
+> .\introduction.html
 
 - 下级目录
 
-> .\ranorex-studio-fundamentals\index.html
+> .\ranorex-studio-fundamentals\introduction.html
 
 [0]: XXX
 [1]: https://www.ranorex.com/rx-media/rx-user-guide/v8.2/download/RxSampleDataDrivenTesting.zip
-[2]: ..\\..\\..\\ranorex-studio-fundamentals/ranorex-studio/[译]RanorexStudio起始页.html
-[3]: ..\\..\\..\\ranorex-studio-fundamentals/ranorex-recorder/index.html
-[4]: ..\\..\\ranorex-studio-fundamentals/test-suite/index.html
+[2]: ..\\..\\..\\ranorex-studio-fundamentals/ranorex-studio/ranorex-studio-startpage.html
+[3]: ..\\..\\..\\ranorex-studio-fundamentals/ranorex-recorder/introduction.html
+[4]: ..\\..\\ranorex-studio-fundamentals/test-suite/introduction.html
 [5]: .\[译]数据和数据的管理.html

@@ -25,6 +25,6 @@
   
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-advanced/tracking-ui-elements/introduction/
-[1]: ..\\RanoreXPath/index.html
-[2]: ..\\Ranorex_Spy/index.html
-[3]: ..\\UI-elements/index.html
+[1]: ..\\RanoreXPath/introduction.html
+[2]: ..\\Ranorex_Spy/introduction.html
+[3]: ..\\UI-elements/introduction.html

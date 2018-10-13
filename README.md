@@ -1,13 +1,13 @@
 # <div align="center"> Ranorex User Guide 中文版 </div>  
 
-<div align="right">
+<div style="text-align:right">
     <a href="https://travis-ci.org/taylortaurus/Ranorex_UserGuide_zh_CN" target="_blank">
         <img src="https://travis-ci.org/taylortaurus/Ranorex_UserGuide_zh_CN.svg?branch=gitbook">
     </a>
 </div>  
  
  <div style="text-align:center">
-<a title="把这个链接拖到你的收藏夹栏，在查阅官方手册时，点击收藏夹上该链接，即可跳转到本站中对应的翻译页面" href='javascript:location.href = location.href.substring(0, location.href.lastIndexOf("/")).replace(/^http(s)?:\/\/(.*?)\/help\/(.*?)\//,"https://ranorex.xyz/")'>变强按钮 | 跳转到翻译页面</a>
+<a title="把这个链接拖到你的收藏夹栏，在查阅官方手册时，点击收藏夹上该链接，即可跳转到本站中对应的翻译页面" href='javascript:location.href = location.href.substring(0, location.href.lastintroductionOf("/")).replace(/^http(s)?:\/\/(.*?)\/help\/(.*?)\//,"https://ranorex.xyz/")'>变强按钮 | 将我拖到收藏夹栏上</a>
 </div>  
 
 ---  
@@ -17,7 +17,7 @@
 - Ranorex 官网地址 👉 [Ranorex Studio][0]
 - Ranorex 用户手册官方地址 👉 [Ranorex User Guide][2]
 - Ranorex 维基介绍 👉 [Ranorex Studio-Wiki][1]
-- Ranorex Studio 各版本百度云分流下载 👉 [Ranorex Stuido Download][5]
+- Ranorex Studio 各版本百度云分流下载 👉 [Ranorex Studio BaiduPan Download][5]
 
 ---
 
@@ -38,8 +38,6 @@
 </div>
 
 --- 
-
-
 
 ### 感谢
 

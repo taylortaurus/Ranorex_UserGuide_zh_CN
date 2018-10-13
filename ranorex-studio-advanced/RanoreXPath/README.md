@@ -22,4 +22,4 @@ RanoreXPath表达式主要用于唯一标识桌面、Web或移动应用程序中
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-advanced/ranorexpath/introduction/
-[1]: ..\UI-elements\index.html
+[1]: ..\UI-elements\introduction.html

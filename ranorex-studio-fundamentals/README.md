@@ -32,6 +32,6 @@
 详细描述在一个或多个Ranorex工具或方法(解决过程)中使用和应用的(基本)原理或技术知识或必要信息或事实。通常这些概念的知识对于理解和应用参考工具或方法是至关重要的。
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/
-[1]: .\ranorize-20-minutes\index.html
+[1]: .\ranorize-20-minutes\introduction.html
 [2]: https://www.ranorex.com/blog/studio-quick-start/
 
