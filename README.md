@@ -6,7 +6,7 @@
     </a>
 </div>  
  
- <div style="text-align:center">
+<div style="text-align:center">
 <a title="把这个链接拖到你的收藏夹栏，在查阅官方手册时，点击收藏夹上该链接，即可跳转到本站中对应的翻译页面" href='javascript:location.href = location.href.substring(0, location.href.lastintroductionOf("/")).replace(/^http(s)?:\/\/(.*?)\/help\/(.*?)\//,"https://ranorex.xyz/")'>变强按钮 | 将我拖到收藏夹栏上</a>
 </div>  
 
