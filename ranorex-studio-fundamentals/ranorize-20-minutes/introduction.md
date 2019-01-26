@@ -4,7 +4,7 @@
 
 *@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
 *♋ translate time : 2018-7-8*    
-*♋ update time : 2018-10-13*  
+*♋ update time : 2019-1-26*  
 
 ---
 

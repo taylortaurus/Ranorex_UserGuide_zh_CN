@@ -3,7 +3,8 @@
 *原文地址 👉 [Download and install Ranorex Studio][0]*
 
 *@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2018-9-20*    
+*♋ translate time : 2018-9-20*  
+*♋ update time : 2019-1-26*    
 
 ---
 
@@ -26,7 +27,14 @@
 
 一旦完成，Ranorex Studio会自动启动并显示启动页面。
 
-![A1020-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1020-0000040.png)
+![A1020-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1020-0000040.png)  
+
+**注意**   
+> 如果解决方案向导没有显示，你可以通过单击以下选项之一来启动它：
+> a: File --> New --> Solution using wizard...
+> b: New test solution using wizard...
+
+![A1020-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1020-0000050.png)  
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio-fundamentals/1-download-install-ranorex-studio/
 [1]: ./2-create-new-solution.md
