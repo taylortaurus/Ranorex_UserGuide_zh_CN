@@ -10,8 +10,8 @@ bui# Summary
     * [在20分钟内了解 Ranorex](ranorex-studio-fundamentals/ranorize-20-minutes/README.md)  
         * [介绍](ranorex-studio-fundamentals/ranorize-20-minutes/introduction.md)  
         * [下载并安装RanorexStudio](ranorex-studio-fundamentals/ranorize-20-minutes/1-download-install-ranorex-studio.md)  
-        * [创建一个新的解决方案](ranorex-studio-fundamentals/ranorize-20-minutes/2-create-new-solution.md)
-        * [规划你的首个测试](ranorex-studio-fundamentals/ranorize-20-minutes/3-plan-first-test.md)    
+        * [创建一个新的解决方案](ranorex-studio-fundamentals/ranorize-20-minutes/3-create-new-solution.md)
+        * [规划你的首个测试](ranorex-studio-fundamentals/ranorize-20-minutes/2-plan-first-test.md)    
         * [录制你的首个测试](ranorex-studio-fundamentals/ranorize-20-minutes/4-record-first-test.md)  
         * [分析你的录制动作](ranorex-studio-fundamentals/ranorize-20-minutes/5-analyze-recording.md)  
         * [运行测试并检查报告](ranorex-studio-fundamentals/ranorize-20-minutes/6-run-test-check-report.md)
@@ -45,10 +45,4 @@ bui# Summary
     * [报告](ranorex-studio-fundamentals/reporting/README.md)    
 * [Ranorex Studio 专家教程](ranorex-studio-expert/README.md)  
     * [Ranorex Studio 集成开发环境](ranorex-studio-expert/ranorex-studio-ide/README.md)
-        * [调试](ranorex-studio-expert/ranorex-studio-ide/[译]调试.md)
-
-## 其他主题
-* [Ranorex Studio 系统详情](ranorex-studio-system-details/README.md)  
-    * [证书](ranorex-studio-system-details/licensing/README.md)
-    * [设置和配置](ranorex-studio-system-details/settings-configuration/README.md)
-        * [Ranorex录制器设置](ranorex-studio-system-details/settings-configuration/[译]Ranorex录制器设置.md)  
+        * [调试](ranorex-studio-expert/ranorex-studio-ide/[译]调试.md) 

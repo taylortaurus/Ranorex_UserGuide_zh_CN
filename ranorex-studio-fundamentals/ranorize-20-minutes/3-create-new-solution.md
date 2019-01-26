@@ -1,9 +1,10 @@
 # [译] 创建一个新的解决方案
 
-*原文地址 👉 [Create a new solution][0]*
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2018-9-20*    
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2018年9月20日-green.svg?longCache=true&style=flat-square)
+![](https://img.shields.io/badge/UpdateTime-2019年1月26日-green.svg?longCache=true&style=flat-square)  
 
 ---
 
@@ -72,5 +73,5 @@
 
 
 
-[0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio-fundamentals/2-create-new-solution/
+[0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorize-20-minutes/2-create-new-solution/
 

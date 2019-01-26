@@ -1,10 +1,10 @@
-# [译] 下载并安装Ranorex Studio
+# [译] 下载并安装Ranorex Studio  
 
-*原文地址 👉 [Download and install Ranorex Studio][0]*
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2018-9-20*  
-*♋ update time : 2019-1-26*    
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2018年9月20日-green.svg?longCache=true&style=flat-square)
+![](https://img.shields.io/badge/UpdateTime-2019年1月26日-green.svg?longCache=true&style=flat-square)
 
 ---
 
@@ -37,5 +37,5 @@
 ![A1020-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1020-0000050.png)  
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio-fundamentals/1-download-install-ranorex-studio/
-[1]: ./2-create-new-solution.md
+[1]: .\3-create-new-solution.html
 [2]: https://www.ranorex.com/free-trial/

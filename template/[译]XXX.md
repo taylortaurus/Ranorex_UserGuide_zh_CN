@@ -7,6 +7,15 @@
 
 ---
 
+# [译] 总结
+
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
+
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2018年9月21日-green.svg?longCache=true&style=flat-square)
+![](https://img.shields.io/badge/UpdateTime-2018年9月21日-green.svg?longCache=true&style=flat-square)
+---
+
 **本章导视，章节内段落跳转推荐使用右上角的锚点！**
 
 - []()
