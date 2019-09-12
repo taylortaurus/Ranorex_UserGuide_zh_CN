@@ -3,7 +3,7 @@
 *原文地址 👉 [Convert existing reports to PDF][0]*
 
 *@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2018-9-26*    
+*♋ translate time : 2019-9-10*    
 
 ---
 
@@ -12,10 +12,15 @@
 **提示**  
 > 如果您希望Ranorex在测试执行期间生成报表时将其转换为PDF，请使用`Ranorex Automation Helpers`中包含的`ReportToPDFModule`。
 
-**本章导视，章节内段落跳转推荐使用右上角的锚点！**
+**本章导视**
 
 - [下载报告转PDF工具](#下载报告转PDF工具)
 - [转换现有的一个报告](#转换现有的一个报告)
+
+>**视频向导**           
+视频“转换报告”将引导您完成本章中的信息。              
+[立即观看](https://www.youtube.com/embed/XFUGey_NgXU)
+
 
 ## 下载报告转PDF工具
 
@@ -48,4 +53,9 @@ ReportToPDF.exe [input file] [output file] /[argument]
 - `failed`: 仅显示故障模块的动作
 - `all`: 所有的动作都显示（默认值）
 
+---
+
+[👈复杂的报告定制][1]
+
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/reporting/converting-reports-data-types/
+[1]: .\user-defined-reporting.html

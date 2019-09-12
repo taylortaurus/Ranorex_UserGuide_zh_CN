@@ -3,12 +3,12 @@
 [![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
 
 [![](https://img.shields.io/badge/Translator-Taylortaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
-![](https://img.shields.io/badge/TranslateTime-2018年9月21日-green.svg?longCache=true&style=flat-square)
+![](https://img.shields.io/badge/TranslateTime-2019年9月6日-green.svg?longCache=true&style=flat-square)
 ---
 
 恭喜你!你刚刚用Ranorex Studio完成了你的第一个自动化软件测试。
 
-如果你想要更多的测试操作，请继续尝试下面关于导致测试失败的简短教程。
+如果你想要更多的测试动作，请继续尝试下面关于导致测试失败的简短教程。
 
 或者，简单地翻到页面底部，就如何在Ranorex Studio度过你的下一个小时提出建议。
 
@@ -19,11 +19,13 @@
 
 ## 创建一个失败的测试
 
-测试失败是测试的一部分。 让我们在受控环境中制作一个，看看它们在Ranorex Studio中的样子。
+测试失败是测试的一部分。 让我们在受控的环境中制作一个，看看它们在Ranorex Studio中的样子。
 
 1. 要返回录制视图，请单击`Recording1.rxrec`选项卡
 
-2. 选择动作#3并将文本输入更改为`Sally`  
+![A1080-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1080-0000010.png)
+
+1. 选择动作#3并将文本输入更改为`Sally`  
 
 ![A1080-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1080-0000020.png)
 
@@ -74,9 +76,13 @@ Ranorex Studio是在统一界面中组织Ranorex功能的中央平台。在本�
 > **章节预览**  
 > 跳转到 \> Ranorex Studio 基础教程 \>  👉 [测试套件][3]
 
+---
+[👈运行测试并检查报告][4]
+
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio-fundamentals/summary/
 [1]: ..//..//ranorex-studio-fundamentals/ranorex-studio/ranorex-studio-startpage.html
 [2]: ..//..//ranorex-studio-fundamentals/ranorex-recorder/introduction.html
 [3]: ..//..//ranorex-studio-fundamentals/test-suite/introduction.html
+[4]: .\6-run-test-check-report.html

@@ -4,12 +4,13 @@
 
 *@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
 *♋ translate time : 2018-10-11*    
+*♋ update time : 2019-9-5*
 
 ---
 
 在本章中，您将学习如何有效地使用Recorder控制中心和热键。
 
-**本章导视，章节内段落跳转推荐使用右上角的锚点！**
+**本章导视**
 
 - [最大/最小化视图](#最大最小化视图)
 - [标准功能](#标准功能)
@@ -25,23 +26,23 @@
 
 录制器控制中心在最大化和最小化的视图中都可用。通过单击窗口右上角的按钮在它们之间切换。
 
-![A4070-0000011](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4070-0000011.png)  
+![A4070-0000011](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4070-0000011.png)  
 
-1. 显示所有控件的完整视图和显示最后四个录制操作的动作表
+1. 显示所有控件的完整视图和显示最后四个录制动作的动作表
 2. 最小化视图，仅显示底部功能区中的控件
 
 ## 标准功能
 
 录制器控制中心有三个激活的按钮控件
 
-![A4070-0000021](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4070-0000021.png) 
+![A4070-0000021](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4070-0000021.png) 
 *录制器控制中心激活的按钮控件*  
 
 1. 验证模式
     - 在录制中插入一个测试验证动作
 2. 暂停/继续
     - 暂停/继续录制
-    - 暂停时候不会记录用户交互
+    - 暂停时候不会录制用户交互
 3. 停止
     - 停止录制
     - 返回Ranorex Studio   
@@ -50,32 +51,32 @@
 
 在完整视图中，控制中心显示最后四个录制的动作。从那里，你可以删除它们或查看它们各自的截图
 
-![A4070-0000031](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4070-0000031.png)  
+![A4070-0000031](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4070-0000031.png)  
 
 1. 列表显示最后四个录制的动作
 2. 将鼠标放在眼睛上方以显示动作的屏幕截图
-3. 单击垃圾箱以删除操作
+3. 单击垃圾箱以删除动作
 
 您还可以通过单击控制中心右下角的`Add`来添加三种动作类型中的一种
 
-![A4070-0000041](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4070-0000041.png)  
+![A4070-0000041](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4070-0000041.png)  
 
-4. 单击`Add`直接添加三种操作类型之一。在您执行此操作时录制暂停
+4. 单击`Add`直接添加三种动作类型之一。在您执行此动作时录制暂停
 
-![A4070-0000051](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4070-0000051.png)  
+![A4070-0000051](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4070-0000051.png)  
 
-5. 可用的操作是消息，屏幕截图和延迟。有关这些功能的更多信息，请参阅 👉 [动作属性][1]章节内容
+5. 可用的动作是消息，屏幕截图和延迟。有关这些功能的更多信息，请参阅 👉 [动作属性][1]章节内容
 
-6. 您可以在此处配置所选操作。根据动作而变化。
+6. 您可以在此处配置所选动作。根据动作而变化。
 
-7. 单击此按钮可添加操作并恢复录制
+7. 单击此按钮可添加动作并恢复录制
 
 
 ## 启用/关闭热键
 
 通过将相应的开关设置为打开或关闭来打开和关闭热键
 
-![A4070-0000061](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4070-0000061.png)  
+![A4070-0000061](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4070-0000061.png)  
 
 1. 切换到打开和关闭热键
 2. 将鼠标悬停在此信息元素上以显示可用的热键
@@ -93,10 +94,10 @@
 
 ## 鼠标移动热键
 
-通常，不记录鼠标移动。如果需要录制鼠标移动，可以按`M`键进行操作。按照以下说明练习录制鼠标移动
+通常，不录制鼠标移动。如果需要录制鼠标移动，可以按`M`键进动作作。按照以下说明练习录制鼠标移动
 *录制鼠标移动*  
 
-![A4070-0000071](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4070-0000071.png)
+![A4070-0000071](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4070-0000071.png)
 
 1. 将鼠标移到“简介”选项卡上，然后按`M`键
 2. 将鼠标移到名称文本字段上，然后按`M`键
@@ -107,7 +108,7 @@
 
 一旦停止录制，动作表将列出四个鼠标移动的动作。每个动作都链接到UI元素。
 
-![A4070-0000081](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4070-0000081.png)
+![A4070-0000081](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4070-0000081.png)    
 *录制的鼠标移动*  
 
 
@@ -136,22 +137,24 @@
 - Ranorex Recorder在录制期间识别每个UI元素
 - UI元素识别通过录制期间鼠标移动后的红框可见
 
-![A4070-0000091](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4070-0000091.png)  
+![A4070-0000091](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4070-0000091.png)  
 *红框的UI元素*  
 
 ### 更改识别级别：
 
 滚动鼠标滚轮以在UI元素级别中移动
 
-![A4070-0000101](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4070-0000101.png)  
+![A4070-0000101](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4070-0000101.png)  
 *滚动鼠标滚轮时，识别级别会发生变化*
 
+---
+[👈管理录制模块][5]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-recorder/recorder-hotkeys/
 [1]: ..//..//ranorex-studio-fundamentals/actions/[译]动作属性.html
 [2]: ..//..//ranorex-studio-fundamentals/test-validation/introduction.html
 [3]: ..//..//ranorex-studio-fundamentals/test-validation/[译]验证工具提示.html
 [4]: ..//..//..//ranorex-studio-advanced/image-based-automation/introduction.html
-
+[5]:.\managing-recording-modules.html
 
 

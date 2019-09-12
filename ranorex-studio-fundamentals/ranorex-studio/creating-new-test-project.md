@@ -4,10 +4,11 @@
 
 *@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
 *♋ translate time : 2018-9-26*    
+*♋ update time : 2019-9-4*
 
 ---
 
-创建新的测试解决方案很简单。本章介绍如何执行此操作。
+创建新的测试解决方案很简单。本章介绍如何执行此动作。
 
 1. 在起始页面的开始部分，单击`New test solution`
 2. 打开`New project`对话框窗口，如下所示。
@@ -33,10 +34,12 @@
 > 项目目录是从相应的环境变量`％USERPROFILE％`引用的，可以在Ranorex设置中设置和更改
 
 
-
-
-
-
-单击Create以确认测试项目的创建
+---
+[👈示例项目][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+[👉工作环境和视图][2]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio/creating-new-test-project/
+
+[1]:.\sample-projects.html
+[2]:.\working-environments-views.html
+
