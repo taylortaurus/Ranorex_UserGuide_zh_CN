@@ -4,12 +4,13 @@
 
 *@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
 *♋ translate time : 2018-9-26*    
+*♋ update time : 2019-9-4*
 
 ---
 
 Ranorex Studio工作环境提供了一个管理测试解决方案及其所有组件的中心位置。本章介绍基本工作环境和默认视图。
 
-**本章导视，章节内段落跳转推荐使用右上角的锚点！**
+**本章导视**
 
 - [基本工作环境结构](#基本工作环境结构)
 - [新增视图](#新增视图)
@@ -20,6 +21,7 @@ Ranorex Studio工作环境提供了一个管理测试解决方案及其所有组
 Ranorex Studio提供了一个简单的工作环境，并根据共同的原则进行组织，例如分层组织。有关工作环境结构的介绍，请参阅下面的概述。
 
 ![A3030-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudio/A3030-0000010.png)
+*基本的工作环境结构*
 
 1. 项目视图
 
@@ -28,7 +30,7 @@ Ranorex Studio提供了一个简单的工作环境，并根据共同的原则进
 
 2. 模块浏览器
 
-    - 模块浏览器列出项目代码文件中的所有可用代码和记录模块。它还列出了项目模块组文件中的所有模块组
+    - 模块浏览器列出项目代码文件中的所有可用代码和录制模块。它还列出了项目模块组文件中的所有模块组
     - 此外，它还显示模块或模块组定义的所有变量
     - 此视图主要用于拖放自动化模块和模块组，以及在测试套件视图中重用模块和模块组
 
@@ -69,5 +71,10 @@ Ranorex Studio提供了一个简单的工作环境，并根据共同的原则进
 **贴士**  
 通过单击选项卡中文件名旁边的**[x]**，从工作环境中删除活动视图。
 
+---
+[👈创建一个新的测试项目][1]
+
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio/working-environments-views/
+
+[1]:.\creating-new-test-project.html

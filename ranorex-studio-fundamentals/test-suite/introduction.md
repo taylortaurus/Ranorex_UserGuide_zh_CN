@@ -4,18 +4,22 @@
 
 *@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
 *♋ translate time : 2018-7-8*    
-*♋ update time : 2018-10-25*  
+*♋ update time : 2019-9-5*
 
 ---
 
 测试套件是构建、组织和运行你在Ranorex Studio中测试的地方。测试套件主要由测试用例组成，而测试用例又是由模块构建的。您可以添加智能文件夹来构建您的测试。测试套件也可以配置变量和绑定数据 👉 [数据驱动测试][1]。您可以在Ranorex Studio或独立的Ranorex测试套件运行器中运行测试套件。
 
-**本章导视，章节内段落跳转推荐使用右上角的锚点！**
+**本章导视**
 
 - [下载示例解决方案](#下载示例解决方案)
 - [测试套件文件](#测试套件文件)
-- [添加一个测试套件](#添加一个测试套件)
 - [测试套件视图](#测试套件视图)
+
+>**视频向导**      
+>视频“Ranorex Studio测试套件简介”将向您介绍本章中的信息。     
+>[立即观看][6](视频来自Youtube)
+
 
 ## 下载示例解决方案
 
@@ -55,7 +59,7 @@
 有些项目默认情况下不包含测试套件，或者您可能希望向项目添加多个测试套件，按照下面的说明去做。
 
 
-[A5050-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000010.png)
+![A5050-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000010.png)
 
 1. 在Studio工具栏上，点击`Add test suite`按钮
 2. 如果你的解决方案包含多个项目，选择一个所要添加的项目，点击`OK`
@@ -69,7 +73,7 @@
 
 要打开测试套件，双击测试套件文件。出现测试套件视图，这是您在测试套件中工作的地方。
 
-[A5010-0000021](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5010-0000021.png)
+![A5010-0000021](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5010-0000021.png)
 
 1. `ADD`按钮：单击此处可显示要添加到测试套件的下拉列表，例如测试用例或智能文件夹。您还可以通过在测试套件层次结构中右键单击添加项。如果不能在测试套件层次结构的当前级别上添加项，则下拉列表中的项将变为灰色。
 
@@ -103,6 +107,10 @@
 > **章节预览**  
 > 在 \> Ranorex Studio 高级教程  \> 👉 [维护模式][5]一文中介绍和解释了相关概念
 
+---
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[测试套件结构👉][7]
+
+
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-suite/introduction/
 [1]: ..//..//..//ranorex-studio-advanced/data-driven-testing/introduction.html
@@ -110,4 +118,5 @@
 [3]: ..//..//test-suite/multiple-testsuites.html
 [4]: ..//..//test-suite/running-tests.html
 [5]: ..//..//..//ranorex-studio-advanced/maintenance-mode.html
-
+[6]:https://www.youtube.com/embed/lX4Up53NxGI
+[7]:.\test-suite-structure-elements.html

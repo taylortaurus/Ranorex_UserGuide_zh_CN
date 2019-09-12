@@ -4,25 +4,25 @@
 
 *@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
 *♋ translate time : 2018-7-8*    
-*♋ update time : 2018-9-26*  
+*♋ update time : 2019-9-4*
 
 ---
 
 在本章中，您将下载并安装Ranorex Studio。这是一个简单的过程，大约需要3分钟完成。按照下面的说明。
 
-**本章导视，章节内段落跳转推荐使用右上角的锚点！**
+**本章导视**
 
 - [下载Ranorex Studio](#下载ranorex-studio)
 - [Ranorex安装向导](#ranorex安装向导)
 - [完成Ranorex安装](#完成ranorex安装)
 - [30天免费试用 VS 付费许可证书](#30天免费试用-vs-付费许可证书)
 - [打开Ranorex Studio](#打开ranorex-studio)
-- [结果](#结果)
+
 
 ## 下载Ranorex Studio
 
-1. 访问Ranorex工作室免费试用下载网页
-2. 输入您的姓名、公司和有效的商业电子邮件地址
+1. 访问Ranorex工作室[免费试用下载][3]网页
+2. 输入您的**姓名、公司**和**有效的商业电子邮件地址**
 
 ![A1020-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudio/A1020-0000010.png)  
 *点击图片打开免费试用版的下载地址*  
@@ -32,7 +32,7 @@
 
 ## Ranorex安装向导
 
-1. 开始安装并按照下述说明操作
+1. 开始安装并按照下述说明动作
 2. 接受许可协议
 3. 确保在出现提示时不要取消选择任何功能！
 
@@ -54,6 +54,7 @@
 - b. 您可以使用Ranorex Studio的全功能版本，免费试用30天。之后，您必须购买许可证才能继续使用Ranorex Studio。
 
 ![A1020-0000022](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudio/A1020-0000022.png)
+
 *Ranorex Studio许可证类型选择*
 
 > **章节预览**  
@@ -61,7 +62,7 @@
 
 ## 打开Ranorex Studio
 
-1. 打开Windows开始菜单
+1. 打开Windows**开始**菜单
 2. 搜索Ranorex工作室程序图标
 
 ![A1030-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudio/A1030-0000010.png)  
@@ -69,11 +70,18 @@
 
 ### 结果
 
-Ranorex Studio启动并显示首页
+Ranorex Studio启动并显示起始页
 
-![A3010-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudio/A3010-0000010.png)  
+![A3010-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudio/A3010-0000010.png)
+
+*Ranorex Studio起始页*
+
+---
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Ranorex Studio起始页👉][4]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio/introduction/
 [1]: ..//..//..//ranorex-studio-system-details/licensing/introduction.html
 [2]: https://www.ranorex.com/prices/
+[3]: https://www.ranorex.com/free-trial/
+[4]: .\ranorex-studio-startpage.html
 
