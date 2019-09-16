@@ -19,8 +19,8 @@
 
 ## 创建一个新的测试解决方案
 
-1. 在RocketStart解决方案向导中，点击**Desktop**
-2. 在打开的对话框中，输入名称并单击**Continue**
+1. 在RocketStart解决方案向导中，点击`Desktop`
+2. 在打开的对话框中，输入名称并单击`Continue`
 
 ![A1030-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1030-0000010.png)   
 
@@ -29,19 +29,19 @@
 
 ![A1030-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1030-0000020.png)  
 
-6. 浏览到保存Ranorex Studio演示应用程序的位置，然后点击**Open**
-7. 演示应用程序出现在RocketStart解决方案向导中，单击**Continue**
+6. 浏览到保存Ranorex Studio演示应用程序的位置，然后点击`Open`
+7. 演示应用程序出现在RocketStart解决方案向导中，单击`Continue`
 
 ![A1030-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1030-0000030.png)  
 
-8. 选择**Focus on single application**并单击**Continue**
-9. 点击**Finish**完成解决方案的建立
+8. 选择`Focus on single application`并单击`Continue`
+9. 点击`Finish`完成解决方案的建立
 
 ## Ranorex Studio用户界面
 
 让我们快速浏览一下Ranorex Studio用户界面的不同元素。
 
-1. 点击**FirstTest.rxtst**标签页，切换到测试套件视图
+1. 点击`FirstTest.rxtst`标签页，切换到测试套件视图
 
 ![A1030-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1030-0000060.png)  
 
@@ -49,7 +49,7 @@
 
 测试套件是你构建和控制测试的地方。你的测试套件已经附带一个包含三个记录模块的简单测试用例：StartAUT启动演示应用程序，Recording1将包含我们将在下一章中记录的测试操作，而CloseAUT将关闭演示应用程序。
 
-2. 点击Recording1.rxrec标签页，切换到录制模块视图
+2. 点击`Recording1.rxrec`标签页，切换到录制模块视图
 
 ![A1030-0000050](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1030-0000050.png) 
 

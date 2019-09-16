@@ -19,7 +19,7 @@
 
 ## 录制的动作
 
-录制视图中的操作表包含6个单独的操作，相应编号。让我们仔细看看它们。
+录制视图中的表包含6个单独的，相应编号。让我们仔细看看它们。
 
 ![A1060-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1060-0000010.png)
 
@@ -37,7 +37,7 @@
     - 该动作单击**Exit**，关闭演示应用程序 
 
 **贴士**  
-> 如果你没有准确地遵循录制说明进行操作，则可能会有额外的录制动作。如果是，请确定不属于预期测试的操作并将其删除。
+> 如果你没有准确地遵循录制说明进行操作，则可能会有额外的录制动作。如果是，请确定不属于预期测试的并将其删除。
 
 **注意**  
 > 关于验证 - 验证输入键序列是否与验证参考文本序列完全匹配！验证区分大写字母和小写字母。
@@ -65,7 +65,7 @@
 ![A1060-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1060-0000030.png)
 
 1. 操作EnterYourName文本框的动作
-    - “Mouse”动作会在文本框中执行鼠标单击操作。“Key sequence”动作则在文本框中输入Harry。这两个动作都链接到名为EnterYourName控件库项
+    - “Mouse”动作会在文本框中执行鼠标单击。“Key sequence”动作则在文本框中输入Harry。这两个动作都链接到名为EnterYourName控件库项
 
 2. 表示受操纵的UI元素的控件库项
 

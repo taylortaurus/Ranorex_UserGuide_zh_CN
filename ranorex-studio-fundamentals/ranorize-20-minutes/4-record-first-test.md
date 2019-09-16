@@ -39,23 +39,23 @@ Ranorex Studio支持各种环境，测试规范和技术设置。 因此，无�
 
 ## 选择应用开始录制
 
-1. 单击录制视图中的**RECORD**按钮
-2. 在打开的对话框中单击**Desktop**
+1. 单击录制视图中的`RECORD`按钮
+2. 在打开的对话框中单击`Desktop`
 
 ![A1050-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1050-0000010.png)  
 
-3. 在下一个窗口中，单击**Add app...**
+3. 在下一个窗口中，单击`Add app...`
 4. 打开保存Ranorex演示应用程序的位置，例如 你的计算机的/`Downloads`/文件夹。
-5. 在该文件夹中，选择`RxDemoApp.exe`并单击**Open**，选择Ranorex演示应用程序作为测试应用程序。
+5. 在该文件夹中，选择`RxDemoApp.exe`并单击`Open`，选择Ranorex演示应用程序作为测试应用程序。
 
 ![A1050-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1050-0000020.png)  
 
 **注意**  
-> 不要单击**录制**按钮。 点击它后，将录制**所有按键和大多数用户交互**。**首先阅读**下一节，然后执行其中的说明。
+> 不要单击`录制`按钮。 点击它后，将录制`所有按键和大多数用户交互`。首先阅读下一节，然后执行其中的说明。
 
 ## 录制测试
 
-1. 单击**Record**按钮开始录制。Ranorex Studio自动切换到演示应用程序，录制器控件出现。
+1. 单击`Record`按钮开始录制。Ranorex Studio自动切换到演示应用程序，录制器控件出现。
 
 ![A1050-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1050-0000030.png)  
 
