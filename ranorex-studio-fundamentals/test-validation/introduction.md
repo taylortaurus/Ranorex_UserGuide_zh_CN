@@ -13,7 +13,7 @@
 
 >**贴士**         
 要了解如何在验证操作中使用变量，请参阅以下部分：                
-Ranorex Studio高级>变量和参数>  ⇢[验证变量][1]。
+Ranorex Studio高级>变量和参数>  👉[验证变量][1]。
 
 
 **本章导视**
@@ -71,7 +71,7 @@ Ranorex Studio高级>变量和参数>  ⇢[验证变量][1]。
 
 >**贴士**                
 如果您不熟悉测试操作，我们建议您阅读
-Ranorex Studio基础知识⇢[动作][2]
+Ranorex Studio基础知识👉[动作][2]
 
 ![A8010-0000051](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/test-validation/A8010-0000051.png)        
 *激活验证*
@@ -136,7 +136,7 @@ Ranorex Studio基础知识⇢[动作][2]
 
 >**贴士**            
 UI元素，它们在Ranorex中的表示以及它们的状态和属性都包括在内               
-Ranorex Studio高级>  ⇢[UI元素][3]
+Ranorex Studio高级>  👉[UI元素][3]
 
 ### **确认动作**
 
@@ -179,15 +179,15 @@ Ranorex Studio高级>  ⇢[UI元素][3]
 
 >**贴士**            
 验证示例：              
-⇢基于文本的验证示例[4]
-⇢基于属性的验证示例[5]
-⇢基于图像的验证示例[6]
+👉基于文本的验证示例[4]
+👉基于属性的验证示例[5]
+👉基于图像的验证示例[6]
 
 >**章节预览**          
 要了解有关UI元素的更多信息，请参阅            
-Ranorex Studio高级>  ⇢[UI元素][3]。                
+Ranorex Studio高级>  👉[UI元素][3]。                
 要了解有关基于图像的自动化的更多信息，请参阅                    
-Ranorex Studio高级>  ⇢[基于图像的自动化][4]。
+Ranorex Studio高级>  👉[基于图像的自动化][4]。
 
 ---
 

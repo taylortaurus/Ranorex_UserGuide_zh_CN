@@ -11,7 +11,7 @@
 在本章中，您将找到有关如何执行一系列更复杂的报表自定义的说明。由于它们需要编码技能，因此您应该熟悉Ranorex Studio中的代码模块。
 
 >**章节预览**              
-如果您不熟悉代码模块及其应用程序的概念，请参阅Ranorex Studio专家>  ⇢[代码模块][4]。
+如果您不熟悉代码模块及其应用程序的概念，请参阅Ranorex Studio专家>  👉[代码模块][4]。
 
 
 
@@ -77,20 +77,20 @@ Ranorex.Report.Failure(“Failure message”);
 **贴士**  
 > 确保将测试套件的错误级别设置为“调试”级别，以显示所有标准报告消息。
 
-### 用户代码操作的报告
+### 用户代码录制的报告
 
-当然，除了可以在代码模块中应用用户定义的报告之外，还可以通过用户代码操作将它们添加到录制模块中。
+当然，除了可以在代码模块中应用用户定义的报告之外，还可以通过用户代码录制将它们添加到录制模块中。
 
 > **章节预览**  
-> 如果您不熟悉用户代码操作及其应用程序的概念，我们建议您阅读 \> Ranorex Studio 基础教程 \> 动作 \> 👉 [用户代码动作][2]章节
+> 如果您不熟悉用户代码录制及其应用程序的概念，我们建议您阅读 \> Ranorex Studio 基础教程 \> 动作 \> 👉 [用户代码动作][2]章节
 
 1. 切换到录制模块`Recording1`(在示例解决方案中)  
-2. 插入新的用户代码操作`ReportInformation()`，然后双击它以将其打开
+2. 插入新的用户代码录制`ReportInformation()`，然后双击它以将其打开
 
 ![A9060-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Reporting/A9060-0000030.png)  
 *在录制模块中插入用户代码动作*  
 
-3. 将新报告信息消息添加到用户代码操作的构造函数中
+3. 将新报告信息消息添加到用户代码录制的构造函数中
 4. 运行报告模块并在测试报告中查看报告消息
 
 ![A9060-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Reporting/A9060-0000040.png)  
@@ -215,7 +215,7 @@ Ranorex.Report.Failure(“Failure message”);
 
 ## 报告截图
 
-添加以下代码以将屏幕截图发送到报告。如果您未指定存储库项目，Ranorex Studio会截取代码执行时可见的内容。
+添加以下代码以将屏幕截图发送到报告。如果您未指定控件库项目，Ranorex Studio会截取代码执行时可见的内容。
 
 ![A9060-0000160](https://www.ranorex.com/rx-media/rx-user-guide/v9.1/A90/A9060-0000160.png)  
 *报告的桌面截图*    

@@ -92,7 +92,7 @@
 
 4. 选择每个测试套件的运行配置。
 >**章节预览**   
->Ranorex Studio基础知识>测试套件>⇢[执行测试套件][6]中描述了运行配置。
+>Ranorex Studio基础知识>测试套件>👉[执行测试套件][6]中描述了运行配置。
 
 5. 单击“Run”按钮以启动指定的测试序列。
 
@@ -143,7 +143,7 @@
 - 上面的示例`/testcase`使用名为`InsertName`参数值的测试用例调用命令行参数
 
 >**章节预览**   
->Ranorex Studio基础知识>测试套件>⇢[在没有Ranorex Studio的情况下运行测试][7]，解释了测试套件的命令行参数。
+>Ranorex Studio基础知识>测试套件>👉[在没有Ranorex Studio的情况下运行测试][7]，解释了测试套件的命令行参数。
 
 
 
@@ -169,14 +169,14 @@
 TestRail还可以为每个项目导出/同步多个测试套件。
 
 >**章节预览**    
->在接口和连接> TestRail集成> ⇢[简介][8]中描述了与Ranorex的 TestRail集成。
+>在接口和连接> TestRail集成> 👉[简介][8]中描述了与Ranorex的 TestRail集成。
 
 
 ### **Ranorex远程**
 测试序列也可以从远程控制器上运行Ranorex代理。
 
 >**章节预览**    
-Ranorex Studio高级> Ranorex远程>⇢[简介][7]中介绍了Ranorex远程
+Ranorex Studio高级> Ranorex远程>👉[简介][7]中介绍了Ranorex远程
 
 
 ---

@@ -10,7 +10,7 @@
 
 >**贴士**    
 操作和存储库项之间的链接解释如下：
-Ranorex Studio基础>操作> ⇢[操作和存储库项目][1]
+Ranorex Studio基础>操作> 👉[操作和存储库项目][1]
 
 ---
 [👈简介][2]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[创建控件库项目👉][3]
