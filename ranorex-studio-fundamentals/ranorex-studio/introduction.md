@@ -43,7 +43,7 @@
 
 1. 观察安装过程
 2. 您应该会看到一条消息，说明安装成功
-3. 单击Finish退出安装向导并启动Ranorex Studio
+3. 单击`Finish`退出安装向导并启动Ranorex Studio
 
 ![A1020-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudio/A1020-0000030.png)  
 *Ranorex设置向导-安装进度（左）和最终成功信息（右）*
