@@ -42,7 +42,7 @@
 
 > 在这下载最新版的演示程序 [👉 Ranorex Demo Application][5]在你的系统上解压到任一目录。出于我们教程的目的，我们假设它位于/ Downloads /文件夹中
 
-![A4020-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4020-0000020.png)  
+![A4020-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4020-0000020.png)  
 *演示应用程序放在默认目录*  
 
 **提示**  
@@ -55,7 +55,7 @@
 1. 打开保存目录并解压文件
 2. 双击打开
 
-![A4020-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4020-0000030.png)
+![A4020-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4020-0000030.png)
 *打开的Ranore Demo Application*  
 
 3. 出现演示程序的欢迎界面
@@ -91,7 +91,7 @@
 1. 打开Ranorex演示程序
 2. 在`Enter your name`区域输入`Harry`并点击`Submit`
 
-![A1040-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A1040-0000030.gif)  
+![A1040-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A1040-0000030.gif)  
 
 3. 验证欢迎信息是否相应更改
 4. 重置欢迎信息
@@ -101,7 +101,7 @@
 
 您可以配置一些设置来自定义录制器的动作。默认设置通常适用于大多数录制任务，包括本章中的任务。但是对于某些录制任务，您可能需要更改录制器设置。要访问它们，请单击Recorder工作环境工具栏或Ranorex Studio工具栏中的“设置”。
 
-![A4020-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4020-0000040.png)  
+![A4020-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4020-0000040.png)  
 *全局&本地录制器设置*  
 
 1. 全局录制器设置

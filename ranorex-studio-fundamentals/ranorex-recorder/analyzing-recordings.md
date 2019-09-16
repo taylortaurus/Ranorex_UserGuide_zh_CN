@@ -26,7 +26,7 @@
 
 项目视图位于左上角，显示在文件夹层次结构中作为测试项目的一部分创建和管理的所有文件。
 
-![A4040-0000011](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4040-0000011.png)  
+![A4040-0000011](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4040-0000011.png)  
 
 > **章节预览**  
 > 在 \> Ranorex Studio 基础教程 \> Ranorex Studio \> 👉 [Ranorex Studio起始页][1]章节中介绍了有关内容
@@ -35,7 +35,7 @@
 
 模块浏览器位于左下方，它显示了用于构建测试的所有模块和模块组。
 
-![A4040-0000021](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4040-0000021.png)
+![A4040-0000021](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4040-0000021.png)
 
 > **章节预览**  
 > 在 \> Ranorex Studio 基础教程 \> 👉 [测试套件][2]章节中介绍了有关内容
@@ -46,7 +46,7 @@
 - 它们按照执行顺序列出
 - 在我们的示例中，列表包含5个动作
 
-![A4040-0000031](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4040-0000031.png)  
+![A4040-0000031](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4040-0000031.png)  
 
 > **章节预览**  
 > 在 \> Ranorex Studio 基础教程 \> 👉 [动作][3]章节中介绍了有关内容
@@ -57,7 +57,7 @@
 - 受录制期间动作影响的每个UI元素由相应的控件库项引用
 - 在我们的示例中，在两个文件夹中组织了4个UI元素
 
-![A4040-0000041](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4040-0000041.png)  
+![A4040-0000041](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4040-0000041.png)  
 
 > **章节预览**  
 > 在 \> Ranorex Studio 基础教程 \> 👉 [控件库][4]章节中介绍了有关内容
@@ -66,7 +66,7 @@
 
 让我们仔细看看动作表中的5个动作。
 
-![A4040-0000051](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4040-0000051.png)  
+![A4040-0000051](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4040-0000051.png)  
 *示例动作表*  
 
 
@@ -94,7 +94,7 @@
 
 我们的示例包含组织在两个文件夹中的4个控件库项，每个控件库项对应于测试中的应用程序中的UI元素，让我们仔细看看它们。
 
-![A4040-0000061](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4040-0000061.png)  
+![A4040-0000061](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4040-0000061.png)  
 
 
 1. 控件库项#1 -- EnterYourName
@@ -113,7 +113,7 @@
 
 录制的动作和控件库项目分别进行管理和存储，但它们相互链接。
 
-![A1060-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A1060-0000030.png)  
+![A1060-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A1060-0000030.png)  
 *动作和控件库项之间的链接*  
 
 1. 动作引用的UI元素

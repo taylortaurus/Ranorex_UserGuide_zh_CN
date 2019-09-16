@@ -38,7 +38,7 @@
 
 1. 在录制模块工具栏中，单击`Turbo mode`以打开或关闭turbo模式
 
-![A4050-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4050-0000010.png)  
+![A4050-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4050-0000010.png)  
 *在Ranorex录制器里的Turbo模式按钮*  
 
 **提示**  
@@ -55,7 +55,7 @@
 **贴士** 
 > 请记住：在测试运行期间请勿触摸鼠标或键盘，否则可能会导致测试失败。
 
-![A4050-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4050-0000020.png)
+![A4050-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4050-0000020.png)
 *运行一个录制模块*  
 
 
@@ -78,7 +78,7 @@
 - a. 在Studio工具栏上，点击`View`查看测试套件按钮
 - b. 或者，点击`Introduction.rxtst`标签页(rxtst = Ranorex test suite file)
 
-![A4050-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4050-0000030.png)  
+![A4050-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4050-0000030.png)  
 *切换测试套件视图* 
 
  
@@ -96,13 +96,13 @@
 2. 看到运行开始和进度框
 
  
-![A4050-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4050-0000040.png)  
+![A4050-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4050-0000040.png)  
 *运行一个测试用例*  
 
 3. 当运行结束，生成报告
 
 
-![A4050-0000050](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4050-0000050.png)  
+![A4050-0000050](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4050-0000050.png)  
 *测试报告显示运行成功*  
 
 > **章节预览**  
@@ -117,7 +117,7 @@
 
 您不必在测试套件视图中运行或停止测试套件。您还可以单击Studio工具栏中的全局运行和停止按钮。它们总是可见的，不管您当前的视图如何。
 
-![A4050-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4050-0000060.png)               
+![A4050-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4050-0000060.png)               
 *Ranorex Studio工具栏上全局运行和停止按钮*  
 
 ## 运行选项
@@ -127,7 +127,7 @@
 1. 切换到录制器视图
 2. 右键一个动作，选择一个选择，解释如下
 
-![A4050-0000070](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4050-0000070.png)  
+![A4050-0000070](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4050-0000070.png)  
 *动作4的上下文菜单*  
 
 1. 运行选择项
@@ -158,7 +158,7 @@
 
 Ranorex Studio包含一个专门的调试模式，通过在编程代码中设置断点来工作。这是一个专家主题，这就是为什么我们在这里只简单地讨论一下。
 
-![A4050-0000080](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4050-0000080.png)  
+![A4050-0000080](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4050-0000080.png)  
 *Ranorex Studio调试模式*  
 
 1. 开启/关闭调试模式
