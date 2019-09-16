@@ -49,7 +49,7 @@
 
 2. 控件库项目
 
-- 控件库项BtnSubmitUserName表示UI元素，即Submit按钮。
+- 控件库项`BtnSubmitUserName`表示UI元素，即`Submit`按钮。
 - 每当对此按钮执行动作时，都会调用此控件库项。
 
 
