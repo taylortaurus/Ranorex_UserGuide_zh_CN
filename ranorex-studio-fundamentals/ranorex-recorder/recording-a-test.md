@@ -64,13 +64,13 @@ Ranorex Studio支持各种环境，规格和设置。无论您的环境如何，
 
 1. 点击`Record`开始录制，Ranorex Studio自动最小化到任务栏，录制器控制器中心显示录制激活
 
-![A1050-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A1050-0000020.png)  
+![A1050-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A1050-0000020.png)  
 *开始录制*  
 
 2. 待测应用程序成为焦点
 3. 在文本区域，输入`Harry`并点击`Submit`
 
-![A1040-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A1040-0000030.gif)
+![A1040-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A1040-0000030.gif)
 
 ## 验证测试
 
@@ -82,7 +82,7 @@ Ranorex Studio支持各种环境，规格和设置。无论您的环境如何，
 
 1. 点击`Validate`，录制暂停并切换到验证模式
 
-![A1050-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A1050-0000030.png)  
+![A1050-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A1050-0000030.png)  
 *激活测试验证*  
 
 2. 选择要验证的UI元素：
@@ -90,7 +90,7 @@ Ranorex Studio支持各种环境，规格和设置。无论您的环境如何，
     - 紫色框表示当前选择哪个元素进行验证
     - 一旦选择的内容与欢迎消息匹配后，单击它
 
-![A8030-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A8030-0000010.gif)  
+![A8030-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A8030-0000010.gif)  
 *选择要验证的元素*  
 
 3. 确认UI元素后，点击`Next`
@@ -98,7 +98,7 @@ Ranorex Studio支持各种环境，规格和设置。无论您的环境如何，
     - `Text`和`Visible`是基于文本的验证的默认验证属性，不需要其他属性 。
     - 确认选择后，点击OK
 
-![A1050-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A1050-0000060.png)
+![A1050-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A1050-0000060.png)
 *确认元素和选择的属性*  
 
 ## 完成并结束录制
@@ -108,14 +108,14 @@ Ranorex Studio支持各种环境，规格和设置。无论您的环境如何，
 1. 点击`Reset`重置欢迎信息到初始状态
 2. 在录制控制中心，点击`Stop`终止录制
 
-![A4030-0000041](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4030-0000041.png)  
+![A4030-0000041](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4030-0000041.png)  
 *完成并结束录制*  
 
 ### 结果
 
 录制结束，然后返回“录制器”视图。如果您完全按照说明动作，则应该看到5个录制的动作和4个已识别的UI元素，组织在两个文件夹中，如下所示。
 
-![A4030-0000051](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4030-0000051.png)  
+![A4030-0000051](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4030-0000051.png)  
 *录制器视图中的录制结果*  
 
 

@@ -21,7 +21,7 @@ Ranorex Recorder允许你录制用户界面测试所需的键盘和鼠标动作�
 
 当你开始一个新的测试项目时，工作环境将显示一个空的录制模块被打开。
 
-![A4010-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4010-0000010.png)  
+![A4010-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4010-0000010.png)  
 *集成录制*  
 
 1. 激活`Recording1.rxrec`录制模块
@@ -31,7 +31,7 @@ Ranorex Recorder允许你录制用户界面测试所需的键盘和鼠标动作�
 
 Ranorex还提供独立的录制器。它可以独立于Ranorex Studio启动。
 
-![A4010-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/ranorex-recorder/A4010-0000020.png)  
+![A4010-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexRecorder/A4010-0000020.png)  
 *独立录制器*  
 
 1. 打开Windows**开始**菜单
