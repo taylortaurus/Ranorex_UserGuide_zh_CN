@@ -7,7 +7,7 @@
 
 ---
 
-在本章中，您将了解创建存储库项目并将其添加到存储库的各种方法。
+在本章中，您将了解创建控件库项目并将其添加到控件库的各种方法。
 
 
 **本章导视**
@@ -24,7 +24,7 @@
 [立即观看](https://www.youtube.com/embed/6wGrTlKXaZs)
 
 ## 录制期间自动创建
-当您使用Ranorex Recorder录制测试并对UI元素执行操作时，将创建相应的存储库元素并自动添加到控件库中。
+当您使用Ranorex Recorder录制测试并对UI元素执行动作时，将创建相应的控件库元素并自动添加到控件库中。
 
 ![A7030-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Repository/A7030-0000010.png)         
 *在录制期间自动创建的控件库项目*

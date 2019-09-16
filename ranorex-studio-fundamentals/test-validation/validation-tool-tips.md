@@ -60,7 +60,7 @@ Ranorex Studio基础> Ranorex Recorder>  👉[录制器控制中心和热键][1]
 
 
 ## 结果
-动作表中有两个记录的动作。动作＃2是工具提示验证。
+动作表中有两个录制的动作。动作＃2是工具提示验证。
 
 ![A8070-0000051](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/test-validation/A8070-0000051.png)          
 *工具提示验证结果*
@@ -72,7 +72,7 @@ Ranorex Studio基础> Ranorex Recorder>  👉[录制器控制中心和热键][1]
 
 
 ## 下载示例解决方案
-您可以在此处下载本章的示例解决方案。它包含已完成的所有记录动作的解决方案。
+您可以在此处下载本章的示例解决方案。它包含已完成的所有录制动作的解决方案。
 
 
 **示例解决方案**

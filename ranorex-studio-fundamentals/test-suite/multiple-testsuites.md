@@ -28,7 +28,7 @@
 
 ## 创建一个新的测试套件
 
-要将测试套件添加到现有项目，请按照以下说明操作：
+要将测试套件添加到现有项目，请按照以下说明动作：
 
 ![A5050-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000010.png)     
 *添加新的测试套件*
