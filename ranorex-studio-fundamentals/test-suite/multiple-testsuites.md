@@ -58,7 +58,7 @@
 
 为确保项目的完整性，您无法剪切，复制或粘贴整个测试套件。但是，您可以删除并重命名测试套件。在项目视图中选择一个测试套件，然后打开上下文菜单以使用删除和重命名选项：
 
-![A05050-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000040.png)      
+![A5050-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000040.png)      
 *测试套件上下文菜单*
 
 1. 剪切，复制，粘贴
@@ -78,7 +78,7 @@
 
 1. 如果您的项目包含至少两个测试套件，则会在RUN按钮中添加一个上下文菜单。单击它以打开测试序列配置对话框。
 
-![A05050-0000050](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000050.png)    
+![A5050-0000050](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000050.png)    
 *多个测试套件 - 测试序列配置*
 
 1. 启动项目选择
@@ -88,7 +88,7 @@
 
 3. 使用ON / OFF按钮从测试运行中排除选定的测试套件。
 
-![A05050-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000060.png)
+![A5050-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000060.png)
 
 4. 选择每个测试套件的运行配置。
 >**章节预览**   
@@ -103,7 +103,7 @@
 ### **测试序列文件**
 当项目包含至少两个测试套件时，将自动创建包含所有配置信息的测试序列文件，并将其添加到项目文件夹中。
 
-![A05050-0000070](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000070.png)      
+![A5050-0000070](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000070.png)      
 *测试序列文件存储位置*
 
 1. 项目视图中的测试序列文件
@@ -117,7 +117,7 @@
 
 ### **测试序列文件内容和语法**
 
-![A05050-0000080](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000080.png)      
+![A5050-0000080](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000080.png)      
 *测试序列文件内容*
 1. 要打开测试序列文件，请双击它。它出现在自己的标签中。 
   
@@ -134,7 +134,7 @@
 ### **添加命令行参数**
 命令行参数可以添加到测试序列文件中，并在测试运行期间执行。
 
-![A05050-0000090](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000090.png)     
+![A5050-0000090](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5050-0000090.png)     
 *测试序列文件中的命令行参数*
 
 1. 示例命令行参数 `/testcase`

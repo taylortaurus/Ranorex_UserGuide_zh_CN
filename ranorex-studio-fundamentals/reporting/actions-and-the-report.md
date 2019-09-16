@@ -48,7 +48,7 @@
 
 第二个部分告诉您验证是成功还是失败。
 
-![A9020-0000021](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Reporting.png)
+![A9020-0000021](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Reporting/A9020-0000021.png)
 
 1. 成功验证                  
 成功验证的报告级别为Success，默认情况下以绿色打印。
