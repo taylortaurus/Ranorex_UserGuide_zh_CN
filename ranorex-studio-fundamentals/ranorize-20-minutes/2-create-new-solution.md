@@ -19,8 +19,8 @@
 
 ## 创建一个新的测试解决方案
 
-1. 在Ranorex Studio Start Page的Start部分中，单击**New test solutio**。
-2. 在打开的对话框中，输入名称并单击**Create**。
+1. 在Ranorex Studio Start Page的Start部分中，单击`New test solutio`。
+2. 在打开的对话框中，输入名称并单击`Create`。
 3. Ranorex Studio的用户界面将会出现，一个空的录制模块已经打开。
 
 ![A1030-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1030-0000020.gif)   
