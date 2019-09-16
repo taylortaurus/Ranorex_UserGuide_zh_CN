@@ -45,7 +45,7 @@ Web和移动测试>端点> 👉[入门][1]
 
 ### **结果**  
 
-![A8100-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/test-validation/A8100-0000020.png)
+![A8100-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/whitelisting/A8100-0000020.png)
 
 1. 没有白名单的Ranorex Spy浏览器窗口
 
