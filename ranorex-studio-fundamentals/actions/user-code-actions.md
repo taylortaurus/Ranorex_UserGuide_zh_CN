@@ -10,7 +10,7 @@
 在本章中，您将学习如何 在actions表中管理用户代码动作。编写自己的用户代码需要编程知识，因此超出了本章的范围。您可以然而利用其他人通过用户代码库编写的用户代码动作。
 
 >**章节预览**    
-用户代码库是Ranorex Studio专家>用户代码库> ⇢[简介]中介绍的专家主题。
+用户代码库是Ranorex Studio专家>用户代码库> 👉[简介]中介绍的专家主题。
 
 
 **本章导视**
@@ -28,7 +28,7 @@
 视频“用户代码动作”将引导您完成本章中的内容。    
 [立即观看](https://www.youtube.com/embed/pq1kpyqVX4g)
 
-## **找到用户代码文件**
+## 找到用户代码文件
 每个录制模块由三个文件组成。您可以在Ranorex Studio的项目视图中找到这些文件，也可以直接在项目文件夹中的硬盘驱动器上找到这些文件。**双击**打开它们。
 
 ![A6070-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/actions/A6070-0000010.png)        
@@ -44,7 +44,7 @@
 - 将所有用户代码写入此文件。
 - 用户代码库中的用户代码方法将自动添加到此文件中。
 - 
-## **查看基础动作代码**
+## 查看基础动作代码
 
 要查看动作的基础代码：
 
@@ -61,7 +61,7 @@
 该文件已被锁定，因此您无法更改它。它由Ranorex自动更新。
 
 
-## **将标准动作转换为用户代码**
+## 将标准动作转换为用户代码
 您可以将标准动作转换为用户代码动作。
 
 为此：
@@ -77,7 +77,7 @@
 ![A6070-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/actions/A6070-0000040.png)        
 *示例用户代码动作*
 
-## **用户代码动作和参数**
+## 用户代码动作和参数
 您可以在参数编辑器或代码中为用户代码动作配置参数。
 
 ![A6070-0000050](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/actions/A6070-0000050.png)     
@@ -109,7 +109,7 @@
 - RepoItemInfo（控件库项），链接到控件库项
 
 
-## **用户代码返回值**
+## 用户代码返回值
 默认情况下，用户代码方法不返回值。但是，您可以将其中一个可用数据类型指定为方法返回值。
 
 为此：
@@ -134,7 +134,7 @@
 
 ![A6070-0000056](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/actions/A6070-0000056.png)
 
-## **将动作合并到用户代码动作中**
+## 将动作合并到用户代码动作中
 可以将两个或多个动作合并为单个用户代码动作，如下所示：
 
 ![A6070-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/actions/A6070-0000060.png)        
