@@ -52,7 +52,7 @@ Ranorex Studio测试包含与应用程序用户界面中的元素的一系列交
 
 
 >**章节预览**   
-在Ranorex Studio高级> ⇢[RanoreXPath][1]中描述了RanoreXPath。
+在Ranorex Studio高级> 👉[RanoreXPath][1]中描述了RanoreXPath。
 
 ## **控件库结构**
 控件库以树状结构组织，遵循AUT UI的内部结构。包含其他UI元素的UI元素在控件库中表示为文件夹，其中app文件夹充当顶级元素，而根文件夹充当子元素。
@@ -94,7 +94,7 @@ Ranorex Studio测试包含与应用程序用户界面中的元素的一系列交
 *控件库文件在项目的文件夹中*
 
 ### **添加控件库**
-如果您的项目不包含控件库，则可以添加一个控件库。您还可以将⇢多个控件库添加到项目中。
+如果您的项目不包含控件库，则可以添加一个控件库。您还可以将👉多个控件库添加到项目中。
 
 ![A7010-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Repository/A7010-0000060.png)
 

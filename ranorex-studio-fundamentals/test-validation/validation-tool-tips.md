@@ -41,7 +41,7 @@
 1. 激活启用热键。
 
 >**章节预览**                
-Ranorex Studio基础> Ranorex Recorder>  ⇢[录制器控制中心和热键][1]中介绍了录制器热键。
+Ranorex Studio基础> Ranorex Recorder>  👉[录制器控制中心和热键][1]中介绍了录制器热键。
 
 
 

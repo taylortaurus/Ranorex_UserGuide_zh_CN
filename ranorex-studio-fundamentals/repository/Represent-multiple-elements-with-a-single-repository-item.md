@@ -29,9 +29,9 @@
 本章介绍的概念通常与代码模块一起使用，代码模块是一个专家级别的主题。此外，如果您熟悉RanoreXPath语法和Ranorex Spy工具，您会发现该示例更容易理解。使用以下链接了解有关这些高级主题的更多信息。
 
 >**章节预览**              
-代码模块在> Ranorex Studio专家> ⇢[代码模块][1]中引入。            
-RanoreXPath语法在> Ranorex Studio高级>  ⇢[RanoreXPath][2]中描述。              
-在> Ranorex Studio高级> ⇢[RanorexSpy][3]中了解Ranorex Spy工具  。
+代码模块在> Ranorex Studio专家> 👉[代码模块][1]中引入。            
+RanoreXPath语法在> Ranorex Studio高级>  👉[RanoreXPath][2]中描述。              
+在> Ranorex Studio高级> 👉[RanorexSpy][3]中了解Ranorex Spy工具  。
 
 ## 示例定义
 在以下示例中，一个控件库项表示两个单选按钮。这些单选按钮显示在演示应用程序中数据库的性别选择区域内。

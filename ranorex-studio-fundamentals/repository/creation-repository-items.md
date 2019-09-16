@@ -36,20 +36,20 @@ Track按钮在控件库视图和Ranorex Spy中可用。使用此按钮可以手�
 
 >**贴士**   
 关于使用“Track”按钮将在下面详细说明   
-Ranorex Studio高级>跟踪UI元素>⇢[Track按钮][1]
+Ranorex Studio高级>跟踪UI元素>👉[Track按钮][1]
 
 ## 使用即时跟踪创建控件库项目
 即时跟踪是手动创建控件库项目的另一种方法。这对于手动识别不易访问的UI元素（如下拉菜单中的项目）尤其有用。要激活即时跟踪，请将鼠标悬停在所需的UI元素上，然后按快捷键Ctrl + WIN  。
 
 >**贴士**        
 关于使用即时跟踪将在下面详细说明        
-Ranorex Studio高级>跟踪UI元素>⇢[即时跟踪][2]。
+Ranorex Studio高级>跟踪UI元素>👉[即时跟踪][2]。
 
 ## 使用Ranorex Spy创建控件库项目
 您还可以从Ranorex Spy手动添加控件库项目，Ranorex Spy是一种用于映射和识别UI元素的专用工具。
 
 >**章节预览**    
-Ranorex Spy在 Ranorex Studio高级>⇢[RanorexSpy][3]中介绍RanorexSpy。
+Ranorex Spy在 Ranorex Studio高级>👉[RanorexSpy][3]中介绍RanorexSpy。
 
 ## 在控件库中手动创建一个控件库项目
 最后，您可以在控件库视图本身中手动创建控件库项。
@@ -64,7 +64,7 @@ Ranorex Spy在 Ranorex Studio高级>⇢[RanorexSpy][3]中介绍RanorexSpy。
 
 >**贴士**    
 以下章节讲述了用于识别控件库项的RanoreXPath    
-Ranorex Studio高级> RanoreXPath>⇢[简介][4]
+Ranorex Studio高级> RanoreXPath>👉[简介][4]
 
 ---
 
