@@ -115,7 +115,7 @@
 ### **激活验证**
 1. 单击“Validate”。录制暂停，录制器切换到验证模式。
 
-![A8040-0000031][https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/test-validation/A8040-0000031.png]
+![A8040-0000031](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/test-validation/A8040-0000031.png)
 
 
 ###  **选择验证元素**
@@ -149,15 +149,15 @@
 ## 完成录制
 完成验证动作后，Ranorex会自动继续录制。下一步是结束测试录制。
 
-![A8040-0000071](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/test-validation/A8040-0000071.png)
-在“Recorder”控制中心中，单击“Stop”以结束录制。
+![A8040-0000071](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/test-validation/A8040-0000071.png)           
+*在“Recorder”控制中心中，单击“Stop”以结束录制。*
 
 
 ## 结果
 录制停止后，您将返回Ranorex Studio。动作表包含三个录制的动作。动作＃3是验证。 
 
-![A8040-0000081](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/test-validation/A8040-0000081.png)          
-*录制基于属性的验证示例的结果*
+![A8040-0000081](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/test-validation/A8040-0000081.png)                                           
+*录制基于属性的验证示例的结果* 
 
 1. 验证动作
 
