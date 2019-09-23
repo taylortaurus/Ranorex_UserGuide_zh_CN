@@ -52,9 +52,9 @@ Ranorex Studio起始页面上的示例项目介绍了自动化测试的关键概
 **学习的相关内容**：跨平台测试，端到端测试，ios，android，部署移动应用程序，模块库，项目组织，弹出观察器，Web测试，移动Web测试，安装/拆卸区域和数据绑定
 
 ---
-[👈Ranorex Studio起始页][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[创建一个新的测试项目👉][2]
+[👈Ranorex Studio起始页][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[创建一个新解决方案👉][2]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio/sample-projects/
 
 [1]:.\ranorex-studio-startpage.html
-[2]:.\creating-new-test-project.html
+[2]:.\creating-new-solution.html

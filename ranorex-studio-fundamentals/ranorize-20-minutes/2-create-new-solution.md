@@ -47,7 +47,7 @@
     - 控件库包含动作引用的所有控件库项，控件库项表示UI元素。
 
 ---
-[👈规划你的首个测试][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[录制你的首个测试👉][2]
+[👈规划你的首个测试][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[录制你的首个测试👉][2]
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorize-20-minutes/2-create-new-solution/

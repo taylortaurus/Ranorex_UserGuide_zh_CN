@@ -72,7 +72,7 @@ Invoke动作允许您对控件库项执行动作，而无需任何直接交互�
 - 现在直接执行列表项选择，无需任何鼠标交互。
 
 ---
-[👈动作属性][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[用户代码动作👉][2]
+[👈动作属性][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[用户代码动作👉][2]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/actions/invoking-actions/
 [1]:.\action-properties.html

@@ -193,7 +193,7 @@
 
 ---
 
-[👈基于文本的验证示例][2]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[基于图像的验证示例👉][3]
+[👈基于文本的验证示例][2]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[基于图像的验证示例👉][3]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-validation/attribute-based-validation-example/
 [1]:.\introduction.html

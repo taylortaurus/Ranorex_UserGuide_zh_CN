@@ -85,7 +85,7 @@ Ranorex Studio提供6个默认报告级别，每个级别都有相应的颜色�
 1. 识别等级设置为`Info`（值=20）
 2. 只包括所有带有报告级别信息和以上信息的状态消息
 
-### 识别等级--成功（值=110）
+### **识别等级--成功（值=110）**
 
 ![A9030-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Reporting/A9030-0000040.png)  
 
@@ -143,7 +143,7 @@ Ranorex Studio提供6个默认报告级别，每个级别都有相应的颜色�
 
 
 ---
-[👈动作和报告][3]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Ranorex标准报告👉][4]
+[👈动作和报告][3]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Ranorex标准报告👉][4]
 
 
 

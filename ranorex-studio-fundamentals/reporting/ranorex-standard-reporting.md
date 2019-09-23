@@ -92,6 +92,11 @@
 2. 系统和测试数据
 3. 错误和警告数量  
     - 如果报告中至少有一个警告，橙色通知将在下面进一步显示
+
+![A9040-0000051](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Reporting/A9040-0000051.png)             
+*测试报告中的错误/警告计数器*
+
+
 4. 测试结果
     - 饼图总结了测试结果 
 
@@ -284,14 +289,14 @@ Ranorex在测试运行过程中生成报告，你可以在测试运行期间的�
 
 ---
 
-[👈报告等级][4]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[定制化报告👉][5]
+[👈报告等级][4]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[定制化报告👉][5]
 
 
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/reporting/ranorex-standard-reporting/
 [1]: ..\\..\\..\\ranorex-studio-advanced/Data-driven_testing/introduction.html
-[2]: ..\\..\\test-suite/[译][译]执行测试套件.html
+[2]: ..\\..\\test-suite/running-tests.html
 [3]: ..\\..\\..\\ranorex-studio-system-details/settings-configuration/[译]报告设置.html
-[4]:concept-report-levels-2.html
+[4]:.\concept-report-levels-2.html
 [5]:.\report-customization.html

@@ -206,7 +206,7 @@ Rooted folder：False
 
 ---
 
-[👈创建控件库项][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[构建控件库项👉][2]
+[👈创建控件库项][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[构建控件库项👉][2]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/repository/managing-repository-items/
 [1]:.\creation-repository-items.html
