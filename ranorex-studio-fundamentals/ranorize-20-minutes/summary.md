@@ -4,6 +4,8 @@
 
 [![](https://img.shields.io/badge/Translator-Taylortaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
 ![](https://img.shields.io/badge/TranslateTime-2019年9月6日-green.svg?longCache=true&style=flat-square)
+
+
 ---
 
 恭喜你!你刚刚用Ranorex Studio完成了你的第一个自动化软件测试。
