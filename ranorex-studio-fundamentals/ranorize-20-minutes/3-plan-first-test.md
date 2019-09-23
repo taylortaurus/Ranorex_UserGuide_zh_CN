@@ -49,9 +49,9 @@
 
 
 ---
-[👈创建一个新的解决方案][2]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[录制你的首个测试👉][3]
+[👈下载并安装Ranorex Studio][2]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[创建一个新的解决方案👉][3]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio-fundamentals/3-plan-first-test/
 [1]: https://www.ranorex.com/rx-media/rx-user-guide/latest/download/RxDemoApp.zip
-[2]: .\2-create-new-solution.html
+[2]: .\1-download-install-ranorex-studio.html
 [3]: .\4-record-first-test.html
