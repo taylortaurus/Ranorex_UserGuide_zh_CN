@@ -1,9 +1,11 @@
 # [译] 基于文本的验证示例
+ 
 
-*原文地址 👉 [Text-based validation example][0]*
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time :  2019-9-10*    
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2019年9月10日-green.svg?longCache=true&style=flat-square)
+
 
 ---
 本章使用一个简单的例子来解释基于文本的验证的概念。在使用此示例之前，请确保您熟悉[测试验证的基本概念][1]。

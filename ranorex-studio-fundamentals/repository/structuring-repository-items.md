@@ -1,9 +1,10 @@
 # [译] 构建控件库项目
+    
 
-*原文地址 👉 [Structure repository items][0]*
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2019-9-9*    
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2019年9月9日-green.svg?longCache=true&style=flat-square)
 
 ---
  随着测试套件变得越来越大，越来越复杂，您的控件库也将包含越来越多的项目。通常，它们是自动构建的，即Ranorex Studio将自动创建app folder和rooted folder。但是，这可能会使许多项目变得混乱。您可能更喜欢自己构建控件库。本章介绍可用文件夹的类型以及如何使用它们构建您的控件库。

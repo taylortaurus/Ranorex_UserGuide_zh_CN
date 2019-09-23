@@ -65,7 +65,7 @@ bui# Summary
     * [报告](ranorex-studio-fundamentals/reporting/README.md) 
         * [介绍](ranorex-studio-fundamentals/reporting/introduction.md)
         * [动作和报告](ranorex-studio-fundamentals/reporting/actions-and-the-report.md)
-        * [报告级别](ranorex-studio-fundamentals/reporting/concept-report-levels-2.md)
+        * [报告等级](ranorex-studio-fundamentals/reporting/concept-report-levels-2.md)
         * [Ranorex标准报告](ranorex-studio-fundamentals/reporting/ranorex-standard-reporting.md)
         * [定制化报告](ranorex-studio-fundamentals/reporting/report-customization.md)
         * [复杂的自定义](ranorex-studio-fundamentals/reporting/user-defined-reporting.md)

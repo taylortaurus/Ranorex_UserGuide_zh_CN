@@ -1,9 +1,10 @@
 # [译] 报告
+   
 
-*原文地址 👉 [Reporting][0]*
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2019-9-10*     
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2019年9月10日-green.svg?longCache=true&style=flat-square)
 
 ---
 Ranorex Studio中的每个测试都以报告结束。然而，你怎么知道测试运行是否成功？该报告详细介绍了从开始到开始的整个测试运行，即有多少测试用例成功，失败或被阻止; 提出了什么错误和警告; 给定测试容器的迭代; 等等。例如，您可以自定义报告以更改显示的信息或添加自己的标记。最后，您还可以导出报告。

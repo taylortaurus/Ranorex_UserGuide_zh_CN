@@ -1,9 +1,11 @@
 # [译] 基于图像的验证示例
 
-*原文地址 👉 [Image-based validation example][0]*
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : XXX*    
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
+
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2019年9月10日-green.svg?longCache=true&style=flat-square)
+
 
 ---
 基于图像验证的简单教程。在使用此示例之前，请确保您熟悉测试验证的基本概念。
