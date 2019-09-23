@@ -47,10 +47,10 @@
     - 控件库包含动作引用的所有控件库项，控件库项表示UI元素。
 
 ---
-[👈下载并安装Ranorex Studio][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[规划你的首个测试👉][2]
+[👈规划你的首个测试][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[录制你的首个测试👉][2]
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorize-20-minutes/2-create-new-solution/
 
-[1]: .\1-download-install-ranorex-studio.html
-[2]: .\3-plan-first-test.html
+[1]: .\3-plan-first-test.html
+[2]: .\4-record-first-test.html

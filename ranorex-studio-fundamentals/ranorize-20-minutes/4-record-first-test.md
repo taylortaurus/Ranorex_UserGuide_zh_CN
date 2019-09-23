@@ -97,8 +97,8 @@ Ranorex Studio支持各种环境，测试规范和技术设置。 因此，无�
 
 
 ---
-[👈规划你的首个测试][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[分析你的录制动作👉][2]
+[👈创建一个新的解决方案][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[分析你的录制动作👉][2]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio-fundamentals/4-record-first-test/
-[1]:.\3-plan-first-test.html
+[1]:.\2-create-new-solution.html
 [2]:.\5-analyze-recording.html
