@@ -146,7 +146,7 @@
 如果Text引用的UI元素的属性LblWelcomeMessage等于（AttributeEqual）欢迎，Harry！“然后验证返回值True。
 
 ---
-[👈简介][1][基于属性的验证示例👉][3]
+[👈简介][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[基于属性的验证示例👉][3]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-validation/text-based-validation-example/
 [1]:.\introduction.html

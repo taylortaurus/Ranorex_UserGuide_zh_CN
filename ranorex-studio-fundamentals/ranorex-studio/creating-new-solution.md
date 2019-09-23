@@ -142,8 +142,8 @@ Ranorex Studio高级>数据驱动测试> [👉参数][9]
 
 
 ---
-[👈示例项目][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-[👉创建一个新的测试项目][2]
+[👈示例项目][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+[创建一个新的测试项目👉][2]
 
 [0]:https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio/creating-new-test-project/
 

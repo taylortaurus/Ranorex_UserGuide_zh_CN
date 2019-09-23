@@ -160,7 +160,7 @@ app文件夹是根文件夹。它们表示控件库元素的树结构中的顶�
 
 ---
 
-[👈管理控件库项][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[清理控件库👉][2]
+[👈管理控件库项][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[清理控件库👉][2]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/repository/structuring-repository-items/
 

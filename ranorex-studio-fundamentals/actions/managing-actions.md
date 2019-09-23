@@ -188,7 +188,7 @@ b.单击一个动作，然后按 F4。
 可用于除Separator动作之外的所有动作，该动作始终记录。
 
 ---
-[👈动作和控件库项][6]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[动作属性👉][4]
+[👈动作和控件库项][6]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[动作属性👉][4]
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/actions/managing-actions

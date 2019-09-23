@@ -214,7 +214,7 @@ Test Suite Runner是一个独立的程序，可以在没有Ranorex Studio的情�
 2.当前加载的测试套件
 
 ---
-[👈构建测试][3]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[管理多个测试套件👉][4]
+[👈构建测试][3]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[管理多个测试套件👉][4]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-suite/running-tests/#Errorbehavior/
 

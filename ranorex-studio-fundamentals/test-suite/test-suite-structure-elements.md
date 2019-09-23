@@ -153,7 +153,7 @@ teardown区域始终在其他所有区域之后执行，或者在直接父项目
 智能文件夹只有在它是测试用例的子项时才能包含模块或模块组。
 
 ---
-[👈测试套件][0]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[建立一个测试👉][1]
+[👈测试套件][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[建立一个测试👉][2]
 
 [0]:https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-suite/test-suite-structure-elements/
 [1]:.\introduction.html

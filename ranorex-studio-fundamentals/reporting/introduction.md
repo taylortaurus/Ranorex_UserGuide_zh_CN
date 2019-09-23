@@ -32,7 +32,7 @@ Ranorex Studio基础知识>报告>[ 👉Ranorex标准报告][2]，[👉报告等
 
 ---
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[动作和报告👉][4]
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[动作和报告👉][4]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/reporting/introduction/
 [1]:.\concept-report-levels-2.html
@@ -40,4 +40,4 @@ Ranorex Studio基础知识>报告>[ 👉Ranorex标准报告][2]，[👉报告等
 [2]:.\ranorex-standard-reporting.html
 
 [3]: .\report-customization.html
-[4]: .\
+[4]: .\actions-and-the-report.html

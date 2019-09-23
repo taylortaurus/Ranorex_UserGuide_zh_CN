@@ -18,7 +18,7 @@
 
 
 >**视频向导**          
-截屏视频“动作和报告”将引导您完成本章中的信息。         
+视频“动作和报告”将引导您完成本章中的信息。         
 [立即观看](https://www.youtube.com/embed/xglCJQNoCgk)
 
 ## 如何报告动作
@@ -27,7 +27,7 @@
 ![A9020-0000011](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Reporting/A9020-0000011.png)
 
 1. 测试运行期间报告的动作
-如上图所示，一个动作意味着至少一条报告消息，有时甚至更多。在具有数千个动作的大型测试套件中，报告可能会非常快速地混乱。为了防止这种情况，您可以使用👉报告级别以控制哪些报告消息进入报告。
+如上图所示，一个动作意味着至少一条报告消息，有时甚至更多。在具有数千个动作的大型测试套件中，报告可能会非常快速地混乱。为了防止这种情况，您可以使用👉[报告等级][6]以控制哪些报告消息进入报告。
 您还可以通过其属性完全禁用动作报告。
 
 >**章节预览**            
@@ -83,7 +83,7 @@ Ranorex Studio基础>动作>  👉[动作属性][2]
 ![A9020-0000041](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Reporting/A9020-0000041.png)
 
 
-1. 在动作表中录制消息。
+1. 在动作表中记录消息。
 2. 报告中的相同日志消息。
 
 >**章节预览**      
@@ -101,7 +101,7 @@ Ranorex Studio基础>动作>  👉[动作属性][2]
 
 ---
 
-[👈简介][5]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[报告等级👉][6]
+[👈简介][5]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[报告等级👉][6]
 
 
 [0]:https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/reporting/basic-report-characteristics-data/

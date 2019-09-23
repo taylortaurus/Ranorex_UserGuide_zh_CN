@@ -183,7 +183,7 @@
 
 ---  
 
-[👈基于属性的验证示例][4]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[验证工具提示👉][5]
+[👈基于属性的验证示例][4]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[验证工具提示👉][5]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-validation/image-based-validation-example/
 [1]: .\ranorex-recorder\recorder-hotkeys.html
