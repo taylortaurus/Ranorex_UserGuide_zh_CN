@@ -1,9 +1,10 @@
 # [译]详细的动作列表
 
-*原文地址 👉 [Detailed list of actions][0]*
+   
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2019-9-6*    
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2019年9月6日-green.svg?longCache=true&style=flat-square)
 
 ---
 在本章中，您将找到所有动作的列表，其中包含有关其组件和属性的详细信息。可以在动作表中配置的所有组件也可在动作的属性中使用。我们将在本章中仅解释特定于动作的属性。该标准的特性在👉[管理动作][1]中得到解释。

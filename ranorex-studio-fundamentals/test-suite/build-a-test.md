@@ -1,9 +1,10 @@
 # [译] 建立一个测试
+   
 
-*原文地址 👉 [Build a test][0]*
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2019-9-5*    
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2019年9月5日-green.svg?longCache=true&style=flat-square)
 
 ---
 在本章中，您将在前面的章节中应用您对测试套件的了解。为此，您将使用各种测试套件项构建一个简单的测试。

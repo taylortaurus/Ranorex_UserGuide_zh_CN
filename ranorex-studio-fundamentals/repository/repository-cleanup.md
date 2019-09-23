@@ -1,9 +1,11 @@
 # [译] 清理控件库
 
-*原文地址 👉 [Clean up the repository][0]*
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2019-9-9*    
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
+
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2019年9月9日-green.svg?longCache=true&style=flat-square)
+
 
 ---
 

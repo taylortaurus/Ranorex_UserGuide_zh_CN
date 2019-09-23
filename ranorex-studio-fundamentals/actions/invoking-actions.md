@@ -1,9 +1,9 @@
 # [译] 调用动作
 
-*原文地址 👉 [Invoke Actions][0]*
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2019-9-9*    
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2019年9月9日-green.svg?longCache=true&style=flat-square)
 
 ---
 Invoke动作允许您对控件库项执行动作，而无需任何直接交互，如鼠标单击或键盘输入。这对于动作不可见的 UI元素特别有用，例如失焦的窗口或需要滚动的列表项。在本章中，您将通过两个示例学习如何使用Invoke动作。
