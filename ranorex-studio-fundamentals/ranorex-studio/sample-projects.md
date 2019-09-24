@@ -1,10 +1,12 @@
 # [译] 示例项目
 
-*原文地址 👉 [Sample projects][0]*
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2018-9-26*    
-*♋ update time : 2019-9-4*
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
+
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2018年9月26日-green.svg?longCache=true&style=flat-square)
+![](https://img.shields.io/badge/UpdateTime-2019年9月4日-green.svg?longCache=true&style=flat-square)  
+
 
 ---
 

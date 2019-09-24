@@ -31,7 +31,7 @@
 ![A6030-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/actions/A6030-0000010.png)    
 *UI元素和控件库项*
 
->**章节预览**
+>**章节预览**             
 >控件库的描述在>Ranorex Studio基础>👉[控件库][1]
 
 ## 动作和控件库项目

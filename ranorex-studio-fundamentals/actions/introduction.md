@@ -61,7 +61,7 @@
 ![A6010-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/actions/A6010-0000030.png)    
 *Ranorex Studio动作表*
 
->**注意**   
+**注意**   
 >动作总是按时间顺序列出，即动作＃4在动作＃5之前执行。
 
 ---

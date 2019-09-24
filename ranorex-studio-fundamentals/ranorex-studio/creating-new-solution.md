@@ -1,9 +1,12 @@
 # [译] 创建新的解决方案
 
-*原文地址 👉 [Create a new solution][0]*
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2019-9-20*    
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
+
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2019年9月20日-green.svg?longCache=true&style=flat-square)
+
+
 
 ---
 在Ranorex Studio中，解决方案是包含所有其他测试文件的顶级容器。解决方案组织成一个或多个项目。Ranorex Studio中有不同的项目类型，但测试套件项目通常用于构建测试。测试套件项目包含一个或多个测试套件，这些测试套件又代表测试结构及其测试用例和模块。
@@ -132,8 +135,8 @@ Ranorex Studio基础> [👉测试套件][7]
 
 ![](https://www.ranorex.com/rx-media/rx-user-guide/latest/A30/A3040-0000065.png)
 
->**贴士**            
-您无需熟悉变量和参数即可使用桌面解决方案模板。
+**贴士**            
+>您无需熟悉变量和参数即可使用桌面解决方案模板。
 
 >**章节预览**              
 如果要了解有关变量和参数的更多信息，请参阅           

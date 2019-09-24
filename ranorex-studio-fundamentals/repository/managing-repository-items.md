@@ -55,8 +55,8 @@ Ranorex将控件库项目组织在称为文件夹的逻辑组中。文件夹始�
 2. ... Ranorex将通知您有关后果并要求您进行确认。
 
  
->**贴士**        
-这仅适用于app folder和root folder。simple fold不受影响，因为它们没有基本路径。
+**贴士**        
+>这仅适用于app folder和root folder。simple fold不受影响，因为它们没有基本路径。
 
 
 ## 删除链接的控件库项目
@@ -115,8 +115,8 @@ Ranorex将控件库项目组织在称为文件夹的逻辑组中。文件夹始�
 
 3. UI元素的当前状态的屏幕截图将添加到相应的控件库项目中。
 
->**贴士**          
-此选项仅在打开AUT并且相应的UI元素可见时才有效。
+**贴士**          
+>此选项仅在打开AUT并且相应的UI元素可见时才有效。
 
 
 ### **保存截图**
@@ -207,7 +207,7 @@ Rooted folder：False
 
 ---
 
-[👈创建控件库项][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[构建控件库项👉][2]
+[👈创建控件库项目][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[构建控件库项👉][2]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/repository/managing-repository-items/
 [1]:.\creation-repository-items.html

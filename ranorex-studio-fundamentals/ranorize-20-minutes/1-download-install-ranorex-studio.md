@@ -26,7 +26,7 @@
 ![A1020-0000022](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1020-0000022.png)  
 *许可证类型选择*  
 
-一旦完成，Ranorex Studio会自动启动并显示“开始”页面。
+一旦完成，Ranorex Studio会自动启动并显示“Start page”页面。
 
 ![A1020-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1020-0000040.png)  
 
@@ -37,4 +37,4 @@
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-studio-fundamentals/1-download-install-ranorex-studio/
 [1]: .\2-create-new-solution.html
 [2]: https://www.ranorex.com/free-trial/
-[3]: .\introduction
+[3]: .\introduction.html

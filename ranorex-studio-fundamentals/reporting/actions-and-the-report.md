@@ -59,8 +59,7 @@
 
 >**章节预览**                    
 要了解有关验证的更多信息，请参阅以下章节：                       
-Ranorex Studio基础>动作>  👉[动作属性][2]            
-和                
+Ranorex Studio基础>动作>  👉[动作属性][2]  和                
 Ranorex Studio基础> 👉[测试验证][3]
 
 ### **分隔符**
@@ -102,7 +101,7 @@ Ranorex Studio基础>动作>  👉[动作属性][2]
 
 ---
 
-[👈简介][5]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[报告等级👉][6]
+[👈介绍][5]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[报告等级👉][6]
 
 
 [0]:https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/reporting/basic-report-characteristics-data/

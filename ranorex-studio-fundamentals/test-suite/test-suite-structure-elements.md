@@ -30,7 +30,7 @@ c.从模块浏览器拖放,这仅适用于模块和模块组。
 
 ![A5020-0000031](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5020-0000031.png)
 
->**提示**   
+**提示**   
 >您只能在测试套件层次结构允许的情况下将项添加到测试套件中。如果无法在所需位置添加项目，则菜单中的项目将显示为灰色。本章末尾将介绍测试套件层次结构。
 
 
@@ -153,7 +153,7 @@ teardown区域始终在其他所有区域之后执行，或者在直接父项目
 智能文件夹只有在它是测试用例的子项时才能包含模块或模块组。
 
 ---
-[👈测试套件][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[建立一个测试👉][2]
+[👈介绍][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[建立一个测试👉][2]
 
 [0]:https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-suite/test-suite-structure-elements/
 [1]:.\introduction.html

@@ -112,7 +112,7 @@
 > 在 \> Ranorex Studio 系统详情 \> 设置和配置 \> 👉 [Ranorex录制器设置][3]章节中可以了解录制器设置及其对录制的影响
 
 ---
-[👈Ranorex 录制器][4]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[录制一个测试👉][6]
+[👈介绍][4]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[录制一个测试👉][6]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-recorder/before-you-start-recording/
 [1]: ..//..//ranorex-studio-fundamentals/whitelisting/introduction.html

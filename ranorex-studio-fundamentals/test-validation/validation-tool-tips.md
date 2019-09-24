@@ -77,7 +77,7 @@ Ranorex Studio基础> Ranorex Recorder>  👉[录制器控制中心和热键][1]
 
 
 **示例解决方案**
->主题：工具提示验证
+>主题：工具提示验证                         
 >时间：15分钟           
 >[点我下载](https://www.ranorex.com/rx-media/rx-user-guide/latest/download/RxSampleTooltipValidation.zip)
 
@@ -86,8 +86,8 @@ Ranorex Studio基础> Ranorex Recorder>  👉[录制器控制中心和热键][1]
 
 2. 启动 Ranorex Studio并打开解决方案文件TooltipValidation.rxsln
 
->**贴士**          
-样本解决方案适用于Ranorex Studio 8.0或更高版本。您必须同意8.2及更高版本的自动解决方案升级。
+**贴士**          
+>样本解决方案适用于Ranorex Studio 8.0或更高版本。您必须同意8.2及更高版本的自动解决方案升级。
 
 
 ---
