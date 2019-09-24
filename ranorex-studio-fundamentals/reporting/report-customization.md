@@ -49,8 +49,8 @@
 1. 解压项目目录到你的计算机任一文件夹
 2. 使用RanorexStudi打开`RxDatabase.rxsln`解决方案
 
->**贴士**  
-示例解决方案适用于Ranorex版本8.0或更高版本。你需要将解决方案自动升级同意到8.2及更高版本的
+**贴士**  
+>示例解决方案适用于Ranorex版本8.0或更高版本。你需要将解决方案自动升级同意到8.2及更高版本的
 
 ## 从原始数据到报告
 
@@ -96,7 +96,7 @@
 ![A9050-0000060](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Reporting/A9050-0000060.png)  
 *基于html的报告文件和报告显示在Ranorex Studio*
 
->**提示**  
+**提示**  
 > - 报告可以在任一Web浏览器中查看
 > - 报告文件可以在任一HTML编辑器里编辑
 
@@ -176,7 +176,7 @@
 - 如果你重命名了一个模板并应用了它，Ranorex可以再次找到它
 
 
->**提示**  
+**提示**  
 > 同一时间，一个测试套件，只有一个报告模板是激活的
 
 1. 在测试报告属性中打开报告选项卡
@@ -223,7 +223,7 @@ Ranorex有一个特殊的机制来处理定制的报表模板。它涉及到每�
 
 4. CSS和XSL规范文件以及默认logo文件RanorexReport.png
 
->**提示**  
+**提示**  
 > Ranorex在每次后续测试运行时同步输出文件夹的所有文件。
 
 ###  **流程摘要**
@@ -321,7 +321,7 @@ Ranorex有一个特殊的机制来处理定制的报表模板。它涉及到每�
 
 ![A9050-0000250](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Reporting/A9050-0000250.png)  
 
->**提示**  
+**提示**  
 > 如果报告中缺少logo，请记住在项目和报告过程中包含logo文件，如上所述
 
 ## 用用户名替换计算机/端点

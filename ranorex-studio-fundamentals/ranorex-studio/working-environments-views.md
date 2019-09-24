@@ -1,10 +1,11 @@
 # [译] 工作环境和视图
 
-*原文地址 👉 [Working environment and views][0]*
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2018-9-26*    
-*♋ update time : 2019-9-4*
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2018年9月26日-green.svg?longCache=true&style=flat-square)
+![](https://img.shields.io/badge/UpdateTime-2019年9月4日-green.svg?longCache=true&style=flat-square)  
+
 
 ---
 
@@ -45,7 +46,7 @@ Ranorex Studio提供了一个简单的工作环境，并根据共同的原则进
 ![A3030-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudio/A3030-0000020.png)  
 *Studio菜单中的`View`菜单*  
 
->**提示**  
+**提示**  
 > 用户指南的相应章节中描述了不同的视图。
 
 ## 更改和选择视图
@@ -68,7 +69,7 @@ Ranorex Studio提供了一个简单的工作环境，并根据共同的原则进
 
     报告文件有这样的后缀`rxlog`=`R`anore`x` `Log`file
 
->**贴士**  
+**贴士**  
 >通过单击选项卡中文件名旁边的**[x]**，从工作环境中删除活动视图。
 
 ---

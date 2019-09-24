@@ -10,7 +10,7 @@
 
 ---
 
-欢迎来到在20分钟内了解Ranorex板块。在本指南中，你将在Ranorex Studio中迈出第一步，并熟悉其一些基本功能。在这里你将通过**6个简单步骤创建你的第一个自动化软件测试**项目。
+欢迎来到`在20分钟内了解Ranorex`板块。在本指南中，你将在Ranorex Studio中迈出第一步，并熟悉其一些基本功能。在这里你将通过**6个简单步骤创建你的第一个自动化软件测试**项目。
 
 ![A1010-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/Ranorizeyourselfin20minutes/A1010-0000010.png)
 
