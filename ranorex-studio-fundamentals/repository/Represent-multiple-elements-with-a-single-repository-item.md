@@ -110,8 +110,8 @@ RanoreXPath语法在> Ranorex Studio高级>  👉[RanoreXPath][2]中描述。
 [👈清理控件库][4]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[管理多个控件库👉][5]
 
 [0]:https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/repository/repository-items-representing-multiple-elements/
-[1]:.\ranorex-studio-expert\code-modules\introduction.html
-[2]:.\ranorex-studio-advanced\ranorexpath\introduction.html
-[3]:.\ranorex-studio-advanced\ranorex-spy.html
+[1]:..\\..\\ranorex-studio-expert\code-modules\introduction.html
+[2]:..\\..\\ranorex-studio-advanced\ranorexpath\introduction.html
+[3]:..\\..\\ranorex-studio-advanced\ranorex-spy.html
 [4]:.\repository-cleanup.html
 [5]:.\Manage-multiple-repositories.html

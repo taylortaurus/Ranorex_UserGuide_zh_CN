@@ -103,7 +103,7 @@
 > 在 \> Ranorex Studio 基础教程 \> 测试套件 \> 👉 [管理多个测试套件][4]一文中介绍和解释了相关概念
 
 > **章节预览**  
-> 在 \> Ranorex Studio 高级教程教程 \> 👉 [数据驱动测试][1]一文中介绍和解释了相关概念
+> 在 \> Ranorex Studio 高级教程 \> 👉 [数据驱动测试][1]一文中介绍和解释了相关概念
 
 > **章节预览**  
 > 在 \> Ranorex Studio 高级教程  \> 👉 [维护模式][5]一文中介绍和解释了相关概念
@@ -116,8 +116,8 @@
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-suite/introduction/
 [1]: ..//..//..//ranorex-studio-advanced/data-driven-testing/introduction.html
 [2]: https://www.ranorex.com/rx-media/rx-user-guide/latest/download/RxSampleTestSuite.zip
-[3]: ..//..//test-suite/multiple-testsuites.html
-[4]: ..//..//test-suite/running-tests.html
+[3]: .\multiple-testsuites.html
+[4]: .\running-tests.html
 [5]: ..//..//..//ranorex-studio-advanced/maintenance-mode.html
 [6]:https://www.youtube.com/embed/lX4Up53NxGI
 [7]:.\test-suite-structure-elements.html

@@ -128,7 +128,9 @@
 - 控件库项有个名称（例如：`EnterYourName`）和在GUI中的路径
 
 > **章节预览**  
-> 在 \> Ranorex Studio 基础教程 \> 动作 \> 👉 [动作和控件库项][5]章节和\> Ranorex Studio 基础教程 \> 控件库 \> 👉 [控件库项和动作][6]章节中对动作和控件库项之间的链接相关内容有说明介绍
+> 在 \> Ranorex Studio 基础教程 \> 动作 \> 👉 [动作和控件库项目][5]章节和\> Ranorex Studio 基础教程 \> 控件库 \> 👉 [控件库项目和动作][6]章节中对动作和控件库项之间的链接相关内容有说明介绍
+
+
 
 > **视频向导**  
 > 要了解如何手动将UI元素添加到控件库，并将动作添加到未连接到控件库库项目的录制中去，请观看我们的视频—>[RanorexStudio Recorder基础知识5：手动添加元素和动作][8](视频来自Youtube)
@@ -161,8 +163,8 @@
 [2]: ..//..//ranorex-studio-fundamentals/test-suite/introduction.html
 [3]: ..//..//ranorex-studio-fundamentals/actions/introduction.html
 [4]: ..//..//ranorex-studio-fundamentals/repository/introduction.html
-[5]: ..//..//ranorex-studio-fundamentals/actions/[译]动作和控件库项.html
-[6]: ..//..//ranorex-studio-fundamentals/repository/[译]控件库项和动作.html
+[5]: ..//..//ranorex-studio-fundamentals/actions/actions-repository-items.html
+[6]: ..//..//ranorex-studio-fundamentals/repository/repository-items-actions.html
 [7]: https://www.ranorex.com/rx-media/rx-user-guide/latest/download/RxSampleIntroduction.zip
 [8]: https://youtu.be/Q7YpwB6Me-c
 [9]: .\recording-a-test.html

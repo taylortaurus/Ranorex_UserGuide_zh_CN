@@ -152,5 +152,5 @@
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-validation/text-based-validation-example/
 [1]:.\introduction.html
-[2]:.\actions\action-properties.html
+[2]:..\\..\\ranorex-studio-fundamentals\actions\action-properties.html
 [3]:.\attribute-based-validation-example.html

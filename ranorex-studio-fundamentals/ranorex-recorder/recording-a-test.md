@@ -142,10 +142,10 @@ Ranorex Studio支持各种环境，规格和设置。无论您的环境如何，
 [👈你开始录制之前][6]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[分析录制👉][7]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-recorder/recording-a-test/
-[1]: ./[译]录制器控制中心和热键.html
-[2]: ..//..//ranorex-studio-fundamentals/whitelisting/introduction.html
+[1]: ./recorder-hotkeys.html
+[2]: ..//..//ranorex-studio-fundamentals/whitelisting/whitelisting.html
 [3]: ..//..//ranorex-studio-fundamentals/test-validation/introduction.html
-[4]: ..//..//ranorex-studio-fundamentals/test-validation/[译]验证的概念.html
+[4]: ..//..//ranorex-studio-fundamentals/test-validation/introduction.html
 [5]: https://www.ranorex.com/rx-media/rx-user-guide/latest/download/RxSampleIntroduction.zip
 [6]:.\before-you-start-recording.html
 [7]:.\analyzing-recordings.html

@@ -188,8 +188,8 @@
 [👈基于属性的验证示例][4]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[验证工具提示👉][5]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-validation/image-based-validation-example/
-[1]: .\ranorex-recorder\recorder-hotkeys.html
-[2]: .\whitelisting\whitelisting.html
-[3]: .\actions\action-properties.html
+[1]: ..\\..\\ranorex-studio-fundamentals\ranorex-recorder\recorder-hotkeys.html
+[2]: ..\\..\\ranorex-studio-fundamentals\whitelisting\whitelisting.html
+[3]: ..\\..\\ranorex-studio-fundamentals\actions\action-properties.html
 [4]: .\attribute-based-validation-example.html
 [5]: .\validation-tool-tips.html

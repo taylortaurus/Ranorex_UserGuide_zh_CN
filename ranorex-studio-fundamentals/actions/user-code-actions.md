@@ -168,6 +168,6 @@ b. 单击“将项目合并到具有返回值的用户代码项”以创建具�
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/actions/user-code-actions/
-[1]:.\ranorex-studio-expert\user-code-library\introduction.html
+[1]:..\\..\\ranorex-studio-expert\user-code-library\introduction.html
 [2]:.\invoking-actions.html
 

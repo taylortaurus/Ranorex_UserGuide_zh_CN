@@ -250,9 +250,9 @@
 
 消息：将记录到报告以进行验证的消息。保留为空以使用默认的Ranorex消息。
 
-失败时的报告级别]：失败消息👉[报告级别][3]。
+失败时的报告等级]：失败消息👉[报告等级][3]。
 
-成功报告级别：成功消息👉[报告级别][3]。
+成功报告等级：成功消息👉[报告等级][3]。
 
 报告屏幕截图：报告消息中是否包含屏幕截图。
 
@@ -671,7 +671,7 @@ AttributeNotContains
 
 **水平**
 
-记录项目的👉[报告级别][3]。
+记录项目的👉[报告等级][3]。
 
 ### **特定于动作的属性**
 -  类别：定义项目在报告中显示的类别。默认为用户。
@@ -692,7 +692,7 @@ AttributeNotContains
 在actions表的当前位置插入分隔线。使用它可以直观地分离或分组相关的动作。您可以添加标题文本来描述分隔符。分隔符及其标题文本也将显示在报表中。此动作对测试执行本身没有影响。它纯粹是增加美感。
 
 >**章节预览**   
-Ranorex Studio基础知识>报告> 👉[基本报告特征和数据][7]中也说明了分隔符动作。
+Ranorex Studio基础知识>报告> 👉[动作与报告][7]中也说明了分隔符动作。
 
 ## **延迟**
 摘要：	延迟执行下一个动作。
@@ -737,12 +737,12 @@ Ranorex Studio专家>用户代码库> 👉简介中介绍了[用户代码库][9]
 [0]:.\https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/actions/detailed-list-actions/
 
 [1]:.\managing-actions.html
-[2]:.\ranorex-studio-advanced\image-based-automation\Introduction.html
-[3]:.\reporting\concept-report-levels-2.html
-[4]:.\test-validation\introduction.html
+[2]:..\\..\\ranorex-studio-advanced\image-based-automation\Introduction.html
+[3]:..\\..\\ranorex-studio-fundamentals\reporting\concept-report-levels-2.html
+[4]:..\\..\\ranorex-studio-fundamentals\test-validation\introduction.html
 [5]:.\invoking-actions.html
-[6]:.\web-mobile-testing\mobile-testing\introduction.html
-[7]:.\reporting\basic-report-characteristics-data.html
+[6]:..\\..\\web-mobile-testing\mobile-testing\introduction.html
+[7]:..\\..\\ranorex-studio-fundamentals\reporting\actions-and-the-report.html
 [8]:.\user-code-actions.html
-[9]:.\ranorex-studio-expert\user-code-library.html
+[9]:..\\.\\ranorex-studio-expert\user-code-library.html
 [10]:.\managing-actions.html

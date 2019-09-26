@@ -56,5 +56,5 @@ Web和移动测试>端点> 👉[入门][1]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/whitelisting/
 
-[1]:.\web-mobile-testing\Endpoints\getting-started.html
+[1]:..\\..\\web-mobile-testing\Endpoints\getting-started.html
 

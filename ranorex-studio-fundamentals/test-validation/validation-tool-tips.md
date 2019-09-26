@@ -97,5 +97,5 @@ Ranorex Studio基础> Ranorex Recorder>  👉[录制器控制中心和热键][1]
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-validation/validation-tool-tips/
-[1]:.\ranorex-recorder\recorder-hotkeys.html
+[1]:..\\..\\ranorex-studio-fundamentals\ranorex-recorder\recorder-hotkeys.html
 [2]:.\image-based-validation-example.html

@@ -65,6 +65,6 @@
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/actions/actions-repository-items/
 
-[1]:.\repository\Introduction.html
+[1]:..\\..\\ranorex-studio-fundamentals\repository\Introduction.html
 [2]:.\introduction.html
 [3]:.\managing-actions.html

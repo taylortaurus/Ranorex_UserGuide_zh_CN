@@ -194,9 +194,9 @@ b.单击一个动作，然后按 F4。
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/actions/managing-actions
-[1]:.\repository\Introduction.html
-[2]:.\ranorex-recorder\run-debug-recordings.html
+[1]:..\\..\\ranorex-studio-fundamentals\repository\Introduction.html
+[2]:..\\..\\ranorex-studio-fundamentals\ranorex-recorder\run-debug-recordings.html
 [3]:.\user-code-actions.html
 [4]:.\action-properties.html
-[5]:.\ranorex-studio-system-details\settings-configuration\[译]Ranorex录制器设置.html
+[5]:..\\..\\ranorex-studio-system-details\settings-configuration\[译]Ranorex录制器设置.html
 [6]:.\actions-repository-items.html

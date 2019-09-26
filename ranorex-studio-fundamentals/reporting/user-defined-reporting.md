@@ -297,9 +297,9 @@ Ranorex.Report.Failure(“Failure message”);
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/reporting/user-defined-reporting/
 [1]: https://www.ranorex.com/rx-media/rx-user-guide/latest/download/RxSampleUserDefinedReport.zip
-[2]: ..\\..\\ranorex-studio-fundamentals/actions/[译]用户代码动作.html
+[2]: ..\\..\\ranorex-studio-fundamentals/actions/user-code-actions.html
 [3]: ..\\..\\..\\ranorex-studio-expert/Code_modules/introduction.html
-[4]: .\ranorex-studio-expert\code-modules\introduction.html
+[4]: ..\\..\\ranorex-studio-expert\code-modules\introduction.html
 [5]: .\report-customization.html
 [6]: .\converting-reports-data-types.html
 

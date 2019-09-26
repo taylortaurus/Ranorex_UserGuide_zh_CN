@@ -26,6 +26,6 @@ Ranorex Studio基础>动作> 👉[动作和控件库项目][1]
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/repository/repository-items-actions/
-[1]:.\actions\actions-repository-items.html
+[1]:..\\..\\ranorex-studio-fundamentals\actions\actions-repository-items.html
 [2]:.\introduction.html
 [3]:.\creation-repository-items.html                                                                                                                                                                                                                                     

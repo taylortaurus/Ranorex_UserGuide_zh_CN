@@ -130,6 +130,6 @@ Ranorex Studio测试包含与应用程序用户界面中的元素的一系列交
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/repository/introduction/
-[1]:.\ranorex-studio-advanced\ranorexpath\introduction.html
+[1]:..\\..\\ranorex-studio-advanced\ranorexpath\introduction.html
 [2]:.\repository-items-actions.html
 

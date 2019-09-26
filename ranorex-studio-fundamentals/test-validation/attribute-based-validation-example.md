@@ -201,6 +201,6 @@
 [1]:.\introduction.html
 [2]:.\text-based-validation-example.html
 [3]:.\image-based-validation-example.html
-[4]:.\ranorex-recorder\recorder-hotkeys.html
-[5]:.\whitelisting\whitelisting
-[6]:.\actions\action-properties.html
+[4]:..\\..\\ranorex-studio-fundamentals\ranorex-recorder\recorder-hotkeys.html
+[5]:..\\..\\ranorex-studio-fundamentals\whitelisting\whitelisting.html
+[6]:..\\..\\ranorex-studio-fundamentals\actions\action-properties.html
