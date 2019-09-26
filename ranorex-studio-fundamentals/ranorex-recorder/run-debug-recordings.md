@@ -152,7 +152,7 @@
 当测试变得复杂时，向报表添加特殊的日志消息通常很有帮助。
 
 > **章节预览**  
-> 在 \> Ranorex Studio 基础教程 \> 报告 \> 👉 [报告基本的特征和数据][4]章节中详细介绍了有关概念。
+> 在 \> Ranorex Studio 基础教程 \> 报告 \> 👉 [Ranorex标准报告][4]章节中详细介绍了有关概念。
 
 ## 开启/关闭调试模式
 
@@ -194,8 +194,8 @@ Ranorex Studio包含一个专门的调试模式，通过在编程代码中设置
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-recorder/run-debug-recordings/
 [1]: ..//..//ranorex-studio-fundamentals/reporting/introduction.html
 [2]: ..//..//ranorex-studio-fundamentals/test-suite/introduction.html
-[3]: ..//..//ranorex-studio-fundamentals/actions/[译]管理动作.html
-[4]: ..//..//ranorex-studio-fundamentals/reporting/[译]报告基本的特征和数据.html
+[3]: ..//..//ranorex-studio-fundamentals/actions/managing-actions.html
+[4]: ..//..//ranorex-studio-fundamentals/reporting/ranorex-standard-reporting.html
 [5]: ..//..//..//ranorex-studio-expert/ranorex-studio-ide/[译]调试.html
 [6]: https://www.ranorex.com/rx-media/rx-user-guide/latest/download/RxSampleIntroduction.zip
 [7]: https://www.youtube.com/embed/WVVlYI2h6jY

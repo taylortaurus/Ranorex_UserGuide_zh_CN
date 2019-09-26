@@ -106,9 +106,9 @@ Ranorex Studio基础>动作>  👉[动作属性][2]
 
 [0]:https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/reporting/basic-report-characteristics-data/
 
-[1]:.\actions\managing-actions.html
-[2]:.\action-properties.html
-[3]:.\test-validation\.introduction.html
-[4]:.\ranorex-recorder\managing-recording-modules.html
+[1]:..\\..\\ranorex-studio-fundamentals\actions\managing-actions.html
+[2]:..\\..\\ranorex-studio-fundamentals\actions\action-properties.html
+[3]:..\\..\\ranorex-studio-fundamentals\test-validation\introduction.html
+[4]:..\\..\\ranorex-studio-fundamentals\ranorex-recorder\managing-recording-modules.html
 [5]:.\introduction.html
 [6]:.\concept-report-levels-2.html

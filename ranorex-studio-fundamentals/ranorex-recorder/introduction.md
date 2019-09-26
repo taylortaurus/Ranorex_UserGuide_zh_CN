@@ -52,6 +52,6 @@ Ranorex还提供独立的录制器。它可以独立于Ranorex Studio启动。
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-recorder/introduction/
-[1]: ..\\..\\ranorize-20-minutes/introduction.html
+[1]: ..\\..\\ranorex-studio-fundamentals/ranorize-20-minutes/introduction.html
 [2]: https://www.ranorex.com/blog/studio-quick-start/
 [3]: .\before-you-start-recording.html

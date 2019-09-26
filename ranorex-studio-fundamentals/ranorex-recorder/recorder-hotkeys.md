@@ -152,9 +152,9 @@
 [👈管理录制模块][5]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-recorder/recorder-hotkeys/
-[1]: ..//..//ranorex-studio-fundamentals/actions/[译]动作属性.html
+[1]: ..//..//ranorex-studio-fundamentals/actions/action-properties.html
 [2]: ..//..//ranorex-studio-fundamentals/test-validation/introduction.html
-[3]: ..//..//ranorex-studio-fundamentals/test-validation/[译]验证工具提示.html
+[3]: ..//..//ranorex-studio-fundamentals/test-validation/validation-tool-tips.html
 [4]: ..//..//..//ranorex-studio-advanced/image-based-automation/introduction.html
 [5]:.\managing-recording-modules.html
 

@@ -128,7 +128,7 @@
 您还可以在测试套件中设置测试用例和智能文件夹的报告级别。通过报告级别，您可以控制  报告中显示的信息及其显示位置。这对于包含许多测试用例和智能文件夹的复杂测试尤其有用，可以保持报表的结构化。
 
 >**章节预览**   
->报告级别超出了本章的范围。他们的相关内容在Ranorex Studio基础知识>报告>[报告级别][1]。
+>报告级别超出了本章的范围。他们的相关内容在Ranorex Studio基础知识>报告>[👉报告等级][1]。
 
 
 ## 配置错误行为
@@ -193,7 +193,7 @@
 ![A5030-0000140](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TestSuite/A5030-0000140.png)
 
 >**章节预览**              
->Ranorex Studio基础知识>报告>[简介][2]中描述了报告  。
+>Ranorex Studio基础知识>报告>[👉简介][2]中描述了报告  。
 
 ## Ranorex Test Suite Runner
 Test Suite Runner是一个独立的程序，可以在没有Ranorex Studio的情况下执行测试套件。当你打开双击Windows中的测试套件文件时，它会自动执行。
@@ -215,11 +215,11 @@ Test Suite Runner是一个独立的程序，可以在没有Ranorex Studio的情�
 2.当前加载的测试套件
 
 ---
-[👈建立一个测试][3]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[管理多个测试套件👉][4]
+[👈建立一个测试][3]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[管理多个测试套件👉][4]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-suite/running-tests/#Errorbehavior/
 
-[1]:.\reporting\concept-report-levels-2.html
-[2]:.\reporting\introduction.html
-[3]:build-a-test.html
-[4]:multiple-testsuites.html
+[1]:..\\..\\ranorex-studio-fundamentals\reporting\concept-report-levels-2.html
+[2]:..\\..\\ranorex-studio-fundamentals\reporting\introduction.html
+[3]:.\build-a-test.html
+[4]:.\multiple-testsuites.html

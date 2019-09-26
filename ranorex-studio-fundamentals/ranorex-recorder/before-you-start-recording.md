@@ -115,8 +115,8 @@
 [👈介绍][4]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[录制一个测试👉][6]
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/ranorex-recorder/before-you-start-recording/
-[1]: ..//..//ranorex-studio-fundamentals/whitelisting/introduction.html
-[2]: ./[译]录制器控制中心和热键.html
+[1]: ..//..//ranorex-studio-fundamentals/whitelisting/whitelisting.html
+[2]: ./recorder-hotkeys.html
 [3]: ..//..//..//ranorex-studio-system-details/settings-configuration/[译]Ranorex录制器设置.html
 [4]: .\introduction.html
 [5]:https://www.ranorex.com/rx-media/rx-user-guide/v8.2/download/RxDemoApp.zip

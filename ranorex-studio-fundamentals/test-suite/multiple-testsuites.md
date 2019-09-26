@@ -138,7 +138,7 @@
 - 上面的示例`/testcase`使用名为`InsertName`参数值的测试用例调用命令行参数
 
 >**章节预览**   
->Ranorex Studio基础知识>测试套件>👉[在没有Ranorex Studio的情况下运行测试][7]，解释了测试套件的命令行参数。
+>Ranorex Studio基础专家>运行时和远程执行>👉[在没有Ranorex Studio的情况下运行测试][1]，解释了测试套件的命令行参数。
 
 
 
@@ -193,6 +193,6 @@ Ranorex Studio高级> Ranorex远程>👉[简介][7]中介绍了Ranorex远程
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-suite/multiple-testsuites/
 
-[6]: .\.\running-tests.html
-[7]:.\\ranorex-studio-expert\\runtime-and-remote-execution.html
-[8]:.\\interfaces-connectivity\\testrail-integration\\Introduction.html
+[6]: .\running-tests.html
+[7]:..\\..\\ranorex-studio-expert\\runtime-and-remote-execution.html
+[8]:..\\..\\interfaces-connectivity\\testrail-integration\\Introduction.html

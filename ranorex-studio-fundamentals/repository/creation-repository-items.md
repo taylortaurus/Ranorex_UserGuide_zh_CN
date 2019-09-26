@@ -79,9 +79,9 @@ Ranorex Studio高级> RanoreXPath>👉[简介][4]
 
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/repository/creation-repository-items/
-[1]: .\ranorex-studio-advanced\tracking-ui-elements\introduction.html
-[2]: .\ranorex-studio-advanced\tracking-ui-elements.html
-[3]: .\ranorex-studio-advanced\ranorex-spy\introduction.html
-[4]: .\ranorex-studio-advanced\ranorexpath\introduction.html
+[1]: ..\\..\\ranorex-studio-advanced\tracking-ui-elements\introduction.html
+[2]: ..\\..\\ranorex-studio-advanced\tracking-ui-elements.html
+[3]: ..\\..\\ranorex-studio-advanced\ranorex-spy\introduction.html
+[4]: ..\\..\\ranorex-studio-advanced\ranorexpath\introduction.html
 [5]: .\repository-items-actions.html
 [6]: .\managing-repository-items.html

@@ -200,10 +200,10 @@ Ranorex Studio高级>  👉[基于图像的自动化][4]。
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/test-validation/introduction/
 
-[1]:.\ranorex-studio-advanced\variables-parameter\validation-variables.html
-[2]:.\actions\introduction.html
-[3]:.\ranorex-studio-advanced\ui-elements\introduction.html
+[1]:..\\..\\ranorex-studio-advanced\variables-parameter\validation-variables.html
+[2]:..\\..\\ranorex-studio-fundamentals\actions\introduction.html
+[3]:..\\..\\ranorex-studio-advanced\ui-elements\introduction.html
 [4]:.\text-based-validation-example.html
 [5]:.\attribute-based-validation-example.html
 [6]:.\image-based-validation-example.html
-[7]:.\ranorex-studio-advanced\image-based-automation\introduction.html
+[7]:..\\..\\ranorex-studio-advanced\image-based-automation\introduction.html

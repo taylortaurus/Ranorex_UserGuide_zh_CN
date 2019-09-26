@@ -60,7 +60,7 @@ Web和移动测试>  [👉Web测试][3]   以及
 
 6. 取消选择后，解决方案文件将保存在项目的文件夹中，而不是保存在项目文件夹的父文件夹中。
 
-7. 如果需要，选中此框以将解决方案和项目添加到👉源控制系统。
+7. 如果需要，选中此框以将解决方案和项目添加到👉[源代码管理系统][11]。
 
 
 >**视频向导**              
@@ -86,7 +86,7 @@ b. 单击“浏览应用程序”>“浏览” 应用并使用Windows资源管�
 
 
 ## 选择录制动作
-使用此屏幕可配置Ranorex Studio在搜索UI元素时是仅评估一个应用程序，多个应用程序或所有正在运行的应用程序。这是Ranorex Studio的[👉白名单][6]功能的一部分。
+使用此屏幕可配置Ranorex Studio在搜索UI元素时是仅评估一个应用程序，多个应用程序或所有正在运行的应用程序。这是Ranorex Studio的[👉白名单][10]功能的一部分。
 
 1. 选择一个：
 
@@ -125,7 +125,7 @@ c. **No focus applied**
 
 >**章节预览**           
 有关录制测试的更多信息，请参阅：               
-Ranorex Studio基础> [👉RanorexRecorder][6]             
+Ranorex Studio基础> [👉Ranorex录制器][6]             
 有关测试套件的更多信息，请参阅：            
 Ranorex Studio基础> [👉测试套件][7]
 
@@ -155,7 +155,9 @@ Ranorex Studio高级>数据驱动测试> [👉参数][9]
 [3]:.\web-mobile-testing\web-testing.html
 [4]:.\web-mobile-testing\android-testing.html
 [5]:.\web-mobile-testing\ios-testing.html
-[6]:.\ranorex-recorder\introduction.html
-[7]:.\test-suite\introduction.html
+[6]:..\\..\\ranorex-studio-fundamentals/ranorex-recorder/introduction.html
+[7]:..\\..\\ranorex-studio-fundamentals/test-suite/introduction.html
 [8]:.\ranorex-studio-advanced\data-driven-testing\conditions-rules.html
 [9]:.\ranorex-studio-advanced\data-driven-testing\parameters.html
+[10]:..\\..\\ranorex-studio-fundamentals/whitelisting/whitelisting.md
+[11]:..\\..\\ranorex-studio-fundamentals/ranorize-20-minutes/introduction.html
