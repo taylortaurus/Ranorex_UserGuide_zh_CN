@@ -1,10 +1,13 @@
 # [译] Ranorex Studio 高级教程
 
-*原文地址 👉 [Ranorex Studio advanced][0]*
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*  
-*♋ translate time : 2018-7-5*  
-*♋ update time : 2018-9-20*  
+
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
+
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2018年7月5日-green.svg?longCache=true&style=flat-square)
+![](https://img.shields.io/badge/UpdateTime-2019年9月27日-green.svg?longCache=true&style=flat-square)
+
  
 ---
 
@@ -14,11 +17,11 @@
 
 |**方法**|**概念**|
 |:--|:--|
-|数据驱动测试|变量和参数|
+|数据驱动测试||
 |追踪UI元素|UI元素|
 |Ranorex Spy|RanoreXPath|
 |基于图像的自动化||
-|Ranore远程||
+|性能跟踪||
 |维护模式||
 
 ## 标识的意义
