@@ -68,7 +68,4 @@
         * [定制化报告](ranorex-studio-fundamentals/reporting/report-customization.md)
         * [复杂的自定义](ranorex-studio-fundamentals/reporting/user-defined-reporting.md)
         * [将报告转换为其他数据类型](ranorex-studio-fundamentals/reporting/converting-reports-data-types.md)
-* [Ranorex Studio 专家教程](ranorex-studio-expert/README.md)
-    * [Ranorex Studio 集成开发环境](ranorex-studio-expert/ranorex-studio-ide/README.md)
-        * [调试](ranorex-studio-expert/ranorex-studio-ide/[译]调试.md)
 

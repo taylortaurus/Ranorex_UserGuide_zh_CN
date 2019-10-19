@@ -1,30 +1,49 @@
 # [译] 跟踪UI元素
 
-*原文地址 👉 [Tracking UI-elements][0]*
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2018-9-19*    
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2018年9月19日-green.svg?longCache=true&style=flat-square)
+![](https://img.shields.io/badge/UpdateTime-2019年9月29日-green.svg?longCache=true&style=flat-square)
 
 ---
 
-在桌面、Web端或移动应用程序中检测和识别UI元素是测试的基础。底层方法—跟踪UI元素—为UI元素分配了唯一的标识符(即RanoreXPath)。虽然UI元素的跟踪通常是由Ranorex软件自动执行的，但是手动执行可能效果更好。因此，本文介绍了所有的跟踪方法。
+自动化的UI测试基于识别UI元素并生成自动化工具可以使用的UI表示，即具有唯一RanoreXPath的存储库项目。在Ranorex Studio中，这是通过跟踪UI元素来完成的。
 
-## 必备知识
+在本章中，我们将解释在Ranorex Studio中跟踪UI元素的不同方法。
 
-在进入本文之前，关于跟踪UI元素的主题有一些有用的知识背景，这些知识可能对你很有价值。
+>**章节预览**              
+跟踪与UI元素，存储库项目，RanoreXPath和Ranorex Spy工具的概念紧密相关。
 
-> **章节预览**  
-> RanoreXPath的概念是控件库项引用的UI元素的唯一位置标识符的基础。在 \> Ranorex Studio advanced \> 👉 [RanoreXPath][1]章节中介绍了相关高级概念。
+>**章节预览**              
+跟踪用于生成存储库项目。资料库中的解释           
+Ranorex Studio基础知识>  [👉存储库][1]。
 
-> **章节预览**  
-> 作为一个独立的工具，Ranorex Spy提供了所有需要的功能来探索和分析桌面和移动应用程序或正在测试的网站，包括他们的控件和UI元素。在 \> Ranorex Studio advanced \> 👉 [Ranorex Spy][2]章节对Ranorex Spy进行了介绍和解释。
+>**章节预览**              
+跟踪可识别AUT中的UI元素，并根据它们生成存储库项目。UI元素的工作方式在
 
-> **章节预览**  
-> UI元素的基本知识集中在一个单独的章节中。在 \> Ranorex Studio advanced \> 👉 [UI-elements][3]。
+Ranorex Studio高级>  [👉UI元素][2]。
 
+>**章节预览**              
+Ranorex Spy提供了探索AUT并识别其UI元素所需的功能。它在
+
+Ranorex Studio高级>  [👉Ranorex Spy][3]。
+
+>**章节预览**              
+Ranorex Studio使用RanoreXPath识别由存储库项目表示的UI元素。这个概念在
+
+Ranorex Studio高级>  [👉RanoreXPath][4]。
+
+
+---
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[记录跟踪👉][5]
   
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-advanced/tracking-ui-elements/introduction/
-[1]: ..\\RanoreXPath/introduction.html
-[2]: ..\\Ranorex_Spy/introduction.html
-[3]: ..\\UI-elements/introduction.html
+[1]: ..\\..\\ranorex-studio-fundamentals\repository/introduction.html
+
+[2]: ..\\..\\ranorex-studio-advanced\UI-elements/introduction.html
+[3]: ..\\..\\ranorex-studio-advanced\Ranorex_Spy/introduction.html
+[4]: ..\\..\\ranorex-studio-advanced\ranorexpath/introduction.html
+[5]: .\track-by-recording.html

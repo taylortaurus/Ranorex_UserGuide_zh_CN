@@ -1,72 +1,88 @@
 # [译] 录制追踪
 
-*原文地址 👉 [Track by recording][0]*
 
-*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
-*♋ translate time : 2018-9-19*    
+[![](https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&style=flat-square)][0]  
+
+[![](https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&style=flat-square)](https://github.com/taylortaurus) 
+![](https://img.shields.io/badge/TranslateTime-2018年9月19日-green.svg?longCache=true&style=flat-square)
+![](https://img.shields.io/badge/UpdateTime-2019年9月29日-green.svg?longCache=true&style=flat-square)
 
 ---
 
-通过录制进行跟踪是在测试用例录制期间跟踪UI元素的常规方法。虽然这个默认的跟踪方法已经在许多基础章节中使用过，但是为了完整起见，在这里解释一下。
 
-**本章导视，章节内段落跳转推荐使用右上角的锚点！**
+在Ranorex Studio中录制测试步骤时，会自动跟踪UI元素，因此在对它们执行操作时会被标识。这是通过录制进行跟踪。如果您已阅读Ranorex Studio基础知识中的各章，则您应该已经熟悉此方法。我们将通过一个简单的示例在此页面上再次对其进行快速浏览。
+
+
+**本章导视**
 
 - [测试示例定义](#测试示例定义)
-- [录制追踪](#录制追踪)
-- [录制追踪结果](#录制追踪结果)
-- [追踪机制](#追踪机制)  
+- [录制跟踪](#录制跟踪)
+- [结果](#结果)
+- [通过录制进行跟踪的跟踪机制](#通过录制进行跟踪的跟踪机制)
+
+
+
+**视频向导**
+>视频“按录制跟踪”将带您了解本章中的信息。                  
+[立即观看](https://www.youtube.com/embed/eUBubjWEzZY)
 
 ## 测试示例定义
+为了解释通过录制进行跟踪，我们将在Ranorex Studio演示应用程序的Test数据库中录制对UI元素的单击。
 
-为了解释通过录制跟踪UI元素的概念，定义了一个简单的测试示例。所有必要的测试功能都是在演示应用程序的数据库工作环境中实现的。
+![B3020-0000010](https://www.ranorex.com/rx-media/rx-user-guide/v9.1/B30/B3020-0000010.png)
 
-![B3020-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TrackingUIEments/B3020-0000010.png)  
-*录制追踪--测试示例定义*  
 
-1. 看到演示应用程序的Test database register选项卡
-2. 测试示例的数据库工作环境
+1. 演示应用程序中的“测试数据库”选项卡。
 
-## 录制追踪
+2. 测试数据库的工作环境。
 
-现在让我们看看如何通过录制跟踪是如何实际工作的。
+## 录制跟踪
+现在，让我们看看通过录制进行跟踪的实际方式。
 
-### 操作
+1. 启动演示应用程序，然后单击 “测试数据库”选项卡。
 
-1. 启动演示应用程序并选择测试数据库工作环境
-2. 启动Ranorex Studio并使用有意义的名称打开一个新的测试解决方案
+2. 启动 Ranorex Studio并创建一个新的空白解决方案。
 
-    ![B3020-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TrackingUIEments/B3020-0000020.png)  
-    *开始实时录制演示程序*  
+3. 打开默认的录制模块，然后单击RECORD。
 
-3. 在Ranorex Studio的录制器视图中单击`RECORD`按钮
-4. 选择`Instant records`记录已经启动的演示应用程序
+4. Ranorex Studio消失，并出现Recorder控制中心，表明正在录制。
 
-    ![B3020-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TrackingUIEments/B3020-0000030.png)  
-    *追东演示程序的一个单选按钮*  
+![B3020-0000020](https://www.ranorex.com/rx-media/rx-user-guide/v9.1/B30/B3020-0000020.png)
 
-5. 一旦Studio开始录制，单击演示程序中的`Female radio button`
-6. 在录制器控制中心单击`STOP`并结束记录
+5. 在“测试数据库”选项卡中，单击 “ 女性”单选按钮。
 
-## 录制追踪结果
+![B3020-0000030](https://www.ranorex.com/rx-media/rx-user-guide/v9.1/B30/B3020-0000030.png)
 
-录制结束后，打开Ranorex Studio工作环境，显示动作列表和当前控件库的录制器视图。  
 
-![B3020-0000040](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TrackingUIEments/B3020-0000040.png)  
-*录制追踪--动作列表*  
+6. 单击“录制器”控制中心中的“停止”。
 
-1. 鼠标单击操作，表示对引用控件库项`RdbFemale`的女性单选按钮的单击
+## 结果
+停止录制后，Ranorex Studio将显示带有操作表和当前控件库的录制模块视图。
 
-![B3020-0000050](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/TrackingUIEments/B3020-0000050.png)  
-*录制追踪--控件库*  
+![B3020-0000040](https://www.ranorex.com/rx-media/rx-user-guide/v9.1/B30/B3020-0000040.png)
 
-1. 控件库包含对UI-element单选按钮的跟踪和识别引用，并将控件库项命名为`RdbFemale`
-2. 除了名称之外，还存储了一个惟一的标识符(所谓的RanoreXPath)。这个标识符指定GUI中对应的UI元素的位置，并帮助惟一地标识和描述ui元素
+1. 链接到代表女性单选按钮的控件库项目RdbFemale的鼠标单击操作。
 
-## 追踪机制
+![B3020-0000050](https://www.ranorex.com/rx-media/rx-user-guide/v9.1/B30/B3020-0000050.png)
 
-- 在记录鼠标点击时，跟踪用户输入、鼠标移动(如果激活)和其他用户交互
-- Ranorex标识相应的ui元素，并将它们以内部表示形式存储为控件库项
-- 通常，每个UI元素只被控件库中的一个控件库项引用
-- Ranorex可以识别用户界面元素是否多次使用，然后重用已识别的控件库项
+
+
+2. 控件库包含控件库项目RdbFemale。该控件库项目代表“女性”单选按钮，是跟踪过程的结果。
+
+3. 控件库项目的RanoreXPath。此路径标识UI元素在AUT的UI中的位置。
+
+## 通过录制进行跟踪的跟踪机制
+
+- 在录制时，Ranorex Studio监视用户与UI的交互并自动跟踪UI元素。
+- 发生用户交互时，Ranorex Studio会识别目标UI元素并将其存储为控件库项，该控件库项是UI元素的表示。
+- 通常，一个控件库项代表一个UI元素。
+- Ranorex Studio识别何时多次使用UI元素，然后重用相应的控件库项目。
+
+---
+
+[👈简介][1]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[跟踪按钮👉][2]
+
 
 [0]: https://www.ranorex.com/help/latest/ranorex-studio-advanced/tracking-ui-elements/track-by-recording/
+[1]:.\introduction.html
+[2]:.\track-button.html
