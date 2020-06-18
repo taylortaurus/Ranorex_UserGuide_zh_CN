@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /gitbook/
+Disallow: /seo/
+Disallow: /styles/
+
+Sitemap: https://ranorex.xyz/sitemap.xml

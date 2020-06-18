@@ -1,0 +1,1396 @@
+
+<!DOCTYPE HTML>
+<html lang="zh-hans" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>调用动作 · Ranorx User Guide 中文版</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        <meta name="author" content="Ranorex GmbH">
+        
+        
+    
+    <link rel="stylesheet" href="../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-splitter/splitter.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-expandable-chapters-small/expandable-chapters-small.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-anchors/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-donate/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-anchor-navigation-ex/style/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-search-plus/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-page-footer-ex/style/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-prism/prism-xonokai.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../../styles/website.css">
+        
+    
+
+        
+    
+    
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="user-code-actions.html" />
+    
+    
+    <link rel="prev" href="action-properties.html" />
+    
+
+    
+        <link rel="shortcut icon" href='../../source/images/favicon.png' type="image/x-icon">
+    
+    
+        <link rel="bookmark" href='../../source/images/favicon.png' type="image/x-icon">
+    
+    
+        <link rel="apple-touch-icon" href='../../source/images/apple-touch-icon.png'>
+    
+    
+        
+        <link rel="apple-touch-icon" sizes="120x120" href="../../source/images/apple-touch-icon_120.png">
+        
+        <link rel="apple-touch-icon" sizes="180x180" href="../../source/images/apple-touch-icon_180.png">
+        
+    
+
+    <style>
+    @media only screen and (max-width: 640px) {
+        .book-header .hidden-mobile {
+            display: none;
+        }
+    }
+    </style>
+    <script>
+        window["gitbook-plugin-github-buttons"] = {"buttons":[{"user":"TaylorTaurus","repo":"Ranorex_UserGuide_zh_CN","type":"star","size":"small","count":true}]};
+    </script>
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="输入并搜索" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+    
+        
+        <li>
+            <a href="https://taylortaurus.top/" target="_blank" class="custom-link">TaylorTaurus' Site</a>
+        </li>
+    
+        
+        <li>
+            <a href="https://blog.taylortaurus.top/" target="_blank" class="custom-link">TaylorTaurus' Blog</a>
+        </li>
+    
+    
+
+    
+    <li class="divider"></li>
+    
+
+    
+        
+        <li class="header">前言</li>
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../../">
+            
+                <a href="../../">
+            
+                    
+                        <b>1.1.</b>
+                    
+                    关于本书
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">开始使用 Ranorex Studio</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                        <b>2.1.</b>
+                    
+                    Ranorex Studio 基础教程
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.1" data-path="../ranorize-20-minutes/">
+            
+                <a href="../ranorize-20-minutes/">
+            
+                    
+                        <b>2.1.1.</b>
+                    
+                    在20分钟内了解 Ranorex
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.1.1" data-path="../ranorize-20-minutes/introduction.html">
+            
+                <a href="../ranorize-20-minutes/introduction.html">
+            
+                    
+                        <b>2.1.1.1.</b>
+                    
+                    介绍
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.1.2" data-path="../ranorize-20-minutes/1-download-install-ranorex-studio.html">
+            
+                <a href="../ranorize-20-minutes/1-download-install-ranorex-studio.html">
+            
+                    
+                        <b>2.1.1.2.</b>
+                    
+                    下载并安装RanorexStudio
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.1.3" data-path="../ranorize-20-minutes/3-plan-first-test.html">
+            
+                <a href="../ranorize-20-minutes/3-plan-first-test.html">
+            
+                    
+                        <b>2.1.1.3.</b>
+                    
+                    规划你的首个测试
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.1.4" data-path="../ranorize-20-minutes/2-create-new-solution.html">
+            
+                <a href="../ranorize-20-minutes/2-create-new-solution.html">
+            
+                    
+                        <b>2.1.1.4.</b>
+                    
+                    创建一个新的解决方案
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.1.5" data-path="../ranorize-20-minutes/4-record-first-test.html">
+            
+                <a href="../ranorize-20-minutes/4-record-first-test.html">
+            
+                    
+                        <b>2.1.1.5.</b>
+                    
+                    录制你的首个测试
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.1.6" data-path="../ranorize-20-minutes/5-analyze-recording.html">
+            
+                <a href="../ranorize-20-minutes/5-analyze-recording.html">
+            
+                    
+                        <b>2.1.1.6.</b>
+                    
+                    分析你的录制动作
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.1.7" data-path="../ranorize-20-minutes/6-run-test-check-report.html">
+            
+                <a href="../ranorize-20-minutes/6-run-test-check-report.html">
+            
+                    
+                        <b>2.1.1.7.</b>
+                    
+                    运行测试并检查报告
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.1.8" data-path="../ranorize-20-minutes/summary.html">
+            
+                <a href="../ranorize-20-minutes/summary.html">
+            
+                    
+                        <b>2.1.1.8.</b>
+                    
+                    总结
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.2" data-path="../ranorex-studio/">
+            
+                <a href="../ranorex-studio/">
+            
+                    
+                        <b>2.1.2.</b>
+                    
+                    Ranorex Studio
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.2.1" data-path="../ranorex-studio/introduction.html">
+            
+                <a href="../ranorex-studio/introduction.html">
+            
+                    
+                        <b>2.1.2.1.</b>
+                    
+                    介绍
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.2.2" data-path="../ranorex-studio/ranorex-studio-startpage.html">
+            
+                <a href="../ranorex-studio/ranorex-studio-startpage.html">
+            
+                    
+                        <b>2.1.2.2.</b>
+                    
+                    RanorexStudio起始页
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.2.3" data-path="../ranorex-studio/sample-projects.html">
+            
+                <a href="../ranorex-studio/sample-projects.html">
+            
+                    
+                        <b>2.1.2.3.</b>
+                    
+                    示例项目
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.2.4" data-path="../ranorex-studio/creating-new-solution.html">
+            
+                <a href="../ranorex-studio/creating-new-solution.html">
+            
+                    
+                        <b>2.1.2.4.</b>
+                    
+                    创建新的解决方案
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.2.5" data-path="../ranorex-studio/creating-new-test-project.html">
+            
+                <a href="../ranorex-studio/creating-new-test-project.html">
+            
+                    
+                        <b>2.1.2.5.</b>
+                    
+                    创建一个新的测试项目
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.2.6" data-path="../ranorex-studio/working-environments-views.html">
+            
+                <a href="../ranorex-studio/working-environments-views.html">
+            
+                    
+                        <b>2.1.2.6.</b>
+                    
+                    工作环境和视图
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3" data-path="../ranorex-recorder/">
+            
+                <a href="../ranorex-recorder/">
+            
+                    
+                        <b>2.1.3.</b>
+                    
+                    Ranorex 录制器
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.3.1" data-path="../ranorex-recorder/introduction.html">
+            
+                <a href="../ranorex-recorder/introduction.html">
+            
+                    
+                        <b>2.1.3.1.</b>
+                    
+                    介绍
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3.2" data-path="../ranorex-recorder/before-you-start-recording.html">
+            
+                <a href="../ranorex-recorder/before-you-start-recording.html">
+            
+                    
+                        <b>2.1.3.2.</b>
+                    
+                    你开始录制之前
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3.3" data-path="../ranorex-recorder/recording-a-test.html">
+            
+                <a href="../ranorex-recorder/recording-a-test.html">
+            
+                    
+                        <b>2.1.3.3.</b>
+                    
+                    录制一个测试
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3.4" data-path="../ranorex-recorder/analyzing-recordings.html">
+            
+                <a href="../ranorex-recorder/analyzing-recordings.html">
+            
+                    
+                        <b>2.1.3.4.</b>
+                    
+                    分析录制
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3.5" data-path="../ranorex-recorder/run-debug-recordings.html">
+            
+                <a href="../ranorex-recorder/run-debug-recordings.html">
+            
+                    
+                        <b>2.1.3.5.</b>
+                    
+                    运行和调试录制
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3.6" data-path="../ranorex-recorder/managing-recording-modules.html">
+            
+                <a href="../ranorex-recorder/managing-recording-modules.html">
+            
+                    
+                        <b>2.1.3.6.</b>
+                    
+                    管理录制模块
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3.7" data-path="../ranorex-recorder/recorder-hotkeys.html">
+            
+                <a href="../ranorex-recorder/recorder-hotkeys.html">
+            
+                    
+                        <b>2.1.3.7.</b>
+                    
+                    录制器控制中心和热键
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.4" data-path="../test-suite/">
+            
+                <a href="../test-suite/">
+            
+                    
+                        <b>2.1.4.</b>
+                    
+                    测试套件
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.4.1" data-path="../test-suite/introduction.html">
+            
+                <a href="../test-suite/introduction.html">
+            
+                    
+                        <b>2.1.4.1.</b>
+                    
+                    介绍
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.4.2" data-path="../test-suite/test-suite-structure-elements.html">
+            
+                <a href="../test-suite/test-suite-structure-elements.html">
+            
+                    
+                        <b>2.1.4.2.</b>
+                    
+                    测试套件结构
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.4.3" data-path="../test-suite/build-a-test.html">
+            
+                <a href="../test-suite/build-a-test.html">
+            
+                    
+                        <b>2.1.4.3.</b>
+                    
+                    建立一个测试
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.4.4" data-path="../test-suite/running-tests.html">
+            
+                <a href="../test-suite/running-tests.html">
+            
+                    
+                        <b>2.1.4.4.</b>
+                    
+                    执行测试套件
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.4.5" data-path="../test-suite/multiple-testsuites.html">
+            
+                <a href="../test-suite/multiple-testsuites.html">
+            
+                    
+                        <b>2.1.4.5.</b>
+                    
+                    管理多个测试套件
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5" data-path="./">
+            
+                <a href="./">
+            
+                    
+                        <b>2.1.5.</b>
+                    
+                    动作
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.5.1" data-path="introduction.html">
+            
+                <a href="introduction.html">
+            
+                    
+                        <b>2.1.5.1.</b>
+                    
+                    介绍
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5.2" data-path="actions-repository-items.html">
+            
+                <a href="actions-repository-items.html">
+            
+                    
+                        <b>2.1.5.2.</b>
+                    
+                    动作和控件库项
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5.3" data-path="managing-actions.html">
+            
+                <a href="managing-actions.html">
+            
+                    
+                        <b>2.1.5.3.</b>
+                    
+                    管理动作
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5.4" data-path="action-properties.html">
+            
+                <a href="action-properties.html">
+            
+                    
+                        <b>2.1.5.4.</b>
+                    
+                    动作属性
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="2.1.5.5" data-path="invoking-actions.html">
+            
+                <a href="invoking-actions.html">
+            
+                    
+                        <b>2.1.5.5.</b>
+                    
+                    调用动作
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5.6" data-path="user-code-actions.html">
+            
+                <a href="user-code-actions.html">
+            
+                    
+                        <b>2.1.5.6.</b>
+                    
+                    用户代码动作
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.6" data-path="../repository/">
+            
+                <a href="../repository/">
+            
+                    
+                        <b>2.1.6.</b>
+                    
+                    控件库
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.6.1" data-path="../repository/introduction.html">
+            
+                <a href="../repository/introduction.html">
+            
+                    
+                        <b>2.1.6.1.</b>
+                    
+                    介绍
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.6.2" data-path="../repository/repository-items-actions.html">
+            
+                <a href="../repository/repository-items-actions.html">
+            
+                    
+                        <b>2.1.6.2.</b>
+                    
+                    控件库项目和动作
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.6.3" data-path="../repository/creation-repository-items.html">
+            
+                <a href="../repository/creation-repository-items.html">
+            
+                    
+                        <b>2.1.6.3.</b>
+                    
+                    创建控件库项目
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.6.4" data-path="../repository/managing-repository-items.html">
+            
+                <a href="../repository/managing-repository-items.html">
+            
+                    
+                        <b>2.1.6.4.</b>
+                    
+                    管理控件库项目
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.6.5" data-path="../repository/structuring-repository-items.html">
+            
+                <a href="../repository/structuring-repository-items.html">
+            
+                    
+                        <b>2.1.6.5.</b>
+                    
+                    构建控件库项目
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.6.6" data-path="../repository/repository-cleanup.html">
+            
+                <a href="../repository/repository-cleanup.html">
+            
+                    
+                        <b>2.1.6.6.</b>
+                    
+                    清理控件库
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.6.7" data-path="../repository/Represent-multiple-elements-with-a-single-repository-item.html">
+            
+                <a href="../repository/Represent-multiple-elements-with-a-single-repository-item.html">
+            
+                    
+                        <b>2.1.6.7.</b>
+                    
+                    使用多个控件库表示多个元素
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.6.8" data-path="../repository/Manage-multiple-repositories.html">
+            
+                <a href="../repository/Manage-multiple-repositories.html">
+            
+                    
+                        <b>2.1.6.8.</b>
+                    
+                    管理多个控件库
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.6.9" data-path="../repository/embedded-repositories.html">
+            
+                <a href="../repository/embedded-repositories.html">
+            
+                    
+                        <b>2.1.6.9.</b>
+                    
+                    嵌入控件库
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.7" data-path="../test-validation/">
+            
+                <a href="../test-validation/">
+            
+                    
+                        <b>2.1.7.</b>
+                    
+                    测试验证
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.7.1" data-path="../test-validation/introduction.html">
+            
+                <a href="../test-validation/introduction.html">
+            
+                    
+                        <b>2.1.7.1.</b>
+                    
+                    介绍
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.7.2" data-path="../test-validation/text-based-validation-example.html">
+            
+                <a href="../test-validation/text-based-validation-example.html">
+            
+                    
+                        <b>2.1.7.2.</b>
+                    
+                    基于文本的验证示例
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.7.3" data-path="../test-validation/attribute-based-validation-example.html">
+            
+                <a href="../test-validation/attribute-based-validation-example.html">
+            
+                    
+                        <b>2.1.7.3.</b>
+                    
+                    基于属性的验证示例
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.7.4" data-path="../test-validation/image-based-validation-example.html">
+            
+                <a href="../test-validation/image-based-validation-example.html">
+            
+                    
+                        <b>2.1.7.4.</b>
+                    
+                    基于图像的验证示例
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.7.5" data-path="../test-validation/validation-tool-tips.html">
+            
+                <a href="../test-validation/validation-tool-tips.html">
+            
+                    
+                        <b>2.1.7.5.</b>
+                    
+                    验证工具提示
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.8" data-path="../whitelisting/">
+            
+                <a href="../whitelisting/">
+            
+                    
+                        <b>2.1.8.</b>
+                    
+                    白名单
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.8.1" data-path="../whitelisting/whitelisting.html">
+            
+                <a href="../whitelisting/whitelisting.html">
+            
+                    
+                        <b>2.1.8.1.</b>
+                    
+                    白名单
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9" data-path="../reporting/">
+            
+                <a href="../reporting/">
+            
+                    
+                        <b>2.1.9.</b>
+                    
+                    报告
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.9.1" data-path="../reporting/introduction.html">
+            
+                <a href="../reporting/introduction.html">
+            
+                    
+                        <b>2.1.9.1.</b>
+                    
+                    介绍
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.2" data-path="../reporting/actions-and-the-report.html">
+            
+                <a href="../reporting/actions-and-the-report.html">
+            
+                    
+                        <b>2.1.9.2.</b>
+                    
+                    动作和报告
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.3" data-path="../reporting/concept-report-levels-2.html">
+            
+                <a href="../reporting/concept-report-levels-2.html">
+            
+                    
+                        <b>2.1.9.3.</b>
+                    
+                    报告等级
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.4" data-path="../reporting/ranorex-standard-reporting.html">
+            
+                <a href="../reporting/ranorex-standard-reporting.html">
+            
+                    
+                        <b>2.1.9.4.</b>
+                    
+                    Ranorex标准报告
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.5" data-path="../reporting/report-customization.html">
+            
+                <a href="../reporting/report-customization.html">
+            
+                    
+                        <b>2.1.9.5.</b>
+                    
+                    定制化报告
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.6" data-path="../reporting/user-defined-reporting.html">
+            
+                <a href="../reporting/user-defined-reporting.html">
+            
+                    
+                        <b>2.1.9.6.</b>
+                    
+                    复杂的自定义
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.9.7" data-path="../reporting/converting-reports-data-types.html">
+            
+                <a href="../reporting/converting-reports-data-types.html">
+            
+                    
+                        <b>2.1.9.7.</b>
+                    
+                    将报告转换为其他数据类型
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            本书使用 GitBook 发布
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="../.." >调用动作</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div class="search-plus" id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <div id="anchor-navigation-ex-navbar"><i class="fa fa-navicon"></i><ul><li><span class="title-icon "></span><a href="#&#x8BD1;-&#x8C03;&#x7528;&#x52A8;&#x4F5C;"><b></b>[&#x8BD1;] &#x8C03;&#x7528;&#x52A8;&#x4F5C;</a></li><ul><li><span class="title-icon "></span><a href="#&#x5355;&#x51FB;&#x7B80;&#x5355;&#x6309;&#x94AE;"><b></b>&#x5355;&#x51FB;&#x7B80;&#x5355;&#x6309;&#x94AE;</a></li><ul><li><span class="title-icon "></span><a href="#&#x7ED3;&#x679C;&#xFF1A;"><b></b>&#x7ED3;&#x679C;&#xFF1A;</a></li></ul><li><span class="title-icon "></span><a href="#&#x5217;&#x51FA;&#x9879;&#x76EE;&#x9009;&#x62E9;"><b></b>&#x5217;&#x51FA;&#x9879;&#x76EE;&#x9009;&#x62E9;</a></li><ul><li><span class="title-icon "></span><a href="#&#x7ED3;&#x679C;&#xFF1A;_1"><b></b>&#x7ED3;&#x679C;&#xFF1A;</a></li></ul></ul></ul></div><a href="#&#x8BD1;-&#x8C03;&#x7528;&#x52A8;&#x4F5C;" id="anchorNavigationExGoTop"><i class="fa fa-arrow-up"></i></a><h1 id="&#x8BD1;-&#x8C03;&#x7528;&#x52A8;&#x4F5C;"><a name="&#x8BD1;-&#x8C03;&#x7528;&#x52A8;&#x4F5C;" class="anchor-navigation-ex-anchor" href="#&#x8BD1;-&#x8C03;&#x7528;&#x52A8;&#x4F5C;"><i class="fa fa-link" aria-hidden="true"></i></a><a name="&#x8BD1;-&#x8C03;&#x7528;&#x52A8;&#x4F5C;" class="plugin-anchor" href="#&#x8BD1;-&#x8C03;&#x7528;&#x52A8;&#x4F5C;"><i class="fa fa-link" aria-hidden="true"></i></a>[&#x8BD1;] &#x8C03;&#x7528;&#x52A8;&#x4F5C;</h1>
+<p><a href="https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/actions/invoking-actions/" target="_blank"><img src="https://img.shields.io/badge/OfficialPage-ClickMe-blue.svg?longCache=true&amp;style=flat-square" alt=""></a>  </p>
+<p><a href="https://github.com/taylortaurus" target="_blank"><img src="https://img.shields.io/badge/Translator-TaylorTaurus-42B983.svg?longCache=true&amp;style=flat-square" alt=""></a> 
+<img src="https://img.shields.io/badge/TranslateTime-2019&#x5E74;9&#x6708;9&#x65E5;-green.svg?longCache=true&amp;style=flat-square" alt=""></p>
+<hr>
+<p>Invoke&#x52A8;&#x4F5C;&#x5141;&#x8BB8;&#x60A8;&#x5BF9;&#x63A7;&#x4EF6;&#x5E93;&#x9879;&#x6267;&#x884C;&#x52A8;&#x4F5C;&#xFF0C;&#x800C;&#x65E0;&#x9700;&#x4EFB;&#x4F55;&#x76F4;&#x63A5;&#x4EA4;&#x4E92;&#xFF0C;&#x5982;&#x9F20;&#x6807;&#x5355;&#x51FB;&#x6216;&#x952E;&#x76D8;&#x8F93;&#x5165;&#x3002;&#x8FD9;&#x5BF9;&#x4E8E;&#x52A8;&#x4F5C;&#x4E0D;&#x53EF;&#x89C1;&#x7684; UI&#x5143;&#x7D20;&#x7279;&#x522B;&#x6709;&#x7528;&#xFF0C;&#x4F8B;&#x5982;&#x5931;&#x7126;&#x7684;&#x7A97;&#x53E3;&#x6216;&#x9700;&#x8981;&#x6EDA;&#x52A8;&#x7684;&#x5217;&#x8868;&#x9879;&#x3002;&#x5728;&#x672C;&#x7AE0;&#x4E2D;&#xFF0C;&#x60A8;&#x5C06;&#x901A;&#x8FC7;&#x4E24;&#x4E2A;&#x793A;&#x4F8B;&#x5B66;&#x4E60;&#x5982;&#x4F55;&#x4F7F;&#x7528;Invoke&#x52A8;&#x4F5C;&#x3002;</p>
+<p><strong>&#x672C;&#x7AE0;&#x5BFC;&#x89C6;</strong></p>
+<ul>
+<li><a href="#&#x5355;&#x51FB;&#x7B80;&#x5355;&#x6309;&#x94AE;">&#x5355;&#x51FB;&#x7B80;&#x5355;&#x6309;&#x94AE;</a></li>
+<li><a href="#&#x5217;&#x51FA;&#x9879;&#x76EE;&#x9009;&#x62E9;">&#x5217;&#x51FA;&#x9879;&#x76EE;&#x9009;&#x62E9;</a></li>
+</ul>
+<blockquote>
+<p><strong>&#x89C6;&#x9891;&#x5411;&#x5BFC;</strong><br>&#x89C6;&#x9891;&#x201C;&#x8C03;&#x7528;&#x52A8;&#x4F5C;&#x201D;&#x5C06;&#x5F15;&#x5BFC;&#x60A8;&#x5B8C;&#x6210;&#x672C;&#x7AE0;&#x4E2D;&#x7684;&#x5185;&#x5BB9;&#x3002;<br><a href="https://www.youtube.com/embed/uqGwdcJj9Go" target="_blank">&#x7ACB;&#x5373;&#x89C2;&#x770B;</a></p>
+</blockquote>
+<h2 id="&#x5355;&#x51FB;&#x7B80;&#x5355;&#x6309;&#x94AE;"><a name="&#x5355;&#x51FB;&#x7B80;&#x5355;&#x6309;&#x94AE;" class="anchor-navigation-ex-anchor" href="#&#x5355;&#x51FB;&#x7B80;&#x5355;&#x6309;&#x94AE;"><i class="fa fa-link" aria-hidden="true"></i></a><a name="&#x5355;&#x51FB;&#x7B80;&#x5355;&#x6309;&#x94AE;" class="plugin-anchor" href="#&#x5355;&#x51FB;&#x7B80;&#x5355;&#x6309;&#x94AE;"><i class="fa fa-link" aria-hidden="true"></i></a>&#x5355;&#x51FB;&#x7B80;&#x5355;&#x6309;&#x94AE;</h2>
+<p>&#x5728;&#x6B64;&#x793A;&#x4F8B;&#x4E2D;&#xFF0C;&#x60A8;&#x5C06;&#x4F7F;&#x7528;Invoke&#x52A8;&#x4F5C;&#x6267;&#x884C;&#x7B80;&#x5355;&#x7684;&#x6309;&#x94AE;&#x5355;&#x51FB;&#x3002;&#x4E0B;&#x56FE;&#x4E2D;&#x7684;&#x52A8;&#x4F5C;&#xFF03;1&#x5728;AUT &#x7684;&#x6DFB;&#x52A0;&#x6761;&#x76EE;&#x6309;&#x94AE;&#x4E0A;&#x6267;&#x884C;&#x9F20;&#x6807;&#x5355;&#x51FB;&#x3002;</p>
+<p><img src="https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/actions/A6060-0000010.png" alt="A6060-0000010"><br><em>&#x9F20;&#x6807;&#x5355;&#x51FB;&#x6DFB;&#x52A0;&#x6761;&#x76EE;&#x6309;&#x94AE;&#x4E0A;&#x7684;&#x52A8;&#x4F5C;</em>     </p>
+<p>&#x8981;&#x4F7F;&#x7528;&#x6267;&#x884C;&#x76F8;&#x540C;&#x52A8;&#x4F5C;&#x7684;Invoke&#x52A8;&#x4F5C;&#x66FF;&#x6362;&#x5B83;&#xFF1A;</p>
+<ol>
+<li><p>&#x5355;&#x51FB;<code>Add new action</code>&gt; <code>Invoke action</code>&#x3002;</p>
+</li>
+<li><p>&#x52A8;&#x4F5C;&#x8868;&#x4E2D;&#x5C06;&#x663E;&#x793A;&#x7A7A;&#x7684;Invoke&#x52A8;&#x4F5C;&#x3002;</p>
+</li>
+</ol>
+<p><img src="https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/actions/A6060-0000020.png" alt="A6060-0000020"><br><em>&#x6DFB;&#x52A0;Invoke&#x52A8;&#x4F5C;</em></p>
+<ol>
+<li>&#x4ECE;&#x63A7;&#x4EF6;&#x5E93;&#x4E2D;&#xFF0C;&#x5C06;&#x8868;&#x793A;&#x6DFB;&#x52A0;&#x6761;&#x76EE;&#x6309;&#x94AE;&#x7684;&#x9879;&#x76EE;BtnAddPerson &#x62D6;&#x5230; Invoke&#x52A8;&#x4F5C;&#x3002;</li>
+</ol>
+<p><img src="https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/actions/A6060-0000030.png" alt="A6060-0000030"><br><em>&#x5C06;&#x5B58;&#x63A7;&#x4EF6;&#x9879;&#x94FE;&#x63A5;&#x5230;Invoke&#x52A8;&#x4F5C;</em></p>
+<ol>
+<li>&#x5728;Invoke&#x52A8;&#x4F5C;&#x7684;Action name&#x5217;&#x4E2D;&#xFF0C;&#x9009;&#x62E9; <code>PerformClick&#xFF08;&#xFF09;</code>&#x3002;</li>
+</ol>
+<p><img src="https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/actions/A6060-0000040.png" alt="A6060-0000040"><br><em>&#x6307;&#x5B9A;&#x8C03;&#x7528;&#x52A8;&#x4F5C;&#x7C7B;&#x578B;</em></p>
+<ol>
+<li>&#x6700;&#x540E;&#xFF0C;&#x53F3;&#x952E;&#x5355;&#x51FB;&#x5E38;&#x89C4;&#x9F20;&#x6807;&#x5355;&#x51FB;&#x52A8;&#x4F5C;&#xFF0C;&#x7136;&#x540E;&#x5355;&#x51FB;<code>disable</code>&#x4EE5;&#x7981;&#x7528;&#x5B83;&#x3002;</li>
+</ol>
+<h3 id="&#x7ED3;&#x679C;&#xFF1A;"><a name="&#x7ED3;&#x679C;&#xFF1A;" class="anchor-navigation-ex-anchor" href="#&#x7ED3;&#x679C;&#xFF1A;"><i class="fa fa-link" aria-hidden="true"></i></a><a name="&#x7ED3;&#x679C;&#xFF1A;" class="plugin-anchor" href="#&#x7ED3;&#x679C;&#xFF1A;"><i class="fa fa-link" aria-hidden="true"></i></a><strong>&#x7ED3;&#x679C;&#xFF1A;</strong></h3>
+<p>&#x73B0;&#x5728;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x6267;&#x884C;&#x5355;&#x51FB;<code>Add Entry</code>&#x6309;&#x94AE;&#x800C;&#x65E0;&#x9700;&#x4EFB;&#x4F55;&#x9F20;&#x6807;&#x4EA4;&#x4E92;&#x3002;</p>
+<h2 id="&#x5217;&#x51FA;&#x9879;&#x76EE;&#x9009;&#x62E9;"><a name="&#x5217;&#x51FA;&#x9879;&#x76EE;&#x9009;&#x62E9;" class="anchor-navigation-ex-anchor" href="#&#x5217;&#x51FA;&#x9879;&#x76EE;&#x9009;&#x62E9;"><i class="fa fa-link" aria-hidden="true"></i></a><a name="&#x5217;&#x51FA;&#x9879;&#x76EE;&#x9009;&#x62E9;" class="plugin-anchor" href="#&#x5217;&#x51FA;&#x9879;&#x76EE;&#x9009;&#x62E9;"><i class="fa fa-link" aria-hidden="true"></i></a>&#x5217;&#x51FA;&#x9879;&#x76EE;&#x9009;&#x62E9;</h2>
+<p>&#x81EA;&#x52A8;&#x5217;&#x8868;&#x9879;&#x9009;&#x62E9;&#x53EF;&#x80FD;&#x5177;&#x6709;&#x6311;&#x6218;&#x6027;&#xFF0C;&#x56E0;&#x4E3A;&#x901A;&#x5E38;&#xFF0C;&#x67D0;&#x4E9B;&#x9879;&#x76EE;&#x4E0D;&#x4F1A;&#x7ACB;&#x5373;&#x53EF;&#x89C1;&#x3002;&#x4F7F;&#x7528;Invoke&#x52A8;&#x4F5C;&#x800C;&#x4E0D;&#x662F;&#x5E38;&#x89C4;&#x9F20;&#x6807;&#x4EA4;&#x4E92;&#x901A;&#x5E38;&#x53EF;&#x4EE5;&#x4F7F;&#x60A8;&#x7684;&#x6D4B;&#x8BD5;&#x66F4;&#x52A0;&#x7A33;&#x5065;&#x3002;&#x4E0B;&#x56FE;&#x663E;&#x793A;&#x4E86;&#x4F7F;&#x7528;&#x9F20;&#x6807;&#x5355;&#x51FB;&#x52A8;&#x4F5C;&#x9009;&#x62E9;&#x7684;&#x6807;&#x51C6;&#x5217;&#x8868;&#x9879;&#x3002;</p>
+<p><img src="https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/actions/A6060-0000050.png" alt="A6060-0000050"><br><em>&#x5217;&#x51FA;&#x9879;&#x76EE;&#x9009;&#x62E9;</em></p>
+<p>1.&#x9F20;&#x6807;&#x5355;&#x51FB;&#x52A8;&#x4F5C;&#xFF0C;&#x6253;&#x5F00;<code>Department</code>&#x4E0B;&#x62C9;&#x5217;&#x8868;&#x3002;</p>
+<p>2.&#x9F20;&#x6807;&#x5355;&#x51FB;&#x4ECE;&#x5217;&#x8868;&#x9879;&#x4E2D;&#x9009;&#x62E9;<code>Project Management</code>&#x7684;&#x52A8;&#x4F5C;&#x3002;</p>
+<p>&#x8981;&#x4F7F;&#x7528;Invoke&#x52A8;&#x4F5C;&#x6267;&#x884C;&#x6B64;&#x52A8;&#x4F5C;&#xFF1A;</p>
+<ol>
+<li><p>&#x5355;&#x51FB;<code>Add action</code>&gt; <code>Invoke action</code>&#x4E24;&#x6B21;&#x4EE5;&#x6DFB;&#x52A0;&#x4E24;&#x4E2A;&#x7A7A;Invoke&#x52A8;&#x4F5C;&#x3002;</p>
+</li>
+<li><p>&#x4ECE;&#x7CFB;&#x7EDF;&#x4FE1;&#x606F;&#x5E93;&#xFF0C;&#x62D6;&#x52A8;&#x8BE5;&#x9879;&#x76EE;&#x6253;&#x5F00;&#x4EE3;&#x8868;&#x7684;&#x4E0B;&#x62C9;&#x6309;&#x94AE;&#xFF0C;&#x7B2C;&#x4E00;Invoke&#x52A8;&#x4F5C;&#x3002; &#x4F7F;&#x7528;&#x8868;&#x793A;Project Management&#x5217;&#x8868;&#x9879;&#x7684;ProjectManagement&#x9879;&#x91CD;&#x590D;&#x7B2C;&#x4E8C;&#x6B21;Invoke&#x52A8;&#x4F5C;&#x3002;</p>
+</li>
+<li><p>&#x5728;&#x7B2C;&#x4E00;&#x4E2A;Invoke&#x52A8;&#x4F5C;&#x7684;Action name&#x5217;&#x4E2D;&#xFF0C;&#x9009;&#x62E9;<code>Press&#xFF08;&#xFF09;</code>&#x3002;&#x4F7F;&#x7528;<code>Select&#xFF08;&#xFF09;</code>&#x91CD;&#x590D;&#x7B2C;&#x4E8C;&#x6B21;Invoke&#x52A8;&#x4F5C;&#x3002;
+&#x6700;&#x540E;&#xFF0C;&#x53F3;&#x952E;&#x5355;&#x51FB;&#x5E38;&#x89C4;&#x9F20;&#x6807;&#x5355;&#x51FB;&#x52A8;&#x4F5C;&#xFF0C;&#x7136;&#x540E;&#x5355;&#x51FB;<code>disable</code>&#x4EE5;&#x7981;&#x7528;&#x5B83;&#x4EEC;&#x3002;</p>
+</li>
+</ol>
+<p><img src="https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/actions/A6060-0000060.png" alt="A6060-0000060"><br><em>&#x8C03;&#x7528;&#x5217;&#x8868;&#x9879;&#x9009;&#x62E9;&#x7684;&#x52A8;&#x4F5C;</em></p>
+<h3 id="&#x7ED3;&#x679C;&#xFF1A;_1"><a name="&#x7ED3;&#x679C;&#xFF1A;_1" class="anchor-navigation-ex-anchor" href="#&#x7ED3;&#x679C;&#xFF1A;_1"><i class="fa fa-link" aria-hidden="true"></i></a><a name="&#x7ED3;&#x679C;&#xFF1A;" class="plugin-anchor" href="#&#x7ED3;&#x679C;&#xFF1A;"><i class="fa fa-link" aria-hidden="true"></i></a><strong>&#x7ED3;&#x679C;</strong>&#xFF1A;</h3>
+<ul>
+<li>&#x73B0;&#x5728;&#x76F4;&#x63A5;&#x6267;&#x884C;&#x5217;&#x8868;&#x9879;&#x9009;&#x62E9;&#xFF0C;&#x65E0;&#x9700;&#x4EFB;&#x4F55;&#x9F20;&#x6807;&#x4EA4;&#x4E92;&#x3002;</li>
+</ul>
+<hr>
+<p><a href="action-properties.html">&#x1F448;&#x52A8;&#x4F5C;&#x5C5E;&#x6027;</a>&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;<a href="user-code-actions.html">&#x7528;&#x6237;&#x4EE3;&#x7801;&#x52A8;&#x4F5C;&#x1F449;</a></p>
+<footer class="page-footer-ex"> <span class="page-footer-ex-copyright"> &#xA9; 2018 ranorex.xyz </span> &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; <span class="page-footer-ex-footer-update"> updated: 2020-06-18 </span> </footer>
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="action-properties.html" class="navigation navigation-prev " aria-label="Previous page: 动作属性">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="user-code-actions.html" class="navigation navigation-next " aria-label="Next page: 用户代码动作">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"调用动作","level":"2.1.5.5","depth":3,"next":{"title":"用户代码动作","level":"2.1.5.6","depth":3,"path":"ranorex-studio-fundamentals/actions/user-code-actions.md","ref":"ranorex-studio-fundamentals/actions/user-code-actions.md","articles":[]},"previous":{"title":"动作属性","level":"2.1.5.4","depth":3,"path":"ranorex-studio-fundamentals/actions/action-properties.md","ref":"ranorex-studio-fundamentals/actions/action-properties.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-sharing","splitter","expandable-chapters-small","anchors","github","github-buttons","donate","sharing-plus","anchor-navigation-ex","favicon","-lunr","-search","search-plus","page-footer-ex","sitemap","prism","-highlight","prism-themes","baidu-tongji"],"styles":{"website":"./styles/website.css"},"pluginsConfig":{"prism":{"css":["prism-themes/themes/prism-xonokai.css"]},"github":{"url":"https://github.com/taylortaurus"},"baidu-tongji":{"url":"https://hm.baidu.com/hm.js","token":"275d3dd681b736495349fb18fc0992df"},"page-footer-ex":{"copyright":"© 2018 ranorex.xyz","markdown":true,"update_format":"YYYY-MM-DD","update_label":"updated:"},"splitter":{},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"donate":{"alipay":"https://blog.taylortaurus.top/images/alipay.jpg","alipayText":"支付宝打赏","button":"赏","title":"","wechat":"https://blog.taylortaurus.top/images/wechatpay.jpg","wechatText":"微信打赏"},"fontsettings":{"theme":"white","family":"sans","size":2},"anchor-navigation-ex":{"associatedWithSummary":true,"float":{"floatIcon":"fa fa-navicon","level1Icon":"","level2Icon":"","level3Icon":"","showLevelIcon":false},"mode":"float","multipleH1":true,"pageTop":{"level1Icon":"","level2Icon":"","level3Icon":"","showLevelIcon":false},"printLog":false,"showGoTop":true,"showLevel":false},"favicon":{"shortcut":"./source/images/favicon.png","bookmark":"./source/images/favicon.png","appleTouch":"./source/images/apple-touch-icon.png","appleTouchMore":{"120x120":"./source/images/apple-touch-icon_120.png","180x180":"./source/images/apple-touch-icon_180.png"}},"sitemap":{"hostname":"https://ranorex.xyz/"},"prism-themes":{},"github-buttons":{"buttons":[{"user":"TaylorTaurus","repo":"Ranorex_UserGuide_zh_CN","type":"star","size":"small","count":true}]},"expandable-chapters-small":{},"sharing":{"qq":true,"douban":true,"facebook":false,"weibo":true,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":false,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":true},"anchors":{},"search-plus":{}},"theme":"default","author":"Ranorex GmbH","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Ranorx User Guide 中文版","language":"zh-hans","links":{"sidebar":{"TaylorTaurus' Site":"https://taylortaurus.top/","TaylorTaurus' Blog":"https://blog.taylortaurus.top/"}},"translator":"TaylorTaurus & kissKurisu","gitbook":"3.2.3","description":"Ranorex Studio 用户手册中文版"},"file":{"path":"ranorex-studio-fundamentals/actions/invoking-actions.md","mtime":"2020-06-18T04:54:43.771Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-06-18T04:55:56.357Z"},"basePath":"../..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../../gitbook/gitbook.js"></script>
+    <script src="../../gitbook/theme.js"></script>
+    
+        
+        <script src="../../gitbook/gitbook-plugin-splitter/splitter.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-expandable-chapters-small/expandable-chapters-small.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-github/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-github-buttons/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-donate/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-sharing-plus/buttons.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search-plus/jquery.mark.min.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search-plus/search.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-baidu-tongji/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+

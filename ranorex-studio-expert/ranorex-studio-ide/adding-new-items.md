@@ -1,0 +1,46 @@
+# [译] 添加新项目
+
+*原文地址 👉 [Adding new items][0]*
+
+*@ translator : [TaylorTaurus](https://github.com/taylortaurus)*    
+*♋ translate time : 2018-7-10*    
+*♋ update time : 2018-7-10*  
+
+---   
+
+Ranorex Studio提供了几个不同的模板，可以通过“项目”菜单或“项目浏览器”上下文菜单添加到项目中。
+
+![C5050-0000010](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudioExpert/C5050-0000010.png)  
+*通过“项目”菜单添加新项目*  
+
+![C5050-0000020](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudioExpert/C5050-0000020.png)  
+*通过“Project Explorer”上下文菜单添加新项目*  
+
+![C5050-0000030](https://gitee.com/taylortaurus/RX_UserGuide_GitBook_Picbed/raw/master/RanorexStudioExpert/C5050-0000030.png)  
+*“新建文件”对话框*  
+
+除了Ranorex特定文件之外
+
+- 代码模块
+- 模块组
+- 录制模块
+- 控件库
+
+编程语言特定的文件
+
+- 类文件
+- 接口
+- 结构体
+- 形状
+
+也可以添加下述文件
+
+- 空的资源文件
+- 文本文件
+
+在添加表单之后，可以使用表单设计器来可视化地设计UI，如发表在[SharpDevelopment社区博客][1]上的“[可视化设计表单][2]”一文中明确描述的那样。
+
+
+[0]: https://www.ranorex.com/help/latest/ranorex-studio-expert/ranorex-studio-ide/adding-new-items/
+[1]: http://community.sharpdevelop.net/blogs/
+[2]: http://community.sharpdevelop.net/blogs/mattward/articles/FeatureTourVisuallyDesigningForms.aspx
